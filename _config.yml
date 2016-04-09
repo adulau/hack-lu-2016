@@ -5,7 +5,7 @@ locale: en_US
 description: Hack.lu is an open convention/conference where people can discuss about computer security, privacy, information technology and its cultural/technical implication on society. It's the 12th edition (18-20 October 2016) of hack.lu in Luxembourg.
 logo: site-logo.png
 search: false
-url: http://2016.hack.lu
+url: https://2016.hack.lu
 
 # Jekyll configuration
 
