@@ -1,0 +1,38 @@
+# Site wide configuration
+
+title: Hack.lu 2016
+locale: en_US
+description: Hack.lu is an open convention/conference where people can discuss about computer security, privacy, information technology and its cultural/technical implication on society. It's the 12th edition (18-20 October 2016) of hack.lu in Luxembourg.
+logo: site-logo.png
+search: false
+url: http://2016.hack.lu
+
+# Jekyll configuration
+
+permalink:   /:categories/:title/
+markdown:    kramdown
+highlighter: pygments
+sass:
+  sass_dir: _sass
+  style: compressed
+gems:
+  - jekyll-sitemap
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..2
+  use_coderay: false
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor", "build.sh"]
+
+
+# Site owner
+owner:
+  name:  hack.lu team
+  avatar: bio-photo.jpg
+  email: info@hack.lu
+  disqus-shortname:
+  twitter: hack_lu

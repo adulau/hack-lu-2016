@@ -1,0 +1,22 @@
+---
+layout: page
+title: News
+excerpt: "Hack.lu is an open convention/conference where people can discuss about computer security, privacy, information technology and its cultural/techni
+cal implication on society. It's the 12th edition (18-20 October 2016) of hack.lu in Luxembourg."
+search_omit: true
+---
+
+<ul class="post-list">
+{% for post in site.posts limit:10 %} 
+  <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt }}</span>{% endif %}</a></article></li>
+{% endfor %}
+</ul>
+
+<h2>Organized by</h2>
+<a href="https://www.circl.lu/"><img src="{{ site.url }}/images/logos/circl.png" /></a>
+<h2>Sponsored by</h2>
+
+<h2>CTF Sponsored by</h2>
+<h2>Internet access by</h2>
+<h2>Media sponsors</h2>
+<h2>Community support by</h2>
