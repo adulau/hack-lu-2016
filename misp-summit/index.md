@@ -1,6 +1,6 @@
 ---
 layout: page
-title: MISP Summit 02 Monday 17 October (from 14:00 to 18:00) at hack.lu 2016
+title: MISP Summit #02 - Monday 17 October (from 14:00 to 18:00) at hack.lu 2016
 excerpt: "MISP Summit 01 at hack.lu 2015"
 modified: 2016-03-09T19:44:38.564948-04:00
 ---
@@ -11,7 +11,7 @@ MISP Summit 02
 
 ![MISP logo](https://raw.githubusercontent.com/MISP/MISP/master/INSTALL/logos/misp-logo.png)
 
-On Monday 17 October 2015 from 14:00 to 18:00 (the day before hack.lu), the first [MISP(Malware Information Sharing Platform & Threat Sharing
+On Monday 17 October 2016 from 14:00 to 18:00 (the day before hack.lu), the first [MISP(Malware Information Sharing Platform & Threat Sharing
 )](http://www.misp-project.org/) summit will take place.
 
 
@@ -23,7 +23,7 @@ The objective of the summit is openly discuss about the current usage of MISP, t
 Agenda
 ------
 
-The MISP Summit will take place from 14:00 to 18:00, Monday 19 October 2015.
+The MISP Summit will take place from 14:00 to 18:00, Monday 17 October 2016.
 
 Agenda to be published.
 
