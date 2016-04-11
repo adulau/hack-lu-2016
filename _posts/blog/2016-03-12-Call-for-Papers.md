@@ -12,7 +12,7 @@ date: 2016-03-12T15:39:55-04:00
 
 # Hack.lu 2016 Call for Papers, Presentations and Workshops
 
-`I have never let my schooling interfere with my education.` Mark Twain
+`Nothing is beyond a good hack`
 
 The purpose  of the  hack.lu convention  is to give  an open  and free
 playground   where  people   can  discuss   the  implication   of  new
