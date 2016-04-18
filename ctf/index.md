@@ -49,7 +49,7 @@ remote. Direct your questions to somebody at our booth or on
 
 # Rules
 
-*    Each challenge gives base points (depending on difficulity) + first blood points (for the first three solves).
+*    Each challenge gives base points (depending on difficulty) + first blood points (for the first three solves).
 *    All normal challenges give 100 bonus points at the beginning. Bonus points can decrease during the CTF, depending on the number of solves.
 *    No DoS/automated scans/large amounts of traffic/deleting stuff on our servers.
 *    If you find something that solves too easy it might be a bug. Please report it for possible bonus points.
