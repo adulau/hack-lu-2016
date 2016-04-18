@@ -1,15 +1,15 @@
 ---
 layout: page
 title:  Capture The Flag
-excerpt: "Capture The Flag by FluxFingers during Hack.lu 2015"
-modified: 2015-05-16T19:44:38.564948-04:00
+excerpt: "Capture The Flag by FluxFingers during Hack.lu 2016"
+modified: 2016-04-18T19:44:38.564948-04:00
 image:
   feature: flux.jpg
   credit: Alexandre Dulaunoy
   creditlink: https://www.flickr.com/photos/adulau/8147615053/
 ---
 
-The 2015's CTF will at hack.lu again be held by [FluxFingers](https://www.fluxfingers.net/), the CTF Team of
+The 2016's CTF will at hack.lu again be held by [FluxFingers](https://www.fluxfingers.net/), the CTF Team of
 Ruhr-Universität Bochum (Germany). This will be the sixth hack.lu CTF held by the FluxFingers.
 
 ![FluxFingers logo]({{ site.url }}/images/logos/fluxfingers.jpg)
@@ -22,8 +22,8 @@ Everyone may participate (onsite or offsite). If you want to win the prizes, you
 
 The CTF will take place during the hack.lu conference.
 
-* CTF start is 20.10.2015 10:00 CEST (8:00 UTC)
-* CTF end is 22.10.2015 10:00 CEST (8:00 UTC)
+* CTF start is 18.10.2016 10:00 CEST (8:00 UTC)
+* CTF end is 20.10.2016 10:00 CEST (8:00 UTC)
 
 # Topic
 
