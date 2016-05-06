@@ -22,3 +22,4 @@ Contact
 
 Don't hesitate to contact us at info(AT)hack(DOT)lu if you want to sponsor hack.lu or a propose a specific partnership.
 
+[PDF version]({{ site.baseurl }}/assets/Sponsoring-Hack.lu.pdf)
