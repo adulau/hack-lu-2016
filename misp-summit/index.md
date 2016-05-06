@@ -1,8 +1,8 @@
 ---
 layout: page
 title: MISP Summit #02 - Monday 17 October (from 14:00 to 18:00) at hack.lu 2016
-excerpt: "MISP Summit 01 at hack.lu 2015"
-modified: 2016-03-09T19:44:38.564948-04:00
+excerpt: "MISP Summit 02 at hack.lu 2016"
+modified: 2016-04-09T19:44:38.564948-04:00
 ---
 
 
