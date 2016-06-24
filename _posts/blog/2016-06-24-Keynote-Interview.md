@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Interview with our first Hack.lu 2016 Keynote"
+title: "Interview with our first Hack.lu 2016 Keynote - Quinn Norton"
 modified:
 categories: blog
 excerpt:
@@ -9,6 +9,7 @@ image:
   feature:
 date: 2016-06-24T14:40:55-04:00
 ---
+
 ## Interview with our first Hack.lu 2016 Keynote: Quinn Norton, a journalist of Hackers, Bodies, Technologies and Internets.
 
 * Can you tell us about your background and your work?
