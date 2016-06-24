@@ -27,6 +27,8 @@ This talk is a fun look at a hard issue, how small adversaries and digital liter
 
 ## More about Quinn Norton:
 
+![Quinn Norton]({{ site.url }}/assets/quinn.jpg)
+
 [http://quinnnorton.com](http://quinnnorton.com)
 
 
