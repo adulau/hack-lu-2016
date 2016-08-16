@@ -48,3 +48,6 @@ In general, it is highly recommended to use the app on your phone:
 * [Android](https://play.google.com/store/apps/details?id=de.hafas.android.cdt&hl=en)
 * [IPhone](https://itunes.apple.com/us/app/mobiliteit.lu/id434829995?mt=8)
 
+# Contact
+
+If you need to contact the hack.lu team, please use the email: info(AT)hack(DOT)lu
