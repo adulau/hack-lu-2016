@@ -9,7 +9,7 @@ modified: 2016-04-09T19:44:38.564948-04:00
 MISP Summit 02
 --------------
 
-![MISP logo](https://raw.githubusercontent.com/MISP/MISP/master/INSTALL/logos/misp-logo.png)
+![MISP logo](https://raw.githubusercontent.com/MISP/MISP/2.4/INSTALL/logos/misp-logo.png)
 
 On Monday 17 October 2016 from 14:00 to 18:00 (the day before hack.lu), the second [MISP(Malware Information Sharing Platform & Threat Sharing
 )](http://www.misp-project.org/) summit will take place.
