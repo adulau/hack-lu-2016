@@ -38,5 +38,5 @@ Who
 
 Everyone interested (developers, contributors, users and future users) in the MISP platform is welcome. If you want to present something related to MISP, feel free to get in touch with info(AT)misp-project(DOT)org.
 
-The access to the MISP Summit is free.
+The access to the MISP Summit is free. You just need to [register online](https://www.eventbrite.com/e/misp-summit-ii-tickets-25259946179) (it's only the access to the MISP summit).
 
