@@ -10,3 +10,315 @@ image:
 ---
 
 Talks, workshops and presentations will be published after the [Call for Papers]({{ site.url }}/blog/Call-for-Papers/). Feel free to submit your presentations or researches to be part of the 2016 edition.
+
+
+Talks
+=====
+
+Exploiting and attacking seismological networks... remotely
+-----------------------------------------------------------
+
+In this presentation we are going to explain and demonstrate step by step in a real attack scenario how a remote attacker could elevate privileges in order to take control remotely in a production seismological network located at 183mts under the sea. We found several seismographs in production connected to the public internet providing graphs and data to anyone who connects to the embed web server running at port 80. The seismographs provide real time data based in the perturbations from earth and surroundings, we consider this as a critical infrastructure and is clear the lack of protection and implementation by the technicians in charge.
+
+We are going to present 3 ways to exploit the seismograph which is segmented in 3 parts: Modem (GSM, Wi-Fi, Satellite, GPS,Com serial) {web server running at port 80 , ssh daemon} Sensor (Device collecting the data from ground or ocean bottom) Battery (1 year lifetime) Apollo server (MAIN acquisition core server) These vulnerabilities affect the Modem which is directly connected to the sensor , a remote connection to the modem it's all that you need to compromise the whole seismograph network. After got the root shell our goal is execute a post exploitation attack , This specific attack corrupts/modifies the whole seismological research data of a country/ area in real time. We are going to propose recommendations and best practices based on how to deploy a seismological network in order to avoid this nasty attacks.
+
+Bio: Bertin Bervis Bonilla
+--------------------------
+
+ Is a  researcher in offensive security reverse engineering and network attacks and defense, Bertin has been speaker in several security conferences like DEFCON ,BlackHat ARSENAL, OWASP Latin america Tour , DragonJAR conference ,EKOPARTY and all technical universities in his country .
+He is the founder of NetDB - The Network Database project , a computer fingerprint/certificate driven search engine. Formerly is a network engineer working for a five letters us networking company in San Jose Costa Rica.
+
+Bio: James Jara
+---------------
+
+Is the founder and CTO of NETDB.IO , a search engine of internet of things focused in info-security research. He likes Bitcoin Industry, Open Source and framework development and gave various presentations on security conferences like EkoParty. Interested machine learning for mobile, Internet of Things (IoT) devices and industrial systems used in critical infrastructure networks. Sport-coder!
+
+
+House intercoms attacks: when frontdoors become backdoors
+---------------------------------------------------------
+by Sébastien Dudek
+
+To break into a building, several methods have already been discussed, such as trying to find the code paths of a digicode, clone RFID cards, use some social engineering attacks, or the use of archaic methods like lockpicking a door lock or breaking a window.
+
+New methods are now possible with recent intercoms. Indeed, these intercoms are used to call the tenants to access the building. But little study has been performed on how these boxes communicate to request and grant access to the building.
+
+In the past, they were connected with wires directly to apartments. Now, these are more practical and allow residents to open doors not only from their classic door phone, but to forward calls to their home or mobile phone. Private houses are now equipped with these new devices and its common to find these "connected" intercoms on recent and renovated buildings.
+
+In this presentation we will introduce the Intercoms and focus on one particular devices that is commonly installed in buildings today. Then we will present our analysis on an interesting attack vector, which already has its own history. After this analysis, we will present our environment to test the intercoms, and show some practical attacks and our results that could be performed on these devices. During this talks, the evolution of our mobile lab and some advances on the 3G intercoms attacks will be also presented.
+
+
+Bio: Sébastien Dudek
+--------------------
+
+Sébastien Dudek is a security consultant at Synacktiv. His main fields of interest are radio communication technologies and network and software security. He has been a speaker at NoSuchCon and Hack.lu. He has also contributed for the French magazine MISC and blogged about various security mechanisms.
+
+KillTheHashes 30 million Malware DNA profiling exercise
+-------------------------------------------------------
+by Luciano Martins, Rodrigo Cetera and Javier Bassi
+
+
+Similar to human fingerprints, every malware has its own unique digital fingerprint that differentiates it from others.  As a result, malware will always attempt to hide its true self by deleting or changing this information to avoid detection by antivirus companies and malware researchers.
+
+Doing malware profiling allows malware hunters and analysts to really interrogate the internals of malware and perform searches over a large number of file characteristics. For instance, instead of relying on file-level hashes, we can compute other features such as imported functions, strings, constants, file segments, code regions, or anything that is defined in the file type specification, we had built a software to perform those tasks CodexGigas that provides us with more than 142 possible searchable patterns, that can be combined.
+
+Since malware developers go to great lengths to obfuscate their characteristics, it is often difficult for by researchers and malware analysts to identify multiple characteristics and correlation points.
+
+By analyzing malware internals, the algorithm is able to build characteristic families to which a new sample can be categorized and therefore identified for specific behavior, enabling early detection of new malware by comparing against existing malware.
+
+We will demonstrate the results of our work and the techniques and tool used to derive these results.
+
+
+
+Bio: Luciano Martins
+--------------------
+
+Luciano Martins is a Director in Threat Intel & Analytics at Deloitte. who works in the area of vulnerability assessment, black box testing, personnel training, hacking skills, malware, and strong reverse engineering skills. Luciano has nearly 20 years of experience in security atmosphere. Prior to Deloitte, he founded the USSR LABS research group in Argentina and led it for five years.
+
+Bio: Rodrigo Cetera
+-------------------
+
+Rodrigo Cetera is a security researcher in the Deloitte Argentina team, student of Software and Electronic Engineering at UBA (University of Buenos Aires). C++/Python developer and Electronic Technician. Former science teacher, always fascinated by know how the world works. Rugby fan and amateur guitar player.
+
+Bio: Javier Bassi
+-----------------
+
+Javier Bassi is a security researcher in the Deloitte Argentina team, student of computer engineering at UCA (Universidad Católica Argentina). Angular.js / Python / Ruby on Rails/ Laravel developer and Data visualization with Splunk/D3. Enthusiast of web security and cryptography, evangelizer of Docker.
+
+Unveiling the attack chain of Russian-speaking cybercriminals
+-------------------------------------------------------------
+by Wayne Huang and Sun Huang
+
+Existing research on the Asprox actor has focused primarily on the malware they spread, but little has been published on who they are, how they operate and spread malware, and what resources they own. In this rare talk, we will disclose our many years of deep research on this actor: for example, since their initial operation in 2007, the Asprox gang now owns 2+ billion compromised emails, 2+ million compromised web servers (backdoored with webshells), 0.9+ million compromised SMTP accounts (some of which belong to the US military), 0.4+ million compromised FTP accounts, and SSH access to 1200+ compromised servers.
+We will detail how they’ve evolved into their currently sophisticated infection infrastructure, including their multiple layers of distribution and command-and-control servers, their anti-detection proxy servers, their malware obfuscation tool chain, their means of infecting endpoints, their large scale tool to auto-compromise websites and inject webshells, and their evolution in 2014 to Android malware and mobile botnets.
+We will study statistics such as daily downloads and conversion rate, and will explain their monetization methods within multiple underground economies, and the economics. Finally, we’ll cover how we’ve managed to collect our data, how we analyzed the data, and the many techniques we used in tracking this actor.
+
+Bio: Wayne Huang
+----------------
+
+Wayne Huang was Founder and CEO of Armorize Technologies, and is now VP Engineering at Proofpoint. Huang is a frequent speaker at security conferences, including BlackHat '10, DEFCON '10, RSA '07 '10 '15 ‘16, SteelCon '16, Troopers '16, AusCERT '16, SyScan '08, '09, OWASP '08, '09, Hacks in Taiwan '06 '07, WWW '03 '04, PHP '07 and DSN '04. Into security since 7th grade, he has led teams to develop security products ranging from source code analysis, web application firewall, vulnerability assessment, exploit & malware detection, anti-malvertising, email security, and APT defense. He received his Ph.D. in EE from National Taiwan University, and his B.S. and M.S. in CS from NCTU. He holds two US patents on source code analysis.
+
+Bio: Sun Huang
+--------------
+
+Sun Huang is a Senior Threat Researcher at Proofpoint. He has more than 9 years of experience in information security.  Sun has discovered many Web application 0days, including those of CMS and C2 Panel. Sun has participated in many security contests, and was one of the top 10 researchers in Paypal's 2013 Bug Bounty Wall of Fame. He was also the third place AT&T bug reporter in 2013.  Sun currently holds CCNA, ECSS, CEH, and PMP certifications. Sun has presented at RSA '15 '16, SteelCon '16, Troopers '16, AusCERT '16.
+
+
+Cyber Grand Shellphish: Shellphish and the DARPA Cyber Grand Challenge
+----------------------------------------------------------------------
+by Kevin Borgolte
+
+Autonomous hacking is becoming a reality. Over the last years, DARPA organized the Cyber Grand Challenge (CGC), a security competition in which participants had to develop a system able to automatically exploit and patch binaries without any manual interaction.
+
+We qualified for the final event and fielded our Cyber Reasoning System, the Mechanical Phish, against six other competitors. Our system placed third overall, was the first self-funded team, and the first academic-only team.
+
+In this talk, we introduce Mechanical Phish. We present the challenges we faced and tackled, and the solutions we implemented for them while developing one of the first fully-autonomous hacking systems, which spans over 100,000 lines of code (mostly in Python).
+
+We have open-sourced Mechanical Phish and we demonstrate how it can be used to automatically find bugs, create exploits, and patch vulnerable binaries.
+
+Specifically, Mechanical Phish uses a combination of symbolic execution (powered by angr, the binary analysis platform developed at UC Santa Barbara) and fuzzing to find bugs. From exploitable bugs, it automatically generates proofs of vulnerability to show code execution capabilities. In addition, our system patches existing binaries to make them resilient against known and unknown attacks with negligible performance impact. Finally, given the hardware-setup and the no-human-intervention policy of the Cyber Grand Challenge final event, we will touch on how we designed Mechanical Phish to be extremely realiable, efficient in resource usage, and a fault-tolerant distributed system.
+
+Resources:
+- https://github.com/mechaphish
+- https://github.com/shellphish
+- https://github.com/angr
+
+
+Bio: Kevin Borgolte
+-------------------
+Kevin Borgolte is a PhD candidate in the Computer Science department at UC Santa Barbara. He is an active member of the Shellphish Capture the Flag team, played with them various DEFCON CTFs in the past years, and won third place with some other selected members at the DARPA's Cyber Grand Challenge, which came with a total of $1,500,000 of prize money including the qualification prize. Kevin has also been an organizer of the International Capture the Flag contest, which is being held annually since 2001. Kevin published at top-tier academic security conferences like USENIX Security, ACM CCS, and WWW. In his research, he focuses on data-driven security and spans from web-based malware and threats to cybercrime, the underground economy, and large-scale abuse to adversarial machine learning. He also dabbles in automatic vulnerability discovery and exploitation.
+
+The Metabrik Platform: Rapid Development of Reusable Security Tools
+-------------------------------------------------------------------
+by Patrice Auffret
+
+During the course of a penetration test, a malware analysis, a forensic analysis or a Capture The Flag contest, who has never been in the situation of having to develop
+The Metabrik Platform [1] goal is to normalize how we use tools and how they interoperate together by providing a Platform as a UNIX shell, merged with a Perl REPL interpreter and a virtually infinite number of Briks: small reusable components that just do one task. Learning it is as simple as knowing the five Commands.
+
+You glue Briks together through the Shell. Idea is to have a set of common bricks having their own purpose and connect them to create a new tool or Brik. The more you write Briks, the more complex tasks you will be able to achieve. Many Briks were written from already existing ones and Metabrik itself is written using Briks. In the end, Metabrik is a development platform which brings normalization and weaponization for everyday tools, being new or existing ones.
+
+We will cover forensic::scalpel Brik as an example of improving existing tools by glueing with new Briks. We will then show how we solved a root-me challenge by using just a few Briks. As another example, we will show VM instrumentation for extracting IOCs from malwares. More examples are available on the Web site [1] and newest ones will be presented during the conference thanks to the now more than 200 Briks.
+
+Bio: Patrice Auffret
+--------------------
+
+Patrice Auffret (AKA GomoR) is a senior security expert specialized in network protocols hacking, network discovery and big data analytics.
+
+He is author of multiple Perl modules to craft network packets and analyze responses (Net::Frame framework, SinFP3 OS fingerprinting suite or the OSPF Attack Shell).
+
+He writes articles in French security magazine MISC and speaks at various security conferences including IT Underground 2007, SSTIC 2008, hack.lu 2012, EuSecWest 2012, ekoparty 2012 and SSTIC 2016.
+
+
+2016: The Infosec Crossroads
+----------------------------
+
+"Today's attacks succeed because the defense is reactive". I have been researching attacks and offensive techniques since the past 16 years. As the defenses kept catching up and closing open doors, we attackers looked for new avenues and vectors. This talk looks back on the state of defenses during my days of One-Way Web Hacking in 2001 to Stegosploit in 2016, and a common pattern emerges. Defense boils down to reacting to new attacks and then playing catch-up. It is time to take another look at defense strategy. In this talk I present the basics of what should be the next evolution of pro-active defense architecture.
+
+Bio: Saumil Shah
+----------------
+@therealsaumil
+
+Saumil Shah, is the founder and CEO of Net-Square, providing cutting edge information security services to clients worldwide. Saumil is an internationally recognized conference speaker and instructor for over 15 years. He is also the co-developer of the wildly successful "Exploit Laboratory" courses and authored two books titled "Web Hacking: Attacks and Defense" and "The Anti-Virus Book".
+
+Saumil holds an M.S. in Computer Science from Purdue University, USA and a B.E. in Computer Engineering from Gujarat University. He spends his leisure time playing Pacman, flying kites, traveling around the world and taking pictures.
+
+
+Exploit generation and JavaScript analysis automation with WinDBG
+-----------------------------------------------------------------
+by Fitzl Csaba and Miklos Desbordes-Korcsev
+
+Our presentation will cover two different topics, which will show how easy and powerful is to automate various tasks with WinDBG.
+
+1.  Exploit generation Many people are familiar with scripts which can help during an exploit development. But what if we automate the entire process once we have the bug? In the presentation we will show a tool that can take a POC BoF exploit (which generates a crash / EIP overwrite) and from that it can automatically generate a fully working exploit.
+
+2. JavaScript analysis automation Javascript code deobfuscation always presents a challenge for malware analysts, analysis being time consuming, sometime even anti-debugging techniques make it more difficult. What if we had a mechanism to see into the very core of the JavaScript engine and the DOM and be able to track down what the malware was up do without having to make any changes to the code and without giving the malware a chance to sense a debugger being present? Eval? Document.write? Lambdas? No problem!
+
+
+Bio: Fitzl Csaba
+----------------
+
+Csaba graduated in 2006, at the Budapest University of Technology and Economics as a computer engineer. He worked at Getronics as a Cisco support engineer for two years, and in 2008 he joined ExxonMobil, where he spent his time with designing and supporting global networks for 4 years. In the past four years, he is looking for information security breaches in the company's network, and his area of focus is network forensics and malware analysis. He currently holds several security certifications (OSWP, OSCP, OSCE, OSEE, CEH, ECSA, CHFI, GREM, GMOB, SISE).
+
+Bio: Miklos Desbordes-Korcsev
+----------------------------
+
+Miklos graduated in 1998 from Technical University of Budapest as Electrical Engineer in the field of Robotics. He has 20 years IT experience in application development, application support, system administration, electronic data interchange and cyber security. In the last 9 years he's been working for ExxonMobil in several roles, in the past 2.5 years he's been doing offensive PoC development, malware analysis and breach investigation.
+
+
+Bootstrapping an Architectural Research Platform
+------------------------------------------------
+by Jacob I. Torrey
+
+This talk aims to provide the fundamental architectural knowledge and resources for a security research interested in misuse of the x86 platform to conduct their own research with less “boiler-plate”. Covering the privileges and architectural events that different CPU rings can monitor, a few basic research hypervisors, and new technologies coming into the mainstream; this talk will aid researchers to rapidly focus on the research questions and not the setup.
+
+Bio: Jacob I. Torrey
+--------------------
+
+Jacob Torrey is an Advising Research Engineer at Assured Information Security, Inc. where he leads the Computer Architectures group and acts as the site lead for the Colorado branch. Jacob has worked extensively with low-level x86 and MCU architectures, having written a BIOS, OS, hypervisor and SMM handler. His major interest is how to (mis)use an existing architecture to implement a capability currently beyond the limitations of the architecture. In addition to his research, Jacob volunteers his time organizing conferences in Denver (RMISC & BSidesDenver) and regular meet-ups across the front range. Twitter: @JacobTorrey
+
+Exploiting new default accounts in SAP systems
+----------------------------------------------
+by Joris van de Vis
+
+
+TODO
+
+
+Bio: Joris van de Vis
+---------------------
+
+Joris has got extensive experience in the technical and security field of SAP.  Next to his interest in SAP Coding and SAP Technology, his main interest lies in the field of SAP platform security. He loves Helping business secure their SAP systems and perform SAP security research in his spare time. He reported over 50 vulnerabilities in SAP applications. Joris has got 15+ years of experience working for large SAP running companies and government departments. Joris is co-founder of ERP-SEC, a SAP security focused company based in the Netherlands.
+
+
+
+Credential Assessment: Mapping Privilege Escalation at Scale
+------------------------------------------------------------
+
+In countless intrusions from large retail giants to oil companies, attackers have progressed from initial access to complete network compromise. In the aftermath, much ink is spilt and products are sold on how the attackers first obtained access and how the malware they used could or could not have been detected, while little attention is given to the credentials they found that turned their access on a single-system into thousands more. This process, while critical for offensive operations, is often complex, involving many links in the escalation chain composed of obtaining credentials on system A that grant access to system B and credentials later used on system B that grant further access, etc. We’ll show how to identify and combat such credential exposure at scale with the framework we developed. We comprehensively identify exposed credentials and automatically construct the compromise chains to identify maximal access and privileges gained, useful for either offensive or defensive purposes.
+
+Bio: Matt Weeks
+---------------
+
+Matt Weeks currently leads root9B's research and development arm. As a researcher, he has uncovered a number of major vulnerabilities in various products. He also developed for the Metasploit framework, runs the site http://www.scriptjunkie.us/ and the southwest CCDC regional red team. Previously, he led the USAF's intrusion forensics and reverse engineering lab and the creation of their enterprise hunt teams.
+
+
+Workshops
+=========
+
+Android malware reverse engineering
+-----------------------------------
+by Axelle Apvrille
+
+This workshop explains how to reverse engineer Android malware.
+After some brief explanation, attendees will be provided with a few recent samples such as Android/SpyBanker (May 2016), Android/Xiny (May 2016) or Riskware/InnerSnail (June 2016). They will learn how to reverse those, step by step.
+
+The course will be split in two parts. The first part covers the "basics" - which are sufficient to handle most samples. The second part dives into more advanced consideration such as dealing with obfuscated or packed samples.
+
+Attendees bring their own laptop + install VirtualBox, or docker.
+
+
+Bio: Axelle Apvrille
+--------------------
+
+Axelle Apvrille (@cryptax) is a happy senior researcher at Fortinet. Her research focuses on any strange virus on so-called 'smart' devices, ranging from smartphones to IoT.
+
+She enjoys CTFs, especially at Hack.Lu, among the pic0wn team, though her best achievements are at drawing comic strips about it (http://picolecroco.free.fr/sstic/index.html).
+
+
+Malware Triage IOCs - Using Open Data to Help Develop Robust Indicators
+-----------------------------------------------------------------------
+by Sergei Frankoff and Sean Wilson
+
+Whether you are in the enterprise using malware triage as a gate to your incident response process, or a researcher using triage as a way to identify interesting malware samples, Indicators of Compromise (IOCs) will serve as the feedback loop in your triage process.
+
+As a malware sample makes its way through your triage process the output should be an IOC. Not only will the IOC be used as part of your malware hunting process but it can also be used in future triage to avoid re-analyzing similar samples. The key to an efficient triage process is robust IOCs, the more robust your IOC the more variations of malware it will cover and the less time you will have to spend on re-analyzing similar samples.
+
+We present an iterative approach to building robust malware indicators; first developing primary indicators, then mining open data for related malware samples, using the collection of similar samples to build robust IOCs, and finally testing the IOCs for effectiveness. We will cover multiple free tools that can assist with the use of primary indicators as pivots to mine open data repositories, as well as test the effectiveness of your IOCs. During the presentation we will use real malware samples with demonstrations to walk through each step in the process.
+
+This is not a workshop about IOC formats, it is about the process used to build an IOC. We briefly cover the basics for Yara and OpenIOC but any format can be used with the process we teach.
+
+Key takeaways include;
+
+- familiarization with the use of IOCs in the malware triage process
+- a standardized process for developing robust IOCs
+- exposure to a quiver of free tools useful for indicator pivot searching
+- how to test IOC effectiveness with unknown samples
+
+Equipment you need;
+
+- You must have a computer (preferably a VM) that you are comfortable analyzing malware with, if it is a work computer please check with your IT staff.
+- You must have Administrator/Root privileges and the ability to install software on your computer.
+- You must have the ability to disable any anti-virus software on your computer.
+
+This workshop is aimed at incident responders and malware analysts who have a basic understanding of malware and the malware triage process. However this is not an advanced course and deep knowledge of reverse engineering and malware analysis is NOT required.
+
+Bio: Sergei Frankoff
+--------------------
+Twitter: @herrcore
+
+Sergei Frankoff is a malware researcher and Director of Threat Intelligence at Sentrant. Prior to joining Sentrant Sergei worked as an incident responder and a security analyst. Sergei is a strong believer in taking an open, community approach to combating cyber crime. He actively contributes to open source tools and tries to publish as much as possible. Sergei is also a co-founder of Open Analysis, a collective of malware researchers and incident responders who produce open tools and services to assist with malware analysis.
+
+
+Bio: Sean Wilson
+----------------
+Twitter: @seanmw
+
+Sean is a researcher at PhishMe with experience in malware analysis, incident response and reverse engineering. He is an active contributor to open source security tools focused on incident response and analysis. Prior to PhishMe, Sean worked in a number of incident response and application security roles with a focus on security testing and threat modelling. Sean is also a co-founder of Open Analysis, a collective of malware researchers and incident responders who produce open tools and services to assist with malware analysis. In his free time Sean loves fly fishing.
+
+
+Introduction to Security Onion
+------------------------------
+by David Szili
+
+Security Onion is a Linux distribution based on Ubuntu, designed for security analysts. It contains many security tools such as Snort, Suricata, Bro, OSSEC, Sguil, Squert, ELSA, NetworkMiner, etc. to create a platform for network security monitoring. The unique combination of features and concepts like pivoting from one tool to another one, having different network security monitoring data types (like full packet capture) and the capability to form a distributed sensor architecture make Security Onion one of the most powerful solutions which often outperforms many of the commercial products.
+
+The goal of this introductory workshop is to familiarize the participants with Security Onion, guide them through the first steps of setting it up and start analyzing traffic. The first part of the workshop will be about installing and configuring Security Onion in a Virtual Machine. The next section will be a quick walk-through to the primary interfaces (Squert, Sguil, ELSA), the different NSM data types and pivoting between interfaces and data types. At the end of the workshop, we will take a look at a few exercises and real life case studies, replay traffic and perform analysis using the tools and data types available in Security Onion.
+
+Requirements for the workshop:
+- A laptop with at least 8 GB of RAM and more than 20 GB of free disk space (VT-x support must be enabled on the host system).
+- Application to run Virtual Images (type-2 hypervisor), such as VMWare Workstation (recommended), VMWare Player, VirtualBox or similar software.
+
+Attendees should download the latest Security Onion image in advance from [GitHub](https://github.com/Security-Onion-Solutions/security-onion/blob/master/Verify_ISO.md).
+
+Bio: David Szili
+----------------
+
+David Szili is a freelancer IT Security Consultant with penetration testing, security monitoring, incident response and forensics background, previously working for companies like POST Telecom PSF, Dimension Data and Deloitte.
+
+David has two Master's degrees in Computer Engineering and in Networks and Telecommunication and a Bachelor's degree in Electrical Engineering. He also holds several IT security certifications such as GSEC, GCIA, GCIH, GMON, GMOB, OSCP, OSWP and CEH.
+
+In his spare time, David likes working on hobby electronics projects, develop new IT security tools or sharpen his skills with CTFs and bug bounty programs.
+
+ARM Shellcode Basics
+--------------------
+by Saumil Shah
+
+A 2 hour workshop on writing ARM Shellcode from scratch. I will cover some simple ARM assembly, and then we will work on two shellcode examples. A simple execve() shell and a fully working Reverse Shell. We will then test this with two ARM exploits. Attendees are required to bring in their laptops with a working copy of VMWare (Player/Workstation/Fusion). ARM images running on QEMU will be distributed to the participants.
+
+Bio: Saumil Shah
+----------------
+
+Saumil Shah is the founder and CEO of Net-Square, providing cutting edge information security services to clients worldwide. Saumil is an internationally recognized conference speaker and instructor for over 15 years. He is also the co-developer of the wildly successful "Exploit Laboratory" courses and authored two books titled "Web Hacking: Attacks and Defense" and "The Anti-Virus Book".
+
+Saumil holds an M.S. in Computer Science from Purdue University, USA and a B.E. in Computer Engineering from Gujarat University. He spends his leisure time playing Pacman, flying kites, traveling around the world and taking pictures.
+
+
