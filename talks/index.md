@@ -73,3 +73,34 @@ research, he focuses on data-driven security and spans from web-based malware
 and threats to cybercrime, the underground economy, and large-scale abuse to
 adversarial machine learning. He also dabbles in automatic vulnerability
 discovery and exploitation.
+
+
+WiFi Exploitation: How passive interception leads to active exploitation
+------------------------------------------------------------------------
+by Solomon Sonya
+
+When was the last time you thought to yourself, hmm, I wonder if an attacker is exploiting my smart phone and laptop as a result of merely leaving my WiFi enabled? Or, when did you think: I wonder if a person can create a profile about me and possibly determine where I live, work, and places I have been simply via passive interception of the 802.11x frames beaconed from my devices? Ok, let's go a bit further: when was the last time you realized your smart phone is wirelessly leaking details regarding every network you have stored on your device for everyone to see and when did you ever consider that an attacker could intercept your beacons, establish a rogue AP mimicking exactly what you are looking for, and MiTM your system directly back to the attacker automatically? Do you even know the information your smart phone is constantly broadcasting out via that wireless NIC of yours? 
+
+Welp, if any of these questions take you by surprise, then this talk may be of particular interest to you. I show you exactly how to engineer a distributed sensor network that captures, parses, interprets, and visualizes 802.11x frames/messages in order to build the picture of devices communicating within the sensor mesh. Next, I show how to build the connector agents to resolve GPS location of devices in the area and extracted from your device's broadcasted frames. After this, I'll show you how we interface with Google Map to interactively display the location profiles we create on users intercepted within the area. Finally, we go into carrying out MiTM attacks based on what your devices is requesting to automatically exploit the user without their knowledge. We conclude with enhancements required to better secure your devices from future exploitation.
+
+This talk wouldn't be complete without a brand new tool release! Developing a framework like this is not as difficult or costly as you might think. I'll show you exactly how to do it. And if the coding and parsing of raw 802.11 frames is not your cup of tea, no worries at all. This talk talk releases and demo's a new framework I've built called Theia Sensor Suite that automatically analyzes all of this data and visualizes it for you in a robust GUI and framework. 802.11 exploitation will never go away, so let’s get started!
+
+Bio: Solomon Sonya
+------------------
+missing
+
+[WORKSHOP] Android malware reverse engineering
+----------------------------------------------
+by Axelle Apvrille
+
+This workshop explains how to reverse engineer Android malware. 
+After some brief explanation, attendees will be provided with a few recent samples such as Android/SpyBanker (May 2016), Android/Xiny (May 2016) or Riskware/InnerSnail (June 2016). They will learn how to reverse those, step by step.
+
+The course will be split in two parts. The first part covers the "basics" - which are sufficient to handle most samples. The second part dives into more advanced consideration such as dealing with obfuscated or packed samples.
+
+Attendees bring their own laptop + install VirtualBox, or docker. 
+
+Bio: Axelle Apvrille
+--------------------
+Axelle Apvrille (@cryptax) is a happy senior researcher at Fortinet. Her research focuses on any strange virus on so-called 'smart' devices, ranging from smartphones to IoT.
+She enjoys CTFs, especially at Hack.Lu, among the pic0wn team, though her best achievements are at drawing comic strips about it (http://picolecroco.free.fr/sstic/index.html).
