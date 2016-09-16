@@ -196,3 +196,19 @@ Saumil Shah, is the founder and CEO of Net-Square, providing cutting edge inform
 Saumil holds an M.S. in Computer Science from Purdue University, USA and a B.E. in Computer Engineering from Gujarat University. He spends his leisure time playing Pacman, flying kites, traveling around the world and taking pictures.
 
 Saumil Udayan Shah - CEO, Net-Square - @therealsaumil
+
+Unveiling the attack chain of Russian-speaking cybercriminals
+-------------------------------------------------------------
+by Wayne Huang, Sun Huang
+
+Existing research on the Asprox actor has focused primarily on the malware they spread, but little has been published on who they are, how they operate and spread malware, and what resources they own. In this rare talk, we will disclose our many years of deep research on this actor: for example, since their initial operation in 2007, the Asprox gang now owns 2+ billion compromised emails, 2+ million compromised web servers (backdoored with webshells), 0.9+ million compromised SMTP accounts (some of which belong to the US military), 0.4+ million compromised FTP accounts, and SSH access to 1200+ compromised servers.
+We will detail how they’ve evolved into their currently sophisticated infection infrastructure, including their multiple layers of distribution and command-and-control servers, their anti-detection proxy servers, their malware obfuscation tool chain, their means of infecting endpoints, their large scale tool to auto-compromise websites and inject webshells, and their evolution in 2014 to Android malware and mobile botnets.
+We will study statistics such as daily downloads and conversion rate, and will explain their monetization methods within multiple underground economies, and the economics. Finally, we’ll cover how we’ve managed to collect our data, how we analyzed the data, and the many techniques we used in tracking this actor.
+
+Bio: Wayne Huang
+----------------
+Wayne Huang was Founder and CEO of Armorize Technologies, and is now VP Engineering at Proofpoint. Huang is a frequent speaker at security conferences, including BlackHat '10, DEFCON '10, RSA '07 '10 '15 ‘16, SteelCon '16, Troopers '16, AusCERT '16, SyScan '08, '09, OWASP '08, '09, Hacks in Taiwan '06 '07, WWW '03 '04, PHP '07 and DSN '04. Into security since 7th grade, he has led teams to develop security products ranging from source code analysis, web application firewall, vulnerability assessment, exploit & malware detection, anti-malvertising, email security, and APT defense. He received his Ph.D. in EE from National Taiwan University, and his B.S. and M.S. in CS from NCTU. He holds two US patents on source code analysis.
+
+Bio: Sun Huang
+--------------
+Sun Huang is a Senior Threat Researcher at Proofpoint. He has more than 9 years of experience in information security.  Sun has discovered many Web application 0days, including those of CMS and C2 Panel. Sun has participated in many security contests, and was one of the top 10 researchers in Paypal's 2013 Bug Bounty Wall of Fame. He was also the third place AT&T bug reporter in 2013.  Sun currently holds CCNA, ECSS, CEH, and PMP certifications. Sun has presented at RSA '15 '16, SteelCon '16, Troopers '16, AusCERT '16.
