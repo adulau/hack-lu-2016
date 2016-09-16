@@ -162,3 +162,25 @@ Brian Hofer is a member of the Oakland Privacy Working Group, which formed to
 oppose the DAC. He chaired the DAC ad hoc privacy committee, which has since
 introduced two City Council adopted privacy and data retention policies, along
 with an ordinance making the privacy committee permanent.
+
+
+The Metabrik Platform: Rapid Development of Reusable Security Tools
+-------------------------------------------------------------------
+by Patrice Auffret
+
+During the course of a penetration test, a malware analysis, a forensic analysis or a Capture The Flag contest, who has never been in the situation of having to develop
+The Metabrik Platform [1] goal is to normalize how we use tools and how they interoperate together by providing a Platform as a UNIX shell, merged with a Perl REPL interpreter and a virtually infinite number of Briks: small reusable components that just do one task. Learning it is as simple as knowing the five Commands.
+
+You glue Briks together through the Shell. Idea is to have a set of common bricks having their own purpose and connect them to create a new tool or Brik. The more you write Briks, the more complex tasks you will be able to achieve. Many Briks were written from already existing ones and Metabrik itself is written using Briks. In the end, Metabrik is a development platform which brings normalization and weaponization for everyday tools, being new or existing ones.
+
+We will cover forensic::scalpel Brik as an example of improving existing tools by glueing with new Briks. We will then show how we solved a root-me challenge by using just a few Briks. As another example, we will show VM instrumentation for extracting IOCs from malwares. More examples are available on the Web site [1] and newest ones will be presented during the conference thanks to the now more than 200 Briks.
+
+Bio: Patrice Auffret
+--------------------
+Patrice Auffret (AKA GomoR) is a senior security expert specialized in network protocols hacking, network discovery and big data analytics.
+
+He is author of multiple Perl modules to craft network packets and analyze responses (Net::Frame framework, SinFP3 OS fingerprinting suite or the OSPF Attack Shell).
+
+He writes articles in French security magazine MISC and speaks at various security conferences including IT Underground 2007, SSTIC 2008, hack.lu 2012, EuSecWest 2012, ekoparty 2012 and SSTIC 2016.
+
+
