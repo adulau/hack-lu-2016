@@ -12,6 +12,20 @@ image:
 Talks, workshops and presentations will be published after the [Call for Papers]({{ site.url }}/blog/Call-for-Papers/). Feel free to submit your presentations or researches to be part of the 2016 edition.
 
 
+Keynotes
+========
+
+Stressed out? Denial of service attacks from the providers’ perspective
+-----------------------------------------------------------------------
+
+The most frequent users of ‘booter’ or ‘stresser’ services are online gamers. These services are used to gain an advantage over an opponent by ‘booting’ them off the game with a denial of service attack. Booter services have customer-facing websites, whereby payments are taken for subscriptions, and attacks are requested. In order to understand this black market resource, we asked those providing the services to tell us about themselves and their activities. The operation of booter services requires not just technical expertise, but also information about the market for denial of service attacks, and how to monetise this. I will talk about how this knowledge is obtained, exposure to these services, and the escalation from using to operating booter services, and to other forms of cybercrime.
+
+Bio: Alice Hutchings
+--------------------
+
+Dr Alice Hutchings is a Senior Research Associate at the Computer Laboratory, University of Cambridge. A criminologist, her research interests include understanding cybercrime offenders, and the prevention, intervention and disruption of online crime. She is a researcher in the Cambridge Cloud Cybercrime Centre, a multi-disciplinary initiative combining expertise from the University of Cambridge's Computer Laboratory, Institute of Criminology and Faculty of Law.
+
+
 Talks
 =====
 
