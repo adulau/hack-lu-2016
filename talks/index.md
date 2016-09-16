@@ -222,3 +222,13 @@ Deep learning and neural networks have gained incredible popularity in recent ye
 Bio: Clarence Chio
 ------------------
 Clarence Chio graduated with a B.S. and M.S. in Computer Science from Stanford, specializing in data mining and artificial intelligence. He currently works as a Security Research Engineer at Shape Security, building a product that protects high valued web assets from automated attacks. At Shape, he works on the data analysis systems used to tackle this problem. Clarence spoke on Machine Learning and Security at DEFCON 24, PHDays, BSides Las Vegas and NYC, Code Blue, SecTor, and Hack in Paris (2015­2016). He had been a community speaker with Intel, and is also the founder and organizer of the ‘Data Mining for Cyber Security’ meetup group, the largest gathering of security data scientists in the San Francisco Bay Area.
+
+Bootstrapping an Architectural Research Platform
+------------------------------------------------
+by Jacob Torrey
+
+This talk aims to provide the fundamental architectural knowledge and resources for a security research interested in misuse of the x86 platform to conduct their own research with less “boiler-plate”. Covering the privileges and architectural events that different CPU rings can monitor, a few basic research hypervisors, and new technologies coming into the mainstream; this talk will aid researchers to rapidly focus on the research questions and not the setup.
+
+Bio: Jacob Torrey 
+-----------------
+Jacob Torrey is an Advising Research Engineer at Assured Information Security, Inc. where he leads the Computer Architectures group and acts as the site lead for the Colorado branch. Jacob has worked extensively with low-level x86 and MCU architectures, having written a BIOS, OS, hypervisor and SMM handler. His major interest is how to (mis)use an existing architecture to implement a capability currently beyond the limitations of the architecture. In addition to his research, Jacob volunteers his time organizing conferences in Denver (RMISC & BSidesDenver) and regular meet-ups across the front range. Twitter: @JacobTorrey
