@@ -141,4 +141,24 @@ Csaba graduated in 2006, at the Budapest University of Technology and Economics 
 Desbordes-Korcsev Miklos:
 Miklos graduated in 1998 from Technical University of Budapest as Electrical Engineer in the field of Robotics. He has 20 years IT experience in application development, application support, system administration, electronic data interchange and cyber security. In the last 9 years he's been working for ExxonMobil in several roles, in the past 2.5 years he's been doing offensive PoC development, malware analysis and breach investigation.
 
+Spy Hard with a Vengeance: How one city stood up to the Department of Homeland Security
+---------------------------------------------------------------------------------------
+by aestetix, Brian Hofer
 
+This talk will cover the reign of surveillance that has secretly taken over the United States at the local level through use of Federal grant money, and offer suggestions on how we can fight back. It’s the story of how the Department of Homeland Security (DHS) tried to create a fusion center in Oakland, California. In particular, we'll be sharing details of the Oakland privacy policy we helped create in response to this intrusive spy system, and the advocacy that led to its creation. Our hope is to teach the framework we created, shed light on how these issues affect both Americans and Europeans, and how businesses and governments can find a balance between security and privacy.
+
+Bio: aestetix 
+-------------
+aestetix served on the DAC ad hoc privacy committee as a technical
+expert. In addition, he has been involved in many privacy−aware projects,
+including Noisetor, the first nonprofit sponsored Tor Exit Node in the United
+States, and the HOPE 2008 and 2010 badges, which involved RFID location aware
+social networking. He also refuses to eat hot dog buns on Sundays, in accordance
+with the wishes of Our Goddess.
+
+Bio: Brian Hofer
+----------------
+Brian Hofer is a member of the Oakland Privacy Working Group, which formed to
+oppose the DAC. He chaired the DAC ad hoc privacy committee, which has since
+introduced two City Council adopted privacy and data retention policies, along
+with an ordinance making the privacy committee permanent.
