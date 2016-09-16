@@ -123,3 +123,22 @@ Bio: James Jara
 ---------------
 James Jara is the co-founder of Spartug and   co-founder/CTO of NETDB.IO , a search engine of internet of things focused in info-security research. He likes Bitcoin Industry, Delphi, Open Source and framework development and gave various presentations on security conferences like EkoParty,DragonJar,Defcon,BlackHat. Interested machine learning for mobile, Internet of Things (IoT) devices and industrial systems used in critical infrastructure networks. Sport-coder! 
 twitter.com/jamesjara
+
+Exploit generation and JavaScript analysis automation with WinDBG
+-----------------------------------------------------------------
+by Fitzl Csaba
+
+Our presentation will cover two different topics, which will show how easy and powerful is to automate various tasks with WinDBG.
+Part 1: Exploit generation
+Many people are familiar with scripts which can help during an exploit development. But what if we automate the entire process once we have the bug? In the presentation we will show a tool that can take a POC BoF exploit (which generates a crash / EIP overwrite) and from that it can automatically generate a fully working exploit.
+Part 2: JavaScript analysis automation
+Javascript code deobfuscation always presents a challenge for malware analysts, analysis being time consuming, sometime even anti-debugging techniques make it more difficult.
+What if we had a mechanism to see into the very core of the JavaScript engine and the DOM and be able to track down what the malware was up do without having to make any changes to the code and without giving the malware a chance to sense a debugger being present? Eval? Document.write? Lambdas? No problem!
+
+Bio: Fitzl Csaba
+----------------
+Csaba graduated in 2006, at the Budapest University of Technology and Economics as a computer engineer. He worked at Getronics as a Cisco support engineer for two years, and in 2008 he joined ExxonMobil, where he spent his time with designing and supporting global networks for 4 years. In the past four years, he is looking for information security breaches in the company's network, and his area of focus is network forensics and malware analysis. He currently holds several security certifications (OSWP, OSCP, OSCE, OSEE, CEH, ECSA, CHFI, GREM, GMOB, SISE).
+Desbordes-Korcsev Miklos:
+Miklos graduated in 1998 from Technical University of Budapest as Electrical Engineer in the field of Robotics. He has 20 years IT experience in application development, application support, system administration, electronic data interchange and cyber security. In the last 9 years he's been working for ExxonMobil in several roles, in the past 2.5 years he's been doing offensive PoC development, malware analysis and breach investigation.
+
+
