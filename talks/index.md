@@ -183,4 +183,16 @@ He is author of multiple Perl modules to craft network packets and analyze respo
 
 He writes articles in French security magazine MISC and speaks at various security conferences including IT Underground 2007, SSTIC 2008, hack.lu 2012, EuSecWest 2012, ekoparty 2012 and SSTIC 2016.
 
+2016: The Infosec Crossroads
+----------------------------
+by Saumil Shah
 
+"Today's attacks succeed because the defense is reactive". I have been researching attacks and offensive techniques since the past 16 years. As the defenses kept catching up and closing open doors, we attackers looked for new avenues and vectors. This talk looks back on the state of defenses during my days of One-Way Web Hacking in 2001 to Stegosploit in 2016, and a common pattern emerges. Defense boils down to reacting to new attacks and then playing catch-up. It is time to take another look at defense strategy. In this talk I present the basics of what should be the next evolution of pro-active defense architecture.
+
+Bio: Saumil Shah
+----------------
+Saumil Shah, is the founder and CEO of Net-Square, providing cutting edge information security services to clients worldwide. Saumil is an internationally recognized conference speaker and instructor for over 15 years. He is also the co-developer of the wildly successful "Exploit Laboratory" courses and authored two books titled "Web Hacking: Attacks and Defense" and "The Anti-Virus Book".
+
+Saumil holds an M.S. in Computer Science from Purdue University, USA and a B.E. in Computer Engineering from Gujarat University. He spends his leisure time playing Pacman, flying kites, traveling around the world and taking pictures.
+
+Saumil Udayan Shah - CEO, Net-Square - @therealsaumil
