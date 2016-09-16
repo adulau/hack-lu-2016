@@ -301,3 +301,30 @@ Rodrigo Cetera is a security researcher in the Deloitte Argentina team, student 
 Bio: Javier Bassi
 -----------------
 Javier Bassi is a security researcher in the Deloitte Argentina team, student of computer engineering at UCA (Universidad Católica Argentina). Angular.js / Python / Ruby on Rails/ Laravel developer and Data visualization with Splunk/D3. Enthusiast of web security and cryptography, evangelizer of Docker.
+
+When Crypto Fails
+-----------------
+by Yaniv Balmas, Ben Herzog
+
+"There is a theory which states that if ever anyone discovers exactly how to properly use cryptography, it will instantly disappear and be replaced by something even more bizarre and inexplicable.
+There is another theory which states that this has already happened."
+
+Cryptography is no longer a niche malware feature. It has become the weapon of choice to subject victims to extortion, preform covert communications, achieve stealth and much more. 
+Almost no crimeware bag of tricks is complete without a nasty ransomware binary somewhere in it.
+
+Like any other dangerous weapon, cryptography should be handled with care; in the wrong hands, it can easily become a double-edged sword - and, in fact, it does. There appears to be no upper bound for how ill-designed cryptography can be. Whenever you think you have seen the worst of it... Well, you better think again.
+
+Our talk will showcase several real-world cryptographic disasters encountered by our researchers. Some are more well-known than others, but all have had consequences - for the attacker as well as their victims. 
+
+Trying to extract value from these failures is often a crapshoot. In some cases, there is not much to do but to watch cryptography fail and laugh\cry. However, in other cases - especially if you know what to look for - you may be able to use cryptographic failures to your advantage and subvert the original intent of the malware to your benefit.
+
+This presentation will try to educate the audience on the common methods that can be employed to identify those failures, and perhaps save yourself or others from a very sticky situation.
+Once our presentation is over we will also release a tool we designed that can be used for triage of encrypted files, aimed to help you do just that.
+
+Bio: Yaniv Balmas
+-----------------
+
+Bio: Ben Herzog
+---------------
+
+
