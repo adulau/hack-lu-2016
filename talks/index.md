@@ -212,3 +212,12 @@ Wayne Huang was Founder and CEO of Armorize Technologies, and is now VP Engineer
 Bio: Sun Huang
 --------------
 Sun Huang is a Senior Threat Researcher at Proofpoint. He has more than 9 years of experience in information security.  Sun has discovered many Web application 0days, including those of CMS and C2 Panel. Sun has participated in many security contests, and was one of the top 10 researchers in Paypal's 2013 Bug Bounty Wall of Fame. He was also the third place AT&T bug reporter in 2013.  Sun currently holds CCNA, ECSS, CEH, and PMP certifications. Sun has presented at RSA '15 '16, SteelCon '16, Troopers '16, AusCERT '16.
+
+Machine Duping: Pwning Deep Learning Systems
+--------------------------------------------
+by Clarence Chio
+
+Deep learning and neural networks have gained incredible popularity in recent years, but most deep learning systems are not designed with security and resiliency in mind, and can be duped by any attacker with a good understanding of the system. In this talk, we will dive into popular deep learning software and show how it can be tampered with to do what you want it do, while avoiding detection by system administrators. Besides giving a high level overview of deep learning and its inherent shortcomings in an adversarial setting, we will focus on tampering real systems to show real weaknesses in critical systems built with it. In particular, this demo­driven session will be focused on manipulating an image recognition, speech recognition, and phishing detection system built with deep learning at the core.
+
+Bio: Clarence Chio
+Clarence Chio graduated with a B.S. and M.S. in Computer Science from Stanford, specializing in data mining and artificial intelligence. He currently works as a Security Research Engineer at Shape Security, building a product that protects high valued web assets from automated attacks. At Shape, he works on the data analysis systems used to tackle this problem. Clarence spoke on Machine Learning and Security at DEFCON 24, PHDays, BSides Las Vegas and NYC, Code Blue, SecTor, and Hack in Paris (2015­2016). He had been a community speaker with Intel, and is also the founder and organizer of the ‘Data Mining for Cyber Security’ meetup group, the largest gathering of security data scientists in the San Francisco Bay Area.
