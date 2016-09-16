@@ -232,3 +232,36 @@ This talk aims to provide the fundamental architectural knowledge and resources 
 Bio: Jacob Torrey 
 -----------------
 Jacob Torrey is an Advising Research Engineer at Assured Information Security, Inc. where he leads the Computer Architectures group and acts as the site lead for the Colorado branch. Jacob has worked extensively with low-level x86 and MCU architectures, having written a BIOS, OS, hypervisor and SMM handler. His major interest is how to (mis)use an existing architecture to implement a capability currently beyond the limitations of the architecture. In addition to his research, Jacob volunteers his time organizing conferences in Denver (RMISC & BSidesDenver) and regular meet-ups across the front range. Twitter: @JacobTorrey
+
+badGPO - Using GPOs for Persistence and Lateral Movement
+--------------------------------------------------------
+by Yves Kraft, Immanuel Willi
+
+Bio: Yves Kraft
+---------------
+
+Bio: Immanuel Willi
+-------------------
+
+[WORKSHOP] Introduction to Security Onion
+-----------------------------------------
+by David Szili
+
+Security Onion is a Linux distribution based on Ubuntu, designed for security analysts. It contains many security tools such as Snort, Suricata, Bro, OSSEC, Sguil, Squert, ELSA, NetworkMiner, etc. to create a platform for network security monitoring. The unique combination of features and concepts like pivoting from one tool to another one, having different network security monitoring data types (like full packet capture) and the capability to form a distributed sensor architecture make Security Onion one of the most powerful solutions which often outperforms many of the commercial products.
+
+The goal of this introductory workshop is to familiarize the participants with Security Onion, guide them through the first steps of setting it up and start analyzing traffic. The first part of the workshop will be about installing and configuring Security Onion in a Virtual Machine. The next section will be a quick walk-through to the primary interfaces (Squert, Sguil, ELSA), the different NSM data types and pivoting between interfaces and data types. At the end of the workshop, we will take a look at a few exercises and real life case studies, replay traffic and perform analysis using the tools and data types available in Security Onion.
+
+Requirements for the workshop:
+- A laptop with at least 8 GB of RAM and more than 20 GB of free disk space (VT-x support must be enabled on the host system).
+- Application to run Virtual Images (type-2 hypervisor), such as VMWare Workstation (recommended), VMWare Player, VirtualBox or similar software.
+
+Attendees should download the latest Security Onion image in advance from GitHub:
+https://github.com/Security-Onion-Solutions/security-onion/blob/master/Verify_ISO.md
+
+Bio: David Szili 
+----------------
+David Szili is a freelancer IT Security Consultant with penetration testing, security monitoring, incident response and forensics background, previously working for companies like POST Telecom PSF, Dimension Data and Deloitte.
+
+David has two Master's degrees in Computer Engineering and in Networks and Telecommunication and a Bachelor's degree in Electrical Engineering. He also holds several IT security certifications such as GSEC, GCIA, GCIH, GMON, GMOB, OSCP, OSWP and CEH.
+
+In his spare time, David likes working on hobby electronics projects, develop new IT security tools or sharpen his skills with CTFs and bug bounty programs.
