@@ -104,3 +104,22 @@ Bio: Axelle Apvrille
 --------------------
 Axelle Apvrille (@cryptax) is a happy senior researcher at Fortinet. Her research focuses on any strange virus on so-called 'smart' devices, ranging from smartphones to IoT.
 She enjoys CTFs, especially at Hack.Lu, among the pic0wn team, though her best achievements are at drawing comic strips about it (http://picolecroco.free.fr/sstic/index.html).
+
+Exploiting and attacking seismological networks.. remotely
+----------------------------------------------------------
+by James Jara
+
+In this presentation we are going to explain and demonstrate step by step in a real attack scenario how a remote attacker could elevate privileges in order to take control remotely in a production seismological network located at 183mts under the sea. We found several seismographs in production connected to the public internet providing graphs and data to anyone who connects to the embed web server running at port 80. The seismographs provide real time data based in the perturbations from earth and surroundings, we consider this as a critical infrastructure and is clear the lack of protection and implementation by the technicians in charge.
+
+We are going to present 3 ways to exploit the seismograph which is segmented in 3 parts: 
+Modem (GSM, Wi-Fi, Satellite, GPS,Com serial) {web server running at port 80 , ssh daemon} 
+Sensor (Trillium in this case) Battery (1 year lifetime) These vulnerabilities affect the Modem (Taurus) which is directly connected to the sensor (Trillium) , a remote connection to Taurus modem it’s all that you need to compromise the whole seismograph network. 
+
+After take control we are be able to mofify the packet seismic data in order to inject false information to the main acquisition server now as apollo (nanometrics) or his open source equivalent seiscomp3 . 
+We discovered this equipment using a IoT search engine developed in costa rica by bertin bervis and james jara. we call it NetDB - The Network Database Project
+We collect 24/7 the digital fingerprint ssl certificate metadata and geospatial information of all servers around the world.
+
+Bio: James Jara
+---------------
+James Jara is the co-founder of Spartug and   co-founder/CTO of NETDB.IO , a search engine of internet of things focused in info-security research. He likes Bitcoin Industry, Delphi, Open Source and framework development and gave various presentations on security conferences like EkoParty,DragonJar,Defcon,BlackHat. Interested machine learning for mobile, Internet of Things (IoT) devices and industrial systems used in critical infrastructure networks. Sport-coder! 
+twitter.com/jamesjara
