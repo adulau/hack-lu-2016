@@ -265,3 +265,39 @@ David Szili is a freelancer IT Security Consultant with penetration testing, sec
 David has two Master's degrees in Computer Engineering and in Networks and Telecommunication and a Bachelor's degree in Electrical Engineering. He also holds several IT security certifications such as GSEC, GCIA, GCIH, GMON, GMOB, OSCP, OSWP and CEH.
 
 In his spare time, David likes working on hobby electronics projects, develop new IT security tools or sharpen his skills with CTFs and bug bounty programs.
+
+Credential Assessment: Mapping Privilege Escalation at Scale
+------------------------------------------------------------
+by Matt Weeks
+
+In countless intrusions from large retail giants to oil companies, attackers have progressed from initial access to complete network compromise. In the aftermath, much ink is spilt and products are sold on how the attackers first obtained access and how the malware they used could or could not have been detected, while little attention is given to the credentials they found that turned their access on a single-system into thousands more. This process, while critical for offensive operations, is often complex, involving many links in the escalation chain composed of obtaining credentials on system A that grant access to system B and credentials later used on system B that grant further access, etc. We’ll show how to identify and combat such credential exposure at scale with the framework we developed. We comprehensively identify exposed credentials and automatically construct the compromise chains to identify maximal access and privileges gained, useful for either offensive or defensive purposes.
+
+Bio: Matt Weeks
+---------------
+Matt Weeks currently leads root9B's research and development arm. As a researcher, he has uncovered a number of major vulnerabilities in various products. He also developed for the Metasploit framework, runs the site http://www.scriptjunkie.us/ and the southwest CCDC regional red team. Previously, he led the USAF's intrusion forensics and reverse engineering lab and the creation of their enterprise hunt teams.
+
+#KillTheHashes 30 million Malware DNA profiling exercise
+--------------------------------------------------------
+by Luciano Martins, Rodrigo Cetera
+
+Similar to human fingerprints, every malware has its own unique digital fingerprint that differentiates it from others.  As a result, malware will always attempt to hide its true self by deleting or changing this information to avoid detection by antivirus companies and malware researchers.
+
+Doing malware profiling allows malware hunters and analysts to really interrogate the internals of malware and perform searches over a large number of file characteristics. For instance, instead of relying on file-level hashes, we can compute other features such as imported functions, strings, constants, file segments, code regions, or anything that is defined in the file type specification, we had built a software to perform those tasks CodexGigas that provides us with more than 142 possible searchable patterns, that can be combined.
+
+Since malware developers go to great lengths to obfuscate their characteristics, it is often difficult for by researchers and malware analysts to identify multiple characteristics and correlation points.
+
+By analyzing malware internals, the algorithm is able to build characteristic families to which a new sample can be categorized and therefore identified for specific behavior, enabling early detection of new malware by comparing against existing malware.
+
+We will demonstrate the results of our work and the techniques and tool used to derive these results.
+
+Bio: Luciano Martins
+--------------------
+Luciano Martins is a Director in Threat Intel & Analytics at Deloitte. who works in the area of vulnerability assessment, black box testing, personnel training, hacking skills, malware, and strong reverse engineering skills. Luciano has nearly 20 years of experience in security atmosphere. Prior to Deloitte, he founded the USSR LABS research group in Argentina and led it for five years.
+
+Bio: Rodrigo Cetera
+-------------------
+Rodrigo Cetera is a security researcher in the Deloitte Argentina team, student of Software and Electronic Engineering at UBA (University of Buenos Aires). C++/Python developer and Electronic Technician. Former science teacher, always fascinated by know how the world works. Rugby fan and amateur guitar player.
+
+Bio: Javier Bassi
+-----------------
+Javier Bassi is a security researcher in the Deloitte Argentina team, student of computer engineering at UCA (Universidad Católica Argentina). Angular.js / Python / Ruby on Rails/ Laravel developer and Data visualization with Splunk/D3. Enthusiast of web security and cryptography, evangelizer of Docker.
