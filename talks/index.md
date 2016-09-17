@@ -264,11 +264,15 @@ badGPO - Using GPOs for Persistence and Lateral Movement
 --------------------------------------------------------
 by Yves Kraft, Immanuel Willi
 
-Bio: Yves Kraft
----------------
+Group Policy is a feature which provides centralized management and configuration functions for the Microsoft operating system, application and user settings. Group Policy is simply the easiest way to reach out and configure computer and user settings on networks based on Active Directory Domain Services (AD DS). Such policies are widely used in enterprise environments to control settings of clients and servers: registry settings, security options, scripts, folders, and software installation and maintenance, just to name a few. Settings are contained in so-called Group Policy Objects (GPOs) and can be misused in a sneaky way to distribute malware and gain persistence in an automated manner in a post exploitation scenario of an already compromised domain. In a proof of concept, inspired by Phineas Fishers' article about pwning HackingTeam, we will show how persistence and lateral movement in a compromised company network can be achieved, and demonstrate some PowershellEmpire Framework modules which we created. PowershellEmpire is basically a post-exploitation framework that utilises the widely-deployed PowerShell tool for all your system-smashing needs. There are already functionalities built-in regarding GPOs. We tried to further evolve the miss-use of GPOs in additional scenarios. Furthermore, we will discuss some countermeasures including detection and prevention mechanisms
 
-Bio: Immanuel Willi
--------------------
+Bio: Yves Kraft and Immanuel Willi
+----------------------------------
+
+Yves and Immanuel are both penetration testers at Oneconsult AG. Their daily business is to build and deconstruct things.
+Yves works as a security consultant at Oneconsult, focusing on penetration tests, security consulting and training. He was promoted to team leader and branch manager Bern a year ago. As a former system and network engineer he managed several servers, applications and networks including systems at a large Swiss university, financial services and public administration among other industries.
+Immanuel worked several years as a system administrator at a university. When moving to another higher education institution he was appointed head of the internal IT services department. His work at Oneconsult is focused on penetration tests and security consulting.
+
 
 Machine Duping: Pwning Deep Learning Systems
 --------------------------------------------
