@@ -148,7 +148,7 @@ by aestetix, Brian Hofer
 
 This talk will cover the reign of surveillance that has secretly taken over the United States at the local level through use of Federal grant money, and offer suggestions on how we can fight back. It’s the story of how the Department of Homeland Security (DHS) tried to create a fusion center in Oakland, California. In particular, we'll be sharing details of the Oakland privacy policy we helped create in response to this intrusive spy system, and the advocacy that led to its creation. Our hope is to teach the framework we created, shed light on how these issues affect both Americans and Europeans, and how businesses and governments can find a balance between security and privacy.
 
-Bio: aestetix 
+Bio: aestetix
 -------------
 aestetix served on the DAC ad hoc privacy committee as a technical
 expert. In addition, he has been involved in many privacy−aware projects,
@@ -189,7 +189,7 @@ WiFi Exploitation: How passive interception leads to active exploitation
 ------------------------------------------------------------------------
 by Solomon Sonya
 
-When was the last time you thought to yourself, hmm, I wonder if an attacker is exploiting my smart phone and laptop as a result of merely leaving my WiFi enabled? Or, when did you think: I wonder if a person can create a profile about me and possibly determine where I live, work, and places I have been simply via passive interception of the 802.11x frames beaconed from my devices? Ok, let's go a bit further: when was the last time you realized your smart phone is wirelessly leaking details regarding every network you have stored on your device for everyone to see and when did you ever consider that an attacker could intercept your beacons, establish a rogue AP mimicking exactly what you are looking for, and MiTM your system directly back to the attacker automatically? Do you even know the information your smart phone is constantly broadcasting out via that wireless NIC of yours? 
+When was the last time you thought to yourself, hmm, I wonder if an attacker is exploiting my smart phone and laptop as a result of merely leaving my WiFi enabled? Or, when did you think: I wonder if a person can create a profile about me and possibly determine where I live, work, and places I have been simply via passive interception of the 802.11x frames beaconed from my devices? Ok, let's go a bit further: when was the last time you realized your smart phone is wirelessly leaking details regarding every network you have stored on your device for everyone to see and when did you ever consider that an attacker could intercept your beacons, establish a rogue AP mimicking exactly what you are looking for, and MiTM your system directly back to the attacker automatically? Do you even know the information your smart phone is constantly broadcasting out via that wireless NIC of yours?
 
 Welp, if any of these questions take you by surprise, then this talk may be of particular interest to you. I show you exactly how to engineer a distributed sensor network that captures, parses, interprets, and visualizes 802.11x frames/messages in order to build the picture of devices communicating within the sensor mesh. Next, I show how to build the connector agents to resolve GPS location of devices in the area and extracted from your device's broadcasted frames. After this, I'll show you how we interface with Google Map to interactively display the location profiles we create on users intercepted within the area. Finally, we go into carrying out MiTM attacks based on what your devices is requesting to automatically exploit the user without their knowledge. We conclude with enhancements required to better secure your devices from future exploitation.
 
@@ -294,6 +294,22 @@ Bio: Matt Weeks
 
 Matt Weeks currently leads root9B's research and development arm. As a researcher, he has uncovered a number of major vulnerabilities in various products. He also developed for the Metasploit framework, runs the site http://www.scriptjunkie.us/ and the southwest CCDC regional red team. Previously, he led the USAF's intrusion forensics and reverse engineering lab and the creation of their enterprise hunt teams.
 
+BtleJuice: the Bluetooth Smart Man In The Middle Framework
+----------------------------------------------------------
+
+A lot of Bluetooth Low Energy capable devices are spread since the last few years, offering a brand new way to compromise many "smart" objects: fitness wristbands, smart locks and padlocks and even healthcare devices. But this protocol poses some new challenges: how may one easily intercept every communication between a device and an application ? How to easily spoof the behavior of a device to assess authentication ?
+
+During months (years ?) we've been using Bluetooth Low Energy sniffers (like Ubertooth or even Adafruit's Bluefruit sniffer) to perform security assessments on many connected devices, with not so much success because of the erratic way BLE sniffers work. There were no easy way to perform a decent man-in-the-middle attack on BLE enabled devices. This is why we developed 'BtleJuice', a framework to fill in the gap and allow spying on communications between two BLE devices without SDR. We designed it to be modular and to allow MAC spoofing using a compatible Bluetooth LE adapter as data is relayed through network, that means both devices (the cloned and the real one) may be at different locations (or isolated) thus avoiding interference.
+
+The ability to intercept every bit of data between two BLE enabled devices is an efficient way to passively determine a device's behavior and its attack surface and of course to find vulnerabilities. Reverse-engineering mobile applications is no more mandatory to retrieve samples of data to perform fuzzing or even understand how the device and its related components work. Furthermore, the ability to perform on-the-fly data modification gives an opportunity to create improved fuzzers and to detect more vulnerabilities.
+
+We will demonstrate the efficiency of this framework on real devices, intercepting every piece of information and patching data on-the-fly, but also the impact in term of security.
+
+Bio: Damien Cauquil
+-------------------
+
+Damien Cauquil is a senior security researcher at Digital Security (CERT-UBIK), a French security company focused on IoT and related ground breaking technologies. He spoke at various international security conferences including Chaos Communication Camp, Hack.lu, Hack In Paris and a dozen of times at the Nuit du Hack (one of the oldest French security conferences).
+
 When Crypto Fails
 -----------------
 by Yaniv Balmas, Ben Herzog
@@ -301,12 +317,12 @@ by Yaniv Balmas, Ben Herzog
 "There is a theory which states that if ever anyone discovers exactly how to properly use cryptography, it will instantly disappear and be replaced by something even more bizarre and inexplicable.
 There is another theory which states that this has already happened."
 
-Cryptography is no longer a niche malware feature. It has become the weapon of choice to subject victims to extortion, preform covert communications, achieve stealth and much more. 
+Cryptography is no longer a niche malware feature. It has become the weapon of choice to subject victims to extortion, preform covert communications, achieve stealth and much more.
 Almost no crimeware bag of tricks is complete without a nasty ransomware binary somewhere in it.
 
 Like any other dangerous weapon, cryptography should be handled with care; in the wrong hands, it can easily become a double-edged sword - and, in fact, it does. There appears to be no upper bound for how ill-designed cryptography can be. Whenever you think you have seen the worst of it... Well, you better think again.
 
-Our talk will showcase several real-world cryptographic disasters encountered by our researchers. Some are more well-known than others, but all have had consequences - for the attacker as well as their victims. 
+Our talk will showcase several real-world cryptographic disasters encountered by our researchers. Some are more well-known than others, but all have had consequences - for the attacker as well as their victims.
 
 Trying to extract value from these failures is often a crapshoot. In some cases, there is not much to do but to watch cryptography fail and laugh\cry. However, in other cases - especially if you know what to look for - you may be able to use cryptographic failures to your advantage and subvert the original intent of the malware to your benefit.
 
