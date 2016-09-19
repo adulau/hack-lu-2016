@@ -79,7 +79,7 @@ Tuesday 18 October 2016 (Workshops)
 | 10:30 | continue workshop | continue workshop|continue workshop|
 | 12:00 | Lunch break | Lunch break|Lunch break|
 | 13:00 |[Lightning talks](http://piratepad.net/GYg4ObNCsY)  | [Lightning talks](http://piratepad.net/GYg4ObNCsY)|[Lightning talks](http://piratepad.net/GYg4ObNCsY) |
-| 13:30 | Introduction to Security Onion (David Szili) *ca. 3 h*| |
+| 13:30 | [Introduction to Security Onion](http://2016.hack.lu/talks/#introduction-to-security-onion) ([David Szili](http://2016.hack.lu/talks/#bio-david-szili)) *ca. 3 h*| |
 | 15:45 | Refreshment break |Refreshment break||
 | 16:00 |workshop continued| end of workshop ||
 | 18:00 |end of workshop|  ||
@@ -92,12 +92,12 @@ Wednesday 19 October 2016 (Workshops)
 | Time | Ansembourg | Echternach - Diekirch | Wiltz |
 |:----:|:----------:|:----------------------:|:--------:|
 | 09:00 | | | |
-| 09:30 | Malware Triage IOCs - Using Open Data to Help Develop Robust Indicators (Sergei Frankoff, Sean Wilson) *ca. 2 h*|  *ca. 2 h*|
+| 09:30 | [Malware Triage IOCs - Using Open Data to Help Develop Robust Indicators](http://2016.hack.lu/talks/#malware-triage-iocs---using-open-data-to-help-develop-robust-indicators) ([Sergei Frankoff](http://2016.hack.lu/talks/#bio-sergei-frankoff), [Sean Wilson](http://2016.hack.lu/talks/#bio-sean-wilson)) *ca. 2 h*|  *ca. 2 h*|
 | 10:15 | Refreshment break | Refreshment break|Refreshment break|
 | 10:30 | continue workshop | continue workshop|continue workshop|
 | 12:00 | Lunch break | Lunch break|Lunch break|
 | 13:00 |[Lightning talks](http://piratepad.net/GYg4ObNCsY)  | [Lightning talks](http://piratepad.net/GYg4ObNCsY)|[Lightning talks](http://piratepad.net/GYg4ObNCsY) |
-| 13:30 | Android malware reverse engineering (Axelle Apvrille) *ca. 3 h*| |
+| 13:30 | [Android malware reverse engineering](http://2016.hack.lu/talks/#android-malware-reverse-engineering) ([Axelle Apvrille](http://2016.hack.lu/talks/#bio-axelle-apvrille)) *ca. 3 h*| |
 | 15:45 | Refreshment break |Refreshment break||
 | 16:00 |workshop continued| end of workshop ||
 | 18:00 |end of workshop|  ||
@@ -109,12 +109,12 @@ Thursday 20 October 2016 (Workshops)
 | Time | Ansembourg | Echternach - Diekirch | Wiltz |
 |:----:|:----------:|:----------------------:|:--------:|
 | 09:00 | | | |
-| 09:30 | ARM Shellcode Basics (Saumil Shah) *ca. 2 h*|  *ca. 2 h*|
+| 09:30 | [ARM Shellcode Basics](http://2016.hack.lu/talks/#arm-shellcode-basics") ([Saumil Shah](http://2016.hack.lu/talks/#bio-saumil-shah)) *ca. 2 h*|  *ca. 2 h*|
 | 10:15 | Refreshment break | Refreshment break|Refreshment break|
 | 10:30 | continue workshop | continue workshop|continue workshop|
 | 12:00 | Lunch break | Lunch break|Lunch break|
 | 13:00 |[Lightning talks](http://piratepad.net/GYg4ObNCsY)  | [Lightning talks](http://piratepad.net/GYg4ObNCsY)|[Lightning talks](http://piratepad.net/GYg4ObNCsY) |
-| 13:30 | Advanced exploitation: ROP and protections bypass under Linux () *ca. 4 h*| |
+| 13:30 | [Advanced exploitation: ROP and protections bypass under Linux](http://2016.hack.lu/talks/#) ([](http://2016.hack.lu/talks/#)) *ca. 4 h*| |
 | 15:45 | Refreshment break |Refreshment break||
 | 16:00 |workshop continued| end of workshop ||
 | 18:00 |end of workshop|  ||
