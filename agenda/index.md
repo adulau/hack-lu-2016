@@ -46,7 +46,7 @@ Wednesday 19 October 2016 (Talks)
 | 09:30 | 2016: The Infosec Crossroads (Saumil Shah)|
 | 10:15 | Refreshment break|
 | 10:30 | Exploit generation and JavaScript analysis automation with WinDBG (Fitzl Csaba, Miklos Desbordes-Korcsev)|
-| 11:15 | [Bootstrapping an Architectural Research Platform](http://2016.hack.lu/talks/#stressed-out-denial-of-service-attacks-from-the-providers-perspective) ([Jacob I. Torrey](http://2016.hack.lu/talks/#bio-alice-hutchings)) |
+| 11:15 | [Keynote: ]() ([Quinn Norton]()) |
 | 12:00 | Lunch |
 | 13:00 | [Lightning talks](http://piratepad.net/GYg4ObNCsY)|
 | 13:30 | [Exploiting new default accounts in SAP systems](http://2015.hack.lu/talks/#security-design-and-high-risk-users) (Joris van de Vis) |
@@ -55,7 +55,7 @@ Wednesday 19 October 2016 (Talks)
 | 15:45 | Refreshment break |
 | 16:00 | [Credential Assessment: Mapping Privilege Escalation at Scale](http://2015.hack.lu/talks/#how-digital-forensics-met-threat-intelligence) (Matt Weeks)|
 | 16:45 | [When Crypto Fails](http://2015.hack.lu/talks/#scrutinizing-wpa2-password-generating-algorithms-in-wireless-routers) ( Yaniv Balmas, Ben Herzog)|
-| 17:30 | |
+| 17:30 |[Bootstrapping an Architectural Research Platform](http://2016.hack.lu/talks/#stressed-out-denial-of-service-attacks-from-the-providers-perspective) ([Jacob I. Torrey](http://2016.hack.lu/talks/#bio-alice-hutchings)) |
 | 18:15 | |
 
 Thursday 20 October 2016 (Talks)
@@ -71,13 +71,54 @@ Workshop Agenda
 Tuesday 18 October 2016 (Workshops)
 -----------------------------------
 
+| Time | Ansembourg | Echternach - Diekirch | Wiltz |
+|:----:|:----------:|:----------------------:|:--------:|
+| 09:00 | | | |
+| 09:30 | *ca. 2 h*|  *ca. 2 h*|
+| 10:15 | Refreshment break | Refreshment break|Refreshment break|
+| 10:30 | continue workshop | continue workshop|continue workshop|
+| 12:00 | Lunch break | Lunch break|Lunch break|
+| 13:00 |[Lightning talks](http://piratepad.net/GYg4ObNCsY)  | [Lightning talks](http://piratepad.net/GYg4ObNCsY)|[Lightning talks](http://piratepad.net/GYg4ObNCsY) |
+| 13:30 | Introduction to Security Onion (David Szili) *ca. 3 h*| |
+| 15:45 | Refreshment break |Refreshment break||
+| 16:00 |workshop continued| end of workshop ||
+| 18:00 |end of workshop|  ||
+{: class="table"}
+
 
 Wednesday 19 October 2016 (Workshops)
 -------------------------------------
 
+| Time | Ansembourg | Echternach - Diekirch | Wiltz |
+|:----:|:----------:|:----------------------:|:--------:|
+| 09:00 | | | |
+| 09:30 | Malware Triage IOCs - Using Open Data to Help Develop Robust Indicators (Sergei Frankoff, Sean Wilson) *ca. 2 h*|  *ca. 2 h*|
+| 10:15 | Refreshment break | Refreshment break|Refreshment break|
+| 10:30 | continue workshop | continue workshop|continue workshop|
+| 12:00 | Lunch break | Lunch break|Lunch break|
+| 13:00 |[Lightning talks](http://piratepad.net/GYg4ObNCsY)  | [Lightning talks](http://piratepad.net/GYg4ObNCsY)|[Lightning talks](http://piratepad.net/GYg4ObNCsY) |
+| 13:30 | Android malware reverse engineering (Axelle Apvrille) *ca. 3 h*| |
+| 15:45 | Refreshment break |Refreshment break||
+| 16:00 |workshop continued| end of workshop ||
+| 18:00 |end of workshop|  ||
+{: class="table"}
 
 Thursday 20 October 2016 (Workshops)
 ------------------------------------
+
+| Time | Ansembourg | Echternach - Diekirch | Wiltz |
+|:----:|:----------:|:----------------------:|:--------:|
+| 09:00 | | | |
+| 09:30 | ARM Shellcode Basics (Saumil Shah) *ca. 2 h*|  *ca. 2 h*|
+| 10:15 | Refreshment break | Refreshment break|Refreshment break|
+| 10:30 | continue workshop | continue workshop|continue workshop|
+| 12:00 | Lunch break | Lunch break|Lunch break|
+| 13:00 |[Lightning talks](http://piratepad.net/GYg4ObNCsY)  | [Lightning talks](http://piratepad.net/GYg4ObNCsY)|[Lightning talks](http://piratepad.net/GYg4ObNCsY) |
+| 13:30 | Advanced exploitation: ROP and protections bypass under Linux () *ca. 4 h*| |
+| 15:45 | Refreshment break |Refreshment break||
+| 16:00 |workshop continued| end of workshop ||
+| 18:00 |end of workshop|  ||
+{: class="table"}
 
 
 Monday 17 October 2016 (Special interest pre-hack meeting)
