@@ -48,6 +48,27 @@ Bio: James Jara
 Is the founder and CTO of NETDB.IO , a search engine of internet of things focused in info-security research. He likes Bitcoin Industry, Open Source and framework development and gave various presentations on security conferences like EkoParty. Interested machine learning for mobile, Internet of Things (IoT) devices and industrial systems used in critical infrastructure networks. Sport-coder!
 
 
+Where should I host my malware?
+-------------------------------
+
+The growth of IoT devices continues to raise questions about their role and impact in cybersecurity. Badly configured or poorly individual devices are often easy targets for malicious actors. Launching attacks at first seems more challenging due to the diversity of the ecosystem, but is actually doable and easy to execute. We explain how IoTs are a cybercriminal’s paradise:
+
+In our SophosLabs research, we focused on a very generic attack scenario that will affect almost any device that has an FTP service. Your router or network-attached storage (NAS) are the most likely examples. These attacks typically exploit the level of trust people place on any content they see hosted on internal network shares. A successful attacker would abuse or compromise a default FTP account for guest access, place a “Trojan horse” on a visible file share and rely on human curiosity for the rest to happen. In many cases, root folders for FTP and WWW services are the same, making the attacker’s life even easier. Since many of the IoT devices publically expose FTP services world-wide, this fairly unsophisticated attack can result in a large number of infected “things” and provide great value to cybercriminals.
+
+To assist our research, we developed an IoT scanning framework (“ScanR”) which is able to perform large scale network probes to assess the state of open FTP services and identify how many of them have been compromised . In our latest test, we utilized ScanR against 3 million open FTP servers determine the type of the device and the state of its security. The results were far worse than we expected.
+
+Over 90% of the unprotected devices were found to be infected with at least one Malware threat or exhibiting the signs of an attack. In this talk, we’ll reveal the results of the research, exposing the number of vulnerable devices and the gigabytes of storage that is now freely available to attackers. We’ll also share the technical results of the malware analysis.
+
+In summary, this talk will provide an insight into how the very old Internet protocols are being exploited on modern internet connected “things”, explain the risks it creates to home and corporate users and suggest recommendations on how businesses and users should be protecting themselves better against these unsophisticated, but dangerous and highly successful attack scenarios.
+
+Bio: Attila Marosi
+------------------
+
+Attila Marosi has always worked in the information security field ever since he started in IT. As a lieutenant of active duty he worked for almost a decade on special information security tasks occurring within the Special Service for National Security. Later he was transferred to the newly established GovCERT-Hungary, which is an additional national level in the internationally known system of CERT offices. Now he works for the SophosLabs as a Senior Threat Researcher in the Emerging Threats Team to provide novel solutions for the newest threats.
+
+Attila has several international certificates such as CEH, ECSA, OSCP, OSCE. During his free time he is reading lections and does some teaching on different levels; on the top of them for white hat hackers. He presented on many security conferences including hack.lu, DeepSEC, AusCERT, Hacktivity, Troopers, HackerHalted and NullCon.
+
+
 Interesting Malware - No, I'm not kidding...
 --------------------------------------------
 
