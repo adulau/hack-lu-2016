@@ -48,6 +48,20 @@ Bio: James Jara
 Is the founder and CTO of NETDB.IO , a search engine of internet of things focused in info-security research. He likes Bitcoin Industry, Open Source and framework development and gave various presentations on security conferences like EkoParty. Interested machine learning for mobile, Internet of Things (IoT) devices and industrial systems used in critical infrastructure networks. Sport-coder!
 
 
+Interesting Malware - No, I'm not kidding...
+--------------------------------------------
+
+There is malware, and then, there is m.a.l.w.a.r.e. Last year we got our fingers on a set of exquisite binaries which were definitely not the usual kind. No I'd never call malware sophisticated, after all that's not what it takes to be dangerous; or interesting. But those were a challenging beast, unusually intriguing.
+
+For the lack of a better name, and given all the whacky traits the binaries come with, we dubbed the family CheshireCat. That's the pink cat in Alice's wonderland with the most stupid grin. The CheshireCat binaries have been around since 2002, some are built for workstations as old as Windows NT4, they support dial-up connections and executable header checks for the NewExecutable file format. Go figure. We came to the conclusion, someone very dedicated has built CheshireCat for very special networks and kept his operation under the radar for more than a decade.
+
+This talk will introduce CheshireCat's implementation traits, stealth tactics and wonderous functionalities. Special attention will be paid to the retro coding style and the kind of functional obfuscation that make CheshireCat so special.
+
+Bio: Marion Marschalek
+----------------------
+
+Marion Marschalek is Principal Malware Researcher at G DATA Advanced Analytics, focusing on the analysis of emerging threats. Marion started her career within the anti-virus industry, and then worked on advanced threat protection systems, where she built a thorough  understanding of how threats and protection systems work and at which points both have their caveats. Marschalek is a lecturer at University of Applied Sciences St. Pölten and frequently contributes to articles and papers. She is a regular speaker at international conferences and has  presented research at Black Hat, RSA, and SyScan. She also serves as a review board member for Black Hat Europe. Marschalek was listed as one of Forbe's "30 under 30" in the technology Europe division in 2016. In 2013 she was the winner of the Female Reverse Engineering Challenge, organized by RE professional Halvar Flake. She practices martial arts and finds vivid passion in taking things apart. Preferably other people's things.
+
 House intercoms attacks: when frontdoors become backdoors
 ---------------------------------------------------------
 by Sébastien Dudek
