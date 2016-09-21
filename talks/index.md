@@ -71,6 +71,7 @@ Attila has several international certificates such as CEH, ECSA, OSCP, OSCE. Dur
 
 Interesting Malware - No, I'm not kidding...
 --------------------------------------------
+by Marion Marschalek
 
 There is malware, and then, there is m.a.l.w.a.r.e. Last year we got our fingers on a set of exquisite binaries which were definitely not the usual kind. No I'd never call malware sophisticated, after all that's not what it takes to be dangerous; or interesting. But those were a challenging beast, unusually intriguing.
 
