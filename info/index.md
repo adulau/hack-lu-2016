@@ -33,8 +33,8 @@ To Parc Hotel in front of the hotel: Gonderange, Stohlbuer
 To Best Western Euro Hotel: Gonderange, Am Duerf or Gonderange, op der Breck
 
 [Park Inn by Radisson at Luxembourg-Gare](http://www.parkinn.com/hotel-luxembourg) (15 min from the Parc Hotel)
-We have preferential prices for the rooms: 189 Euro for a single room and 209 Euro for a double room, always with breakfast buffet included. Hotel can be reserved with the special rate using the [following form](/images/1710 HACKLU 2016 reservation form.docx). The complete form needs to be sent to the hotel. 
-
+We have preferential prices for the rooms: 189 Euro for a single room and 209 Euro for a double room, always with breakfast buffet included. Hotel can be reserved with the special rate (3 nights in a row) using the [following form](/images/1710 HACKLU 2016 reservation form.docx). The complete form needs to be sent to the hotel. 
+ 
 Hurry-up as the rooms are limited in number!
 
 ## Public transit
