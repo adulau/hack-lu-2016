@@ -473,3 +473,17 @@ Saumil Shah is the founder and CEO of Net-Square, providing cutting edge informa
 Saumil holds an M.S. in Computer Science from Purdue University, USA and a B.E. in Computer Engineering from Gujarat University. He spends his leisure time playing Pacman, flying kites, traveling around the world and taking pictures.
 
 
+Advanced Exploitation: ROP and protections bypass under Linux
+-------------------------------------------------------------
+by Julien Bachmann
+
+This workshop’s goal is to give trainees an understanding of the exploitation technique known as Return Oriented Programming, or ROP, through both explanations and gradually complex exercises. The labs will be performed on Linux and binaries will be 32 bits.
+After a brief recap on buffer overflows the workshop goes on to explain protection built-into the compiler and the OS (canaries, NX, ...). Introduction to ROP is done by starting with ret2libc exploitation which is a specialization of the ROP technique.
+ROP concepts such as gadgets, ROP chains, primitives are detailed. Tools such as ropgadget and rp++ are presented and a detailed ROP chain is then studied.
+The workshop then continues with a live example before entering the lab part. Example of lab manual (this one was given in a university) can be found in annex but subject to change in order to match timeframe.
+
+Bio: Julien Bachmann
+--------------------
+
+After several years performing penetration tests, to break into information systems and assess the security of web and mobile applications, Julien joined the defence side for an MSSP. This background allows him to have a different view on how to protect enterprises and their critical assets. His current role could be could be resumed as a "full stack security architect: from assembly to Gartner reports and beyond”.
+Julien is also a guest lecturer at Swiss engineering schools on software exploitation techniques, as well as on incident response and malware analysis.
