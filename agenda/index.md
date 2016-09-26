@@ -26,13 +26,13 @@ Tuesday 18 October 2016 (Talks)
 | 12:00 | Lunch |
 | 13:00 | [Lightning talks](http://piratepad.net/GYg4ObNCsY)|
 | 13:30 | [Exploiting and attacking seismological networks… remotely](http://2016.hack.lu/talks/#exploiting-and-attacking-seismological-networks-remotely) ([Bertin Bervis Bonilla](http://2016.hack.lu/talks/#bio-bertin-bervis-bonilla), [James Jara](http://2016.hack.lu/talks/#bio-james-jara)) |
-| 14:15 | [House intercoms attacks: when frontdoors become backdoors](http://2016.hack.lu/talks/#house-intercoms-attacks-when-frontdoors-become-backdoors) ([Sébastien Dudek](http://2016.hack.lu/talks/#bio-sbastien-dudek))|
+| 14:15 | [HIDden secrets in Soft Token: A security study of HID Global Soft Token](http://2016.hack.lu/talks/#hidden-secrets-in-soft-token-a-security-study-of-hid-global-soft-token) ([Mouad Abouhali](http://2016.hack.lu/talks/#bio-mouad-abouhali)) <!--- static: day -->|
 | 15:00 | [KillTheHashes 30 million Malware DNA profiling exercise](http://2016.hack.lu/talks/#killthehashes-30-million-malware-dna-profiling-exercise) ([Luciano Martins](http://2016.hack.lu/talks/#bio-luciano-martins), [Rodrigo Cetera](http://2016.hack.lu/talks/#bio-rodrigo-cetera), [Javier Bassi](http://2016.hack.lu/talks/#bio-javier-bassi))|
 | 15:45 | Refreshment break |
 | 16:00 | [Unveiling the attack chain of Russian-speaking cybercriminals](http://2016.hack.lu/talks/#unveiling-the-attack-chain-of-russian-speaking-cybercriminals) ([Wayne Huang](http://2016.hack.lu/talks/#bio-wayne-huang), [Sun Huang](http://2016.hack.lu/talks/#bio-sun-huang))|
 | 16:45 | [Cyber Grand Shellphish: Shellphish and the DARPA Cyber Grand Challenge](http://2016.hack.lu/talks/#cyber-grand-shellphish-shellphish-and-the-darpa-cyber-grand-challenge) ([Kevin Borgolte](http://2016.hack.lu/talks/#bio-kevin-borgolte))|
 | 17:30 | [Spy Hard with a Vengeance: How one city stood up to the Department of Homeland Security](http://2016.hack.lu/talks/#spy-hard-with-a-vengeance-how-one-city-stood-up-to-the-department-of-homeland-security) ([aestetix](http://2016.hack.lu/talks/#bio-aestetix), [Brian Hofer](http://2016.hack.lu/talks/#bio-brian-hofer))|
-| 18:15 | [The Metabrik Platform: Rapid Development of Reusable Security Tools](http://2016.hack.lu/talks/#the-metabrik-platform-rapid-development-of-reusable-security-tools) ([Patrice Auffret](http://2016.hack.lu/talks/#bio-patrice-auffret))|
+| 18:15 | |
 {: class="table"}
 
 
@@ -67,10 +67,10 @@ Thursday 20 October 2016 (Talks)
 | 09:30 | [Where should I host my malware?](http://2016.hack.lu/talks/#where-should-i-host-my-malware) ([Attila Marosi](http://2016.hack.lu/talks/#bio-attila-marosi))|
 | 10:15 | Refreshment break|
 | 10:30 | [Interesting Malware - No, I’m not kidding…](http://2016.hack.lu/talks/#interesting-malware---no-im-not-kidding) ([Marion Marschalek](http://2016.hack.lu/talks/#bio-marion-marschalek))|
-| 11:15 |  |
+| 11:15 | [The Metabrik Platform: Rapid Development of Reusable Security Tools](http://2016.hack.lu/talks/#the-metabrik-platform-rapid-development-of-reusable-security-tools) ([Patrice Auffret](http://2016.hack.lu/talks/#bio-patrice-auffret)) |
 | 12:00 | Lunch |
 | 13:00 | [Lightning talks](http://piratepad.net/GYg4ObNCsY)|
-| 13:30 |  |
+| 13:30 | [House intercoms attacks: when frontdoors become backdoors](http://2016.hack.lu/talks/#house-intercoms-attacks-when-frontdoors-become-backdoors) ([Sébastien Dudek](http://2016.hack.lu/talks/#bio-sbastien-dudek))|
 | 14:15 | |
 | 15:00 | |
 | 15:45 | Refreshment break |
