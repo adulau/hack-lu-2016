@@ -33,7 +33,6 @@ Tuesday 18 October 2016 (Talks)
 | 16:45 | [Cyber Grand Shellphish: Shellphish and the DARPA Cyber Grand Challenge](http://2016.hack.lu/talks/#cyber-grand-shellphish-shellphish-and-the-darpa-cyber-grand-challenge) ([Kevin Borgolte](http://2016.hack.lu/talks/#bio-kevin-borgolte))|
 | 17:30 | [Spy Hard with a Vengeance: How one city stood up to the Department of Homeland Security](http://2016.hack.lu/talks/#spy-hard-with-a-vengeance-how-one-city-stood-up-to-the-department-of-homeland-security) ([aestetix](http://2016.hack.lu/talks/#bio-aestetix), [Brian Hofer](http://2016.hack.lu/talks/#bio-brian-hofer))|
 | 18:15 | [The Metabrik Platform: Rapid Development of Reusable Security Tools](http://2016.hack.lu/talks/#the-metabrik-platform-rapid-development-of-reusable-security-tools) ([Patrice Auffret](http://2016.hack.lu/talks/#bio-patrice-auffret))|
-| 20:00 | Social event (including drinks and walking dinner)|
 {: class="table"}
 
 
