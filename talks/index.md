@@ -83,6 +83,7 @@ Attila has several international certificates such as CEH, ECSA, OSCP, OSCE. Dur
 
 Interesting Malware - No, I'm not kidding...
 --------------------------------------------
+by Marion Marschalek
 
 There is malware, and then, there is m.a.l.w.a.r.e. Last year we got our fingers on a set of exquisite binaries which were definitely not the usual kind. No I'd never call malware sophisticated, after all that's not what it takes to be dangerous; or interesting. But those were a challenging beast, unusually intriguing.
 
@@ -515,3 +516,34 @@ Bio: Sébastien Larinier
 
 Sébastien Larinier (@sebdraven) currently is Senior Researcher and Incident Handler at the CERT Sekoia located in Paris, member of the honeyproject chapter France and co organizer of botconf. Sébastien focused his work  on botnet hunting, malware analysis, network forensics, early compromission detection, forensic and incident response. Python addict he supports different opensource projects like FastIR, Oletools, pymisp, malcom...,
 
+Advanced Exploitation: ROP and protections bypass under Linux
+-------------------------------------------------------------
+by Julien Bachmann
+
+This workshop’s goal is to give trainees an understanding of the exploitation technique known as Return Oriented Programming, or ROP, through both explanations and gradually complex exercises. The labs will be performed on Linux and binaries will be 32 bits.
+After a brief recap on buffer overflows the workshop goes on to explain protection built-into the compiler and the OS (canaries, NX, ...). Introduction to ROP is done by starting with ret2libc exploitation which is a specialization of the ROP technique.
+ROP concepts such as gadgets, ROP chains, primitives are detailed. Tools such as ropgadget and rp++ are presented and a detailed ROP chain is then studied.
+The workshop then continues with a live example before entering the lab part. Example of lab manual (this one was given in a university) can be found in annex but subject to change in order to match timeframe.
+
+Bio: Julien Bachmann
+--------------------
+
+After several years performing penetration tests, to break into information systems and assess the security of web and mobile applications, Julien joined the defence side for an MSSP. This background allows him to have a different view on how to protect enterprises and their critical assets. His current role could be could be resumed as a "full stack security architect: from assembly to Gartner reports and beyond”.
+Julien is also a guest lecturer at Swiss engineering schools on software exploitation techniques, as well as on incident response and malware analysis.
+
+HIDden secrets in Soft Token: A security study of HID Global Soft Token
+-----------------------------------------------------------------------
+by Mouad Abouhali (@_m00dy_)
+
+Nowadays, many companies tend to deploy two factors authentication means to remotely access their infrastructure. Lately, the use of Soft Token
+applications instead of Hardware tokens seduces more and more, especially in regards to financial aspects (deployment and maintenance costs).
+In This current talk I will present a security study of the Android version of HID Soft Token application (HID Global). This study covers the
+mechanisms that are used by the application to protect the main functional processing as generating encryptions keys, OTP keys, etc. Besides, the study
+lays the groundwork for shedding light on two vulnerabilities that affect the application.
+
+Indeed, the cryptographic operations that are implemented by the application suffer from a certain weaknesses that allow an attacker (under certain circumstances) to retrieve the main resources of an enrolled HID Soft Token application that belongs to a legitimate user, clone its configuration and particularly discover the victim’s PIN by the means of a brute force attack.
+
+Bio: Mouad Abouhali
+-------------------
+
+Mouad Abouhali is a security researcher currently working in Airbus Group Innovations.
