@@ -72,7 +72,7 @@ Thursday 20 October 2016 (Talks)
 | 13:00 | [Lightning talks](http://piratepad.net/GYg4ObNCsY)|
 | 13:30 | [House intercoms attacks: when frontdoors become backdoors](http://2016.hack.lu/talks/#house-intercoms-attacks-when-frontdoors-become-backdoors) ([Sébastien Dudek](http://2016.hack.lu/talks/#bio-sbastien-dudek))|
 | 14:15 | [When Practice Informs Technology](http://2016.hack.lu/talks/#when-practice-informs-technology) ([Mahsa](http://2016.hack.lu/talks/#bio-mahsa))|
-| 15:00 | [Bridging political gaps with code](http://2016.hack.lu/talks/#bridging-political-gaps-with-code) ([](http://2016.hack.lu/talks/#bio-okhin))|
+| 15:00 | [Bridging political gaps with code](http://2016.hack.lu/talks/#bridging-political-gaps-with-code) ([Okhin](http://2016.hack.lu/talks/#bio-okhin))|
 | 15:45 | Refreshment break |
 | 16:00 | |
 | 16:45 | |
