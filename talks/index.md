@@ -26,6 +26,18 @@ Bio: Alice Hutchings
 Dr Alice Hutchings is a Senior Research Associate at the Computer Laboratory, University of Cambridge. A criminologist, her research interests include understanding cybercrime offenders, and the prevention, intervention and disruption of online crime. She is a researcher in the Cambridge Cloud Cybercrime Centre, a multi-disciplinary initiative combining expertise from the University of Cambridge's Computer Laboratory, Institute of Criminology and Faculty of Law.
 
 
+Keynote - TBA
+-------------
+
+TBA
+
+Bio: Quinn Norton
+-----------------
+
+Quinn Norton, internet journalist and essayist, previously of Wired and The Message. I read too much history, use too much technology, obsess too much about security, know too much nerdy stuff, and am way too interested in the Mongolians.
+Nothing Ever Ends is a fast romp though the history of computer and internet culture, from over two thousand years ago to several years in the future. I’ll tell the stories of some of key players in the history of the net, including the 19th century robber barons in America, Han dynasty feng shui practitioners, God, the RIAA, 90s software pirates, a little-know greek goddess, the Seattle Police Department. Over enough time, all the consequences become unintended. But all those unintended consequences give us the internet we have now, and the future we will have.
+
+
 Talks
 =====
 
@@ -100,6 +112,7 @@ Bio: Sébastien Dudek
 --------------------
 
 Sébastien Dudek is a security consultant at Synacktiv. His main fields of interest are radio communication technologies and network and software security. He has been a speaker at NoSuchCon and Hack.lu. He has also contributed for the French magazine MISC and blogged about various security mechanisms.
+
 
 KillTheHashes 30 million Malware DNA profiling exercise
 -------------------------------------------------------
@@ -185,19 +198,11 @@ This talk will cover the reign of surveillance that has secretly taken over the 
 
 Bio: aestetix
 -------------
-aestetix served on the DAC ad hoc privacy committee as a technical
-expert. In addition, he has been involved in many privacy−aware projects,
-including Noisetor, the first nonprofit sponsored Tor Exit Node in the United
-States, and the HOPE 2008 and 2010 badges, which involved RFID location aware
-social networking. He also refuses to eat hot dog buns on Sundays, in accordance
-with the wishes of Our Goddess.
+aestetix served on the DAC ad hoc privacy committee as a technical expert. In addition, he has been involved in many privacy−aware projects, including Noisetor, the first nonprofit sponsored Tor Exit Node in the United States, and the HOPE 2008 and 2010 badges, which involved RFID location aware social networking. He also refuses to eat hot dog buns on Sundays, in accordance with the wishes of Our Goddess.
 
 Bio: Brian Hofer
 ----------------
-Brian Hofer is a member of the Oakland Privacy Working Group, which formed to
-oppose the DAC. He chaired the DAC ad hoc privacy committee, which has since
-introduced two City Council adopted privacy and data retention policies, along
-with an ordinance making the privacy committee permanent.
+Brian Hofer is a member of the Oakland Privacy Working Group, which formed to oppose the DAC. He chaired the DAC ad hoc privacy committee, which has since introduced two City Council adopted privacy and data retention policies, along with an ordinance making the privacy committee permanent.
 
 
 The Metabrik Platform: Rapid Development of Reusable Security Tools
@@ -219,6 +224,24 @@ Patrice Auffret (AKA GomoR) is a senior security expert specialized in network p
 He is author of multiple Perl modules to craft network packets and analyze responses (Net::Frame framework, SinFP3 OS fingerprinting suite or the OSPF Attack Shell).
 
 He writes articles in French security magazine MISC and speaks at various security conferences including IT Underground 2007, SSTIC 2008, hack.lu 2012, EuSecWest 2012, ekoparty 2012 and SSTIC 2016.
+
+Bridging political gaps with code
+---------------------------------
+
+One of the main mission of La Qaudrature du Net, as a NGO fighting for human right sin the digital spheres, is to develop engagement of people to pressure political bodies such as national or european parliaments.
+
+To achieve this goal, LQDN has developped over the year a toolbox to help document the political process, to help keeping tabs on representatives through their all career, and to mobilize citizens to take actions and to reestablish dialog with these representatives.
+
+I will discuss how this process has been going into LQDN actions and how the dynamics between code, developers and users (both internal and external) are at the core of this process.
+
+From paying technical debt, to volunteer management, from ideological to technical points of view, let's talk about how code can be political.
+
+Bio: Okhin
+----------
+
+Okhin is the La Quadrature du Net Tools Manager. His missions goes from maintainning infrastructure, to manage a communty of volunteer, to organising security training.
+
+Before LQDN, he worked for the International Federation of Human Roghts (FIDH) as a member of the IT Team, and used to volunteer with the group known as Telecomix, where his interests in technics merged with politics.
 
 WiFi Exploitation: How passive interception leads to active exploitation
 ------------------------------------------------------------------------
@@ -370,6 +393,16 @@ Bio: Yaniv Balmas
 Bio: Ben Herzog
 ---------------
 
+When Practice Informs Technology
+--------------------------------
+
+Digital rights activists and social change actors often operate in singular movements that seldom overlap, creating a disconnect between technology and practical needs. Non governmental organizations (NGOs) with insufficient knowledge of technology, or technological infrastructure may try to fill this void by allocating funding to attain the most up to date technologies or best practices, which may not be of relevance to local needs and contexts, ultimately proving ineffective. The latest technologies, best tech practices or rapid response expertise are often not only ineffective, but find themselves repeated within the same networks rather than expanding beyond immediate existing trust relationships between at risk Internet users and technologists. There is a need to bridge the relationship between the practices of change actors and the decisions of technologists to ensure that they inform the technologies and digital security guidelines given to them -not the other way. Deliberate efforts to connect technologist with civil society actors beyond their existing networks and foster new trust networks are therefore necessary. Emphasis will be given to three areas of focus: inclusion of marginalized groups such as women, youth and LGBT; privacy vs. publicity concerns; and UX/usability concerns to facilitate the building of networks, bring women and those marginalized into the technology discourse through an environment that fosters trust, and exchange tools, technologies and best practices.
+
+Bio: Mahsa
+----------
+
+Mahsa is the Iran editor for Global Voices as well as an Iranian-Canadian Internet researcher. Her focus is on the intersection of technology and human rights, especially as it pertains to freedom of expression and access to information with a focus on Iran. She holds a Honours Bachelor of Arts and Science in Political Science from the University of Toronto, and a Research Masters degree at the University of Amsterdam, finishing a her thesis on the technologies of social movements in Iran. She is also a researcher for the University of Amsterdam's DATACTIVE Research Collective.
+
 
 Workshops
 =========
@@ -471,4 +504,14 @@ Saumil Shah is the founder and CEO of Net-Square, providing cutting edge informa
 
 Saumil holds an M.S. in Computer Science from Purdue University, USA and a B.E. in Computer Engineering from Gujarat University. He spends his leisure time playing Pacman, flying kites, traveling around the world and taking pictures.
 
+
+FastIR Collector
+----------------
+
+The goal of the wokshop is to present and use the open source [live forensic collector FastIR](https://github.com/SekoiaLab/Fastir_Collector) on differents cases investigations on Windows: RAT with tricks anti forensics, rootkits, Trojan with dll injections… And we’ll present new features we have developped this year with agent and server.
+
+Bio: Sébastien Larinier
+-----------------------
+
+Sébastien Larinier (@sebdraven) currently is Senior Researcher and Incident Handler at the CERT Sekoia located in Paris, member of the honeyproject chapter France and co organizer of botconf. Sébastien focused his work  on botnet hunting, malware analysis, network forensics, early compromission detection, forensic and incident response. Python addict he supports different opensource projects like FastIR, Oletools, pymisp, malcom...,
 
