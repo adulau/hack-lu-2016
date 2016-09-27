@@ -45,7 +45,7 @@ Wednesday 19 October 2016 (Talks)
 | 09:30 | [2016: The Infosec Crossroads](http://2016.hack.lu/talks/#the-infosec-crossroads) ([Saumil Shah](http://2016.hack.lu/talks/#bio-saumil-shah))|
 | 10:15 | Refreshment break|
 | 10:30 | [Exploit generation and JavaScript analysis automation with WinDBG](http://2016.hack.lu/talks/#exploit-generation-and-javascript-analysis-automation-with-windbg) ([Fitzl Csaba](http://2016.hack.lu/talks/#bio-fitzl-csaba), [Miklos Desbordes-Korcsev](http://2016.hack.lu/talks/#bio-miklos-desbordes-korcsev))|
-| 11:15 | [Keynote: ](http://2016.hack.lu/talks/#) ([Quinn Norton](http://2016.hack.lu/talks/#)) |
+| 11:15 | [Keynote: ](http://2016.hack.lu/talks/#) ([Quinn Norton](http://2016.hack.lu/talks/#bio-quinn-norton)) |
 | 12:00 | Lunch |
 | 13:00 | [Lightning talks](http://piratepad.net/GYg4ObNCsY)|
 | 13:30 | [Exploiting new default accounts in SAP systems](http://2016.hack.lu/talks/#exploiting-new-default-accounts-in-sap-systems) ([Joris van de Vis](http://2016.hack.lu/talks/#bio-joris-van-de-vis)) |
@@ -71,8 +71,8 @@ Thursday 20 October 2016 (Talks)
 | 12:00 | Lunch |
 | 13:00 | [Lightning talks](http://piratepad.net/GYg4ObNCsY)|
 | 13:30 | [House intercoms attacks: when frontdoors become backdoors](http://2016.hack.lu/talks/#house-intercoms-attacks-when-frontdoors-become-backdoors) ([Sébastien Dudek](http://2016.hack.lu/talks/#bio-sbastien-dudek))|
-| 14:15 | |
-| 15:00 | |
+| 14:15 | [When Practice Informs Technology](http://2016.hack.lu/talks/#when-practice-informs-technology) ([Mahsa](http://2016.hack.lu/talks/#bio-mahsa))|
+| 15:00 | [Bridging political gaps with code](http://2016.hack.lu/talks/#bridging-political-gaps-with-code) ([](http://2016.hack.lu/talks/#bio-okhin))|
 | 15:45 | Refreshment break |
 | 16:00 | |
 | 16:45 | |
