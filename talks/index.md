@@ -416,6 +416,21 @@ Bio: Mahsa Alimardani
 Mahsa is the Iran editor for Global Voices as well as an Iranian-Canadian Internet researcher. Her focus is on the intersection of technology and human rights, especially as it pertains to freedom of expression and access to information with a focus on Iran. She holds a Honours Bachelor of Arts and Science in Political Science from the University of Toronto, and a Research Masters degree at the University of Amsterdam, finishing a her thesis on the technologies of social movements in Iran. She is also a researcher for the University of Amsterdam's DATACTIVE Research Collective.
 
 
+An in-dept view into the iOS Kernel Vulnerabilities abused by PEGASUS
+---------------------------------------------------------------------
+by Stefan Esser
+
+On 24th of August Citizenlab announced that they have caught an iOS surveillance malware called PEGASUS in the wild after it had been used against dissidents in the UAE. This was a very different form of iOS malware from everything previously caught in the wild, because it made use of 3 previously unknwon iOS  vulnerabilities. This exploit chain has been named TRIDENT. Unfortunately up to this day none of the involved parties has provided any technical details about the vulnerabilities involved or shared the caught malware samples with independent researchers that could provide an analysis to the public.
+
+In this session we will take a look into how it was possible to close this information gap by analysing the iOS update provided by Apple and what previously hidden details about the vulnerabilities were discovered. We will detail how these vulnerabilities can be exploited to achieve arbitrary kernel code execution. However we will only look at the kernel side of things and leave the MobileSafari vulnerability to another team of researchers.
+
+
+Bio: Stefan Esser
+-----------------
+
+Stefan Esser is best known in the security community as the PHP security guy. Since he became a PHP core developer in 2002 he devoted a lot of time to PHP and PHP application vulnerability research. However in his early days he released lots of advisories about vulnerabilities in software like CVS, Samba, OpenBSD or Internet Explorer. In 2003 he was the first to boot Linux directly from the hard disk of an unmodified XBOX through a buffer overflow in the XBOX font loader. In 2004 he founded the Hardened-PHP Project to develop a more secure version of PHP, known as Hardened-PHP, which evolved into the Suhosin PHP Security System in 2006. Since 2007 he works as head of research and development for the German web application company SektionEins GmbH that he co-founded. In 2010 he did his own ASLR implementation for Apple's iOS and shifted his focus to the security of the iOS kernel and iPhones in general. Since then he has spoken about the topic of iOS security at various information security conferences around the globe. In 2012 he co-authored the book the iOS Hackers Handbook.
+
+
 Workshops
 =========
 
