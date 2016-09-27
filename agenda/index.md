@@ -129,7 +129,7 @@ Thursday 20 October 2016 (Workshops)
 | 10:30 | continue workshop | continue workshop|continue workshop|
 | 12:00 | Lunch break | Lunch break|Lunch break|
 | 13:00 |[Lightning talks](http://piratepad.net/GYg4ObNCsY)  | [Lightning talks](http://piratepad.net/GYg4ObNCsY)|[Lightning talks](http://piratepad.net/GYg4ObNCsY) |
-| 13:30 |[FastIR Collector](http://2016.hack.lu/talks/#fastir-collecto) ([Sébastien Larinier](http://2016.hack.lu/talks/#bio-sbastien-larinier)) |||
+| 13:30 |[FastIR Collector](http://2016.hack.lu/talks/#fastir-collecto) ([Sébastien Larinier](http://2016.hack.lu/talks/#bio-sbastien-larinier)) *ca. 2 h* |||
 | 15:45 | Refreshment break |Refreshment break||
 | 16:00 |workshop continued| end of workshop ||
 | 18:00 |end of workshop|  ||
