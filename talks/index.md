@@ -17,6 +17,7 @@ Keynotes
 
 Stressed out? Denial of service attacks from the providers’ perspective
 -----------------------------------------------------------------------
+by Alice Hutchings
 
 The most frequent users of ‘booter’ or ‘stresser’ services are online gamers. These services are used to gain an advantage over an opponent by ‘booting’ them off the game with a denial of service attack. Booter services have customer-facing websites, whereby payments are taken for subscriptions, and attacks are requested. In order to understand this black market resource, we asked those providing the services to tell us about themselves and their activities. The operation of booter services requires not just technical expertise, but also information about the market for denial of service attacks, and how to monetise this. I will talk about how this knowledge is obtained, exposure to these services, and the escalation from using to operating booter services, and to other forms of cybercrime.
 
@@ -28,6 +29,7 @@ Dr Alice Hutchings is a Senior Research Associate at the Computer Laboratory, Un
 
 Keynote - TBA
 -------------
+by Quinn Norton
 
 TBA
 
@@ -43,6 +45,7 @@ Talks
 
 Exploiting and attacking seismological networks... remotely
 -----------------------------------------------------------
+by Bertin Bervis Bonilla and James Jara
 
 In this presentation we are going to explain and demonstrate step by step in a real attack scenario how a remote attacker could elevate privileges in order to take control remotely in a production seismological network located at 183mts under the sea. We found several seismographs in production connected to the public internet providing graphs and data to anyone who connects to the embed web server running at port 80. The seismographs provide real time data based in the perturbations from earth and surroundings, we consider this as a critical infrastructure and is clear the lack of protection and implementation by the technicians in charge.
 
@@ -51,7 +54,7 @@ We are going to present 3 ways to exploit the seismograph which is segmented in 
 Bio: Bertin Bervis Bonilla
 --------------------------
 
- Is a  researcher in offensive security reverse engineering and network attacks and defense, Bertin has been speaker in several security conferences like DEFCON ,BlackHat ARSENAL, OWASP Latin america Tour , DragonJAR conference ,EKOPARTY and all technical universities in his country .
+Is a  researcher in offensive security reverse engineering and network attacks and defense, Bertin has been speaker in several security conferences like DEFCON ,BlackHat ARSENAL, OWASP Latin america Tour , DragonJAR conference ,EKOPARTY and all technical universities in his country .
 He is the founder of NetDB - The Network Database project , a computer fingerprint/certificate driven search engine. Formerly is a network engineer working for a five letters us networking company in San Jose Costa Rica.
 
 Bio: James Jara
@@ -62,6 +65,8 @@ Is the founder and CTO of NETDB.IO , a search engine of internet of things focus
 
 Where should I host my malware?
 -------------------------------
+by Attila Marosi
+
 
 The growth of IoT devices continues to raise questions about their role and impact in cybersecurity. Badly configured or poorly individual devices are often easy targets for malicious actors. Launching attacks at first seems more challenging due to the diversity of the ecosystem, but is actually doable and easy to execute. We explain how IoTs are a cybercriminal’s paradise:
 
@@ -131,7 +136,6 @@ By analyzing malware internals, the algorithm is able to build characteristic fa
 We will demonstrate the results of our work and the techniques and tool used to derive these results.
 
 
-
 Bio: Luciano Martins
 --------------------
 
@@ -193,7 +197,7 @@ Kevin Borgolte is a PhD candidate in the Computer Science department at UC Santa
 
 Spy Hard with a Vengeance: How one city stood up to the Department of Homeland Security
 ---------------------------------------------------------------------------------------
-by aestetix, Brian Hofer
+by aestetix and Brian Hofer
 
 This talk will cover the reign of surveillance that has secretly taken over the United States at the local level through use of Federal grant money, and offer suggestions on how we can fight back. It’s the story of how the Department of Homeland Security (DHS) tried to create a fusion center in Oakland, California. In particular, we'll be sharing details of the Oakland privacy policy we helped create in response to this intrusive spy system, and the advocacy that led to its creation. Our hope is to teach the framework we created, shed light on how these issues affect both Americans and Europeans, and how businesses and governments can find a balance between security and privacy.
 
@@ -228,6 +232,8 @@ He writes articles in French security magazine MISC and speaks at various securi
 
 Bridging political gaps with code
 ---------------------------------
+by Okhin
+
 
 One of the main mission of La Qaudrature du Net, as a NGO fighting for human right sin the digital spheres, is to develop engagement of people to pressure political bodies such as national or european parliaments.
 
@@ -259,6 +265,7 @@ Bio: Solomon Sonya
 
 2016: The Infosec Crossroads
 ----------------------------
+by Saumil Shah
 
 "Today's attacks succeed because the defense is reactive". I have been researching attacks and offensive techniques since the past 16 years. As the defenses kept catching up and closing open doors, we attackers looked for new avenues and vectors. This talk looks back on the state of defenses during my days of One-Way Web Hacking in 2001 to Stegosploit in 2016, and a common pattern emerges. Defense boils down to reacting to new attacks and then playing catch-up. It is time to take another look at defense strategy. In this talk I present the basics of what should be the next evolution of pro-active defense architecture.
 
@@ -321,7 +328,7 @@ Joris has got extensive experience in the technical and security field of SAP.  
 
 badGPO - Using GPOs for Persistence and Lateral Movement
 --------------------------------------------------------
-by Yves Kraft, Immanuel Willi
+by Yves Kraft and Immanuel Willi
 
 Group Policy is a feature which provides centralized management and configuration functions for the Microsoft operating system, application and user settings. Group Policy is simply the easiest way to reach out and configure computer and user settings on networks based on Active Directory Domain Services (AD DS). Such policies are widely used in enterprise environments to control settings of clients and servers: registry settings, security options, scripts, folders, and software installation and maintenance, just to name a few. Settings are contained in so-called Group Policy Objects (GPOs) and can be misused in a sneaky way to distribute malware and gain persistence in an automated manner in a post exploitation scenario of an already compromised domain. In a proof of concept, inspired by Phineas Fishers' article about pwning HackingTeam, we will show how persistence and lateral movement in a compromised company network can be achieved, and demonstrate some PowershellEmpire Framework modules which we created. PowershellEmpire is basically a post-exploitation framework that utilises the widely-deployed PowerShell tool for all your system-smashing needs. There are already functionalities built-in regarding GPOs. We tried to further evolve the miss-use of GPOs in additional scenarios. Furthermore, we will discuss some countermeasures including detection and prevention mechanisms
 
@@ -345,6 +352,7 @@ Clarence Chio graduated with a B.S. and M.S. in Computer Science from Stanford, 
 
 Credential Assessment: Mapping Privilege Escalation at Scale
 ------------------------------------------------------------
+by Matt Weeks
 
 In countless intrusions from large retail giants to oil companies, attackers have progressed from initial access to complete network compromise. In the aftermath, much ink is spilt and products are sold on how the attackers first obtained access and how the malware they used could or could not have been detected, while little attention is given to the credentials they found that turned their access on a single-system into thousands more. This process, while critical for offensive operations, is often complex, involving many links in the escalation chain composed of obtaining credentials on system A that grant access to system B and credentials later used on system B that grant further access, etc. We’ll show how to identify and combat such credential exposure at scale with the framework we developed. We comprehensively identify exposed credentials and automatically construct the compromise chains to identify maximal access and privileges gained, useful for either offensive or defensive purposes.
 
@@ -355,6 +363,8 @@ Matt Weeks currently leads root9B's research and development arm. As a researche
 
 BtleJuice: the Bluetooth Smart Man In The Middle Framework
 ----------------------------------------------------------
+by Damien Cauquil
+
 
 A lot of Bluetooth Low Energy capable devices are spread since the last few years, offering a brand new way to compromise many "smart" objects: fitness wristbands, smart locks and padlocks and even healthcare devices. But this protocol poses some new challenges: how may one easily intercept every communication between a device and an application ? How to easily spoof the behavior of a device to assess authentication ?
 
@@ -396,11 +406,12 @@ Bio: Ben Herzog
 
 When Practice Informs Technology
 --------------------------------
+by Mahsa Alimardani
 
 Digital rights activists and social change actors often operate in singular movements that seldom overlap, creating a disconnect between technology and practical needs. Non governmental organizations (NGOs) with insufficient knowledge of technology, or technological infrastructure may try to fill this void by allocating funding to attain the most up to date technologies or best practices, which may not be of relevance to local needs and contexts, ultimately proving ineffective. The latest technologies, best tech practices or rapid response expertise are often not only ineffective, but find themselves repeated within the same networks rather than expanding beyond immediate existing trust relationships between at risk Internet users and technologists. There is a need to bridge the relationship between the practices of change actors and the decisions of technologists to ensure that they inform the technologies and digital security guidelines given to them -not the other way. Deliberate efforts to connect technologist with civil society actors beyond their existing networks and foster new trust networks are therefore necessary. Emphasis will be given to three areas of focus: inclusion of marginalized groups such as women, youth and LGBT; privacy vs. publicity concerns; and UX/usability concerns to facilitate the building of networks, bring women and those marginalized into the technology discourse through an environment that fosters trust, and exchange tools, technologies and best practices.
 
-Bio: Mahsa
-----------
+Bio: Mahsa Alimardani
+---------------------
 
 Mahsa is the Iran editor for Global Voices as well as an Iranian-Canadian Internet researcher. Her focus is on the intersection of technology and human rights, especially as it pertains to freedom of expression and access to information with a focus on Iran. She holds a Honours Bachelor of Arts and Science in Political Science from the University of Toronto, and a Research Masters degree at the University of Amsterdam, finishing a her thesis on the technologies of social movements in Iran. She is also a researcher for the University of Amsterdam's DATACTIVE Research Collective.
 
@@ -508,6 +519,7 @@ Saumil holds an M.S. in Computer Science from Purdue University, USA and a B.E. 
 
 FastIR Collector
 ----------------
+by Sébastien Larinier
 
 The goal of the wokshop is to present and use the open source [live forensic collector FastIR](https://github.com/SekoiaLab/Fastir_Collector) on differents cases investigations on Windows: RAT with tricks anti forensics, rootkits, Trojan with dll injections… And we’ll present new features we have developped this year with agent and server.
 
