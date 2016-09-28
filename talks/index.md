@@ -430,6 +430,28 @@ Bio: Stefan Esser
 
 Stefan Esser is best known in the security community as the PHP security guy. Since he became a PHP core developer in 2002 he devoted a lot of time to PHP and PHP application vulnerability research. However in his early days he released lots of advisories about vulnerabilities in software like CVS, Samba, OpenBSD or Internet Explorer. In 2003 he was the first to boot Linux directly from the hard disk of an unmodified XBOX through a buffer overflow in the XBOX font loader. In 2004 he founded the Hardened-PHP Project to develop a more secure version of PHP, known as Hardened-PHP, which evolved into the Suhosin PHP Security System in 2006. Since 2007 he works as head of research and development for the German web application company SektionEins GmbH that he co-founded. In 2010 he did his own ASLR implementation for Apple's iOS and shifted his focus to the security of the iOS kernel and iPhones in general. Since then he has spoken about the topic of iOS security at various information security conferences around the globe. In 2012 he co-authored the book the iOS Hackers Handbook.
 
+Fraud detection and forensics on telco networks
+-----------------------------------------------
+by Vladimir Kropotov and Dmitry Kurbatov
+
+Telecom networks have always been targets for those looking to obtain services for free or at the expense of other subscribers. In this presentation, we will describe new fraud techniques and attacks that use SS7 vulnerabilities affecting Telecom networks and related services. We will demonstrate how integration of payment systems with communication services can jeopardize the bank accounts of ordinary subscribers and make it easier for criminals to monetize attacks. Our demo will include transfer of money from electronic accounts.
+
+Bio: Vladimir Kropotov
+----------------------
+
+Head of CSIRT, Positive Technologies
+Vladimir was born in 1980. He holds a university degree in applied mathematics and information security.
+Active for over 15 years in information security projects and research, he previously built and led incident response teams at some of Fortune 500 companies. Vladimir joined Positive Technologies in 2014 and currently performs research for automating detection and prevention of infrastructure attacks as well as heads the Computer Security Incident Response Team (CSIRT). He participates in various projects for leading financial, industrial, and telecom companies.
+Vladimir regularly appears at high-profile international conferences such as FIRST, CARO, HITB, Hack.lu, PHDays, ZeroNights, POC, Hitcon, and many others.
+
+
+Bio: Dmitry Kurbatov
+--------------------
+
+Head of telecom security department, Positive Technologies
+Dmitry Kurbatov was born in Moscow in 1986. He holds a university degree in information security of telecommunications systems.
+Dmitry joined Positive Technologies in 2010 as an information security expert and now he specializes on telecom and mobile networks security. He is responsible for the product development (SS7 Attack Discovery and SS7 Security Scanner) as well as for services in audit of telecom and mobile networks security systems. His team revealed vulnerable points in popular two factor authentication schemes using texts and demonstrated how easy it is to compomise Facebook, WhatsApp and Telegram accounts.
+
 
 Workshops
 =========
