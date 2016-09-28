@@ -74,7 +74,7 @@ Thursday 20 October 2016 (Talks)
 | 14:15 | [When Practice Informs Technology](http://2016.hack.lu/talks/#when-practice-informs-technology) ([Mahsa](http://2016.hack.lu/talks/#bio-mahsa))|
 | 15:00 | [Bridging political gaps with code](http://2016.hack.lu/talks/#bridging-political-gaps-with-code) ([Okhin](http://2016.hack.lu/talks/#bio-okhin))|
 | 15:45 | Refreshment break |
-| 16:00 | |
+| 16:00 | [An in-dept view into the iOS Kernel Vulnerabilities abused by PEGASUS](http://2016.hack.lu/talks/#an-in-dept-view-into-the-ios-kernel-vulnerabilities-abused-by-pegasus) ([Stefan Esser](http://2016.hack.lu/talks/#bio-stefan-esser))|
 | 16:45 | |
 | 17:30 ||
 | 18:15 | |
