@@ -452,6 +452,22 @@ Head of telecom security department, Positive Technologies
 Dmitry Kurbatov was born in Moscow in 1986. He holds a university degree in information security of telecommunications systems.
 Dmitry joined Positive Technologies in 2010 as an information security expert and now he specializes on telecom and mobile networks security. He is responsible for the product development (SS7 Attack Discovery and SS7 Security Scanner) as well as for services in audit of telecom and mobile networks security systems. His team revealed vulnerable points in popular two factor authentication schemes using texts and demonstrated how easy it is to compomise Facebook, WhatsApp and Telegram accounts.
 
+The Legend of Windows: A Link to the Hash
+-----------------------------------------
+by m4xk and sıx
+
+During one of our IT security investigation we have observed an undocumented Windows feature which leaks much valued hashes from the system. No complicated exploitation is needed to play the trick we will present and it can drastically speed up owning all the users in the systems and reaching to domain administration privileges.
+
+Bio: m4xk
+---------
+
+m4xk is working in the field of IT Security for several years and always curious about how IT systems work underneath. He grew a passion for reverse engineering software and hardware. He is deeply interested in breaking and exploiting computers after learning how they work. m4xk holds several international certifications like OSCP.
+
+Bio: sıx
+--------
+
+sıx is passionate about bad software and exploiting it's flaws. He is working as an IT Security Specialist for years now and previously as an administrator for Windows, Linux and Unix systems in order to learn how they work in practice. sıx holds several international certifications like OSCP.
+
 
 Workshops
 =========

@@ -76,7 +76,7 @@ Thursday 20 October 2016 (Talks)
 | 15:45 | Refreshment break |
 | 16:00 | [An in-dept view into the iOS Kernel Vulnerabilities abused by PEGASUS](http://2016.hack.lu/talks/#an-in-dept-view-into-the-ios-kernel-vulnerabilities-abused-by-pegasus) ([Stefan Esser](http://2016.hack.lu/talks/#bio-stefan-esser))|
 | 16:45 | [Fraud detection and forensics on telco networks](http://2016.hack.lu/talks/#fraud-detection-and-forensics-on-telco-networks) ([Vladimir Kropotov](http://2016.hack.lu/talks/#bio-vladimir-kropotov) and [Dmitry Kurbatov](http://2016.hack.lu/talks/#bio-dmitry-kurbatov))|
-| 17:30 ||
+| 17:30 | [The Legend of Windows: A Link to the Hash](http://2016.hack.lu/talks/#) ([m4xk](http://2016.hack.lu/talks/#) and [sıx](http://2016.hack.lu/talks/#))|
 | 18:15 | |
 {: class="table"}
 
