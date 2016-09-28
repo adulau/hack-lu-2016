@@ -71,11 +71,11 @@ Thursday 20 October 2016 (Talks)
 | 12:00 | Lunch |
 | 13:00 | [Lightning talks](http://piratepad.net/GYg4ObNCsY)|
 | 13:30 | [House intercoms attacks: when frontdoors become backdoors](http://2016.hack.lu/talks/#house-intercoms-attacks-when-frontdoors-become-backdoors) ([Sébastien Dudek](http://2016.hack.lu/talks/#bio-sbastien-dudek))|
-| 14:15 | [When Practice Informs Technology](http://2016.hack.lu/talks/#when-practice-informs-technology) ([Mahsa](http://2016.hack.lu/talks/#bio-mahsa))|
+| 14:15 | [When Practice Informs Technology](http://2016.hack.lu/talks/#when-practice-informs-technology) ([Mahsa Alimardani](http://2016.hack.lu/talks/#bio-mahsa-alimardani))|
 | 15:00 | [Bridging political gaps with code](http://2016.hack.lu/talks/#bridging-political-gaps-with-code) ([Okhin](http://2016.hack.lu/talks/#bio-okhin))|
 | 15:45 | Refreshment break |
 | 16:00 | [An in-dept view into the iOS Kernel Vulnerabilities abused by PEGASUS](http://2016.hack.lu/talks/#an-in-dept-view-into-the-ios-kernel-vulnerabilities-abused-by-pegasus) ([Stefan Esser](http://2016.hack.lu/talks/#bio-stefan-esser))|
-| 16:45 | |
+| 16:45 | [Fraud detection and forensics on telco networks](http://2016.hack.lu/talks/#fraud-detection-and-forensics-on-telco-networks) ([Vladimir Kropotov](http://2016.hack.lu/talks/#bio-vladimir-kropotov) and [Dmitry Kurbatov](http://2016.hack.lu/talks/#bio-dmitry-kurbatov))|
 | 17:30 ||
 | 18:15 | |
 {: class="table"}
