@@ -642,3 +642,26 @@ Bio: Mouad Abouhali
 -------------------
 
 Mouad Abouhali is a security researcher currently working in Airbus Group Innovations.
+
+
+The Fantastic 4 ... forensic domains: net, disk, mem, mal
+---------------------------------------------------------
+by David Durvaux, Christophe Vandeplas
+
+Forensic analysis (network, disk, memory, malware) is one of the core tasks of the incident handling activity. Where many analysts stop the investigation once they have identified the malware sample and write a report saying 'the attacker had full control...'; for us the fun only starts and we go further to find the juicy stuff that really matters.
+
+With our favorite open source tools (plaso, volatility, rekall, cuckoo, …) we will perform network, disk, memory and malware analysis of the forensic evidence (Windows 10) created for the Locked Shields Cyber Exercise by the CCDCOE. The goal is to introduce you to some nice features of our modern toolset, while also taking a moment of silence in respect of old deprecated tools like log2timeline.pl that are still actively used today. 
+
+Even more importantly we will not look into those 4 domains (network, disk, memory, malware) separately, as is done way too often, but will show you the immense value of putting all this information together allowing us to find the really juicy traces that were left on the system and would never be found.  
+
+
+Bio: David Durvaux 
+------------------
+
+David Durvaux learned to do forensic when he was at CERT.be.  Since then he continues to break things for the European Commission and other customers when the opportunity is given.
+
+
+Bio: Christophe Vandeplas 
+-------------------------
+
+Christophe Vandeplas enjoys forensic and malware analysis in NCIRC, the NATO Incident Response Center. Before he had fun at the Belgian Defence CERT where he helped built the CERT capability. His main contributions to the community were the creation of MISP, pystemon and the organisation of the FOSDEM conference for many years.
