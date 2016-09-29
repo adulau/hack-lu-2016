@@ -32,7 +32,7 @@ Tuesday 18 October 2016 (Talks)
 | 16:00 | [Unveiling the attack chain of Russian-speaking cybercriminals](http://2016.hack.lu/talks/#unveiling-the-attack-chain-of-russian-speaking-cybercriminals) ([Wayne Huang](http://2016.hack.lu/talks/#bio-wayne-huang), [Sun Huang](http://2016.hack.lu/talks/#bio-sun-huang))|
 | 16:45 | [Cyber Grand Shellphish: Shellphish and the DARPA Cyber Grand Challenge](http://2016.hack.lu/talks/#cyber-grand-shellphish-shellphish-and-the-darpa-cyber-grand-challenge) ([Kevin Borgolte](http://2016.hack.lu/talks/#bio-kevin-borgolte))|
 | 17:30 | [Spy Hard with a Vengeance: How one city stood up to the Department of Homeland Security](http://2016.hack.lu/talks/#spy-hard-with-a-vengeance-how-one-city-stood-up-to-the-department-of-homeland-security) ([aestetix](http://2016.hack.lu/talks/#bio-aestetix), [Brian Hofer](http://2016.hack.lu/talks/#bio-brian-hofer))|
-| 18:15 | |
+| 18:15 | [Of Mice and Keyboards: On the Security of Modern Wireless Desktop Sets](http://2016.hack.lu/talks/#) ([Matthias Deeg](http://2016.hack.lu/talks/#) and [Gerhard Klostermeier](http://2016.hack.lu/talks/#))|
 {: class="table"}
 
 
@@ -76,7 +76,7 @@ Thursday 20 October 2016 (Talks)
 | 15:45 | Refreshment break |
 | 16:00 | [An in-dept view into the iOS Kernel Vulnerabilities abused by PEGASUS](http://2016.hack.lu/talks/#an-in-dept-view-into-the-ios-kernel-vulnerabilities-abused-by-pegasus) ([Stefan Esser](http://2016.hack.lu/talks/#bio-stefan-esser))|
 | 16:45 | [Fraud detection and forensics on telco networks](http://2016.hack.lu/talks/#fraud-detection-and-forensics-on-telco-networks) ([Vladimir Kropotov](http://2016.hack.lu/talks/#bio-vladimir-kropotov) and [Dmitry Kurbatov](http://2016.hack.lu/talks/#bio-dmitry-kurbatov))|
-| 17:30 ||
+| 17:30 | [The Legend of Windows: A Link to the Hash](http://2016.hack.lu/talks/#) ([m4xk](http://2016.hack.lu/talks/#) and [sıx](http://2016.hack.lu/talks/#))|
 | 18:15 | |
 {: class="table"}
 
