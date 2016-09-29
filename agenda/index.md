@@ -107,7 +107,7 @@ Wednesday 19 October 2016 (Workshops)
 | Time | Ansembourg | Echternach - Diekirch | Wiltz |
 |:----:|:----------:|:----------------------:|:--------:|
 | 09:00 | | | |
-| 09:30 | [Malware Triage IOCs - Using Open Data to Help Develop Robust Indicators](http://2016.hack.lu/talks/#malware-triage-iocs---using-open-data-to-help-develop-robust-indicators) ([Sergei Frankoff](http://2016.hack.lu/talks/#bio-sergei-frankoff), [Sean Wilson](http://2016.hack.lu/talks/#bio-sean-wilson)) *ca. 2 h*|  *ca. 2 h*|
+| 09:30 | [Malware Triage IOCs - Using Open Data to Help Develop Robust Indicators](http://2016.hack.lu/talks/#malware-triage-iocs---using-open-data-to-help-develop-robust-indicators) ([Sergei Frankoff](http://2016.hack.lu/talks/#bio-sergei-frankoff), [Sean Wilson](http://2016.hack.lu/talks/#bio-sean-wilson)) *ca. 2 h*|  [The Fantastic 4 ... forensic domains: net, disk, mem, mal](http://2016.hack.lu/talks/#) ([David Durvaux](http://2016.hack.lu/talks/#), [Christophe Vandeplas](http://2016.hack.lu/talks/#)) *ca. 2 h*|
 | 10:15 | Refreshment break | Refreshment break|Refreshment break|
 | 10:30 | continue workshop | continue workshop|continue workshop|
 | 12:00 | Lunch break | Lunch break|Lunch break|
