@@ -654,6 +654,17 @@ With our favorite open source tools (plaso, volatility, rekall, cuckoo, …) we 
 
 Even more importantly we will not look into those 4 domains (network, disk, memory, malware) separately, as is done way too often, but will show you the immense value of putting all this information together allowing us to find the really juicy traces that were left on the system and would never be found.  
 
+We welcome the following audiences:
+1. An analyst looking to get more out of his evidence, with less time spent, allowing him to report business-impacting things.
+2. Curious people that want to get ideas, tools and pointers in order to learn on very well built forensic evidence.
+
+The workshop takes only two hours, so we do not have the time to do a full forensic analysis from scratch. This workshop will be a walkthrough of successes and failures of the analysis.
+While we will distribute some limited evidence we HIGHLY recommend you to download ALL the evidence beforehand. 
+Also those that like a challenge can start working on the evidence and send us a report beforehand. We will tell you if you are missing stuff, but will not give any hints or answers until the workshop.  (aka: try harder) 
+
+You can download the images here: http://vandeplas.com/hacklu/ 
+You can send us your report here: hacklu@autopsit.org   
+
 
 Bio: David Durvaux 
 ------------------
