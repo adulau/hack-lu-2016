@@ -32,7 +32,7 @@ Tuesday 18 October 2016 (Talks)
 | 16:00 | [Unveiling the attack chain of Russian-speaking cybercriminals](http://2016.hack.lu/talks/#unveiling-the-attack-chain-of-russian-speaking-cybercriminals) ([Wayne Huang](http://2016.hack.lu/talks/#bio-wayne-huang), [Sun Huang](http://2016.hack.lu/talks/#bio-sun-huang))|
 | 16:45 | [Cyber Grand Shellphish: Shellphish and the DARPA Cyber Grand Challenge](http://2016.hack.lu/talks/#cyber-grand-shellphish-shellphish-and-the-darpa-cyber-grand-challenge) ([Kevin Borgolte](http://2016.hack.lu/talks/#bio-kevin-borgolte))|
 | 17:30 | [Spy Hard with a Vengeance: How one city stood up to the Department of Homeland Security](http://2016.hack.lu/talks/#spy-hard-with-a-vengeance-how-one-city-stood-up-to-the-department-of-homeland-security) ([aestetix](http://2016.hack.lu/talks/#bio-aestetix), [Brian Hofer](http://2016.hack.lu/talks/#bio-brian-hofer))|
-| 18:15 | |
+| 18:15 | [Of Mice and Keyboards: On the Security of Modern Wireless Desktop Sets](http://2016.hack.lu/talks/#) ([Matthias Deeg](http://2016.hack.lu/talks/#) and [Gerhard Klostermeier](http://2016.hack.lu/talks/#))|
 {: class="table"}
 
 

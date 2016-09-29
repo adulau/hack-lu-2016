@@ -469,6 +469,36 @@ Bio: sıx
 sıx is passionate about bad software and exploiting it's flaws. He is working as an IT Security Specialist for years now and previously as an administrator for Windows, Linux and Unix systems in order to learn how they work in practice. sıx holds several international certifications like OSCP.
 
 
+Of Mice and Keyboards: On the Security of Modern Wireless Desktop Sets
+----------------------------------------------------------------------
+
+Wireless desktop sets consisting of a wireless mouse, a wireless keyboard, and a USB dongle have become more popular and more widespread in the last couple of years. Seen as potential target, those radio-based devices are of more interest to people with malicious intentions than their wired counterparts, due to the fact that they can also be attacked remotely from a safe distance via radio signals.
+
+As wireless desktop sets represent an attractive target both allowing to take control of a computer system and to gain knowledge of sensitive data like passwords, they have been frequently analyzed for security vulnerabilities and were successfully attacked in the past.
+
+SySS GmbH started a research project about the security of modern wireless desktop sets using AES encryption in 2015, as there was no publicly available data concerning security issues in current wireless mice and keyboards. Up to now, several security vulnerabilities in modern wireless desktop sets of different manufacturers like Microsoft, Cherry, Logitech, Fujitsu and Perixx have been found and reported in the course of our responsible disclosure program.
+
+In our talk, we will present the results of this research and will demonstrate ways in which modern wireless desktop sets of several manufacturers can be attacked by practically exploiting different security vulnerabilities.
+
+
+Bio: Matthias Deeg
+------------------
+
+Matthias Deeg is interested in information technology - especially IT security - since his early days and has a great interest in seeing whether security assumptions in soft-, firm- or hardware hold true when taking a closer look. Matthias successfully studied computer science at the university of Ulm and holds the following IT security certifications: CISSP, CISA, OSCP, OSCE.
+
+Since 2007 he works as IT security consultant for the IT security company SySS GmbH and is also head of R&D.
+
+Matthias was speaker at the Chaos Communication Congress in 2009 and 2010 (lightning talks and a workshop), at the BSidesVienna security conference in 2014 and 2015 (talks) and at the DeepSec security conference in 2015 (talk). In the last years, he also published several IT security papers and security advisories.
+
+
+Bio: Gerhard Klostermeier
+-------------------------
+
+Gerhard Klostermeier is interested in all things concerning IT security - especially when it comes to hardware or radio protocols. He successfully studied IT security at Aalen University and is working at SySS GmbH since 2014 as IT security consultant and penetration tester.
+
+Gerhard was speaker at GPN 2013 - a conference organized by the Chaos Computer Club (CCC) in Karlsruhe - where he talked about hacking RFID-based student cards. He is also author of the Mifare Classic Tool Android app.
+
+
 Workshops
 =========
 
