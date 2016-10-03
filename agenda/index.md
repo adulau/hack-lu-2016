@@ -32,7 +32,7 @@ Tuesday 18 October 2016 (Talks)
 | 16:00 | [Unveiling the attack chain of Russian-speaking cybercriminals](http://2016.hack.lu/talks/#unveiling-the-attack-chain-of-russian-speaking-cybercriminals) ([Wayne Huang](http://2016.hack.lu/talks/#bio-wayne-huang), [Sun Huang](http://2016.hack.lu/talks/#bio-sun-huang))|
 | 16:45 | [Cyber Grand Shellphish: Shellphish and the DARPA Cyber Grand Challenge](http://2016.hack.lu/talks/#cyber-grand-shellphish-shellphish-and-the-darpa-cyber-grand-challenge) ([Kevin Borgolte](http://2016.hack.lu/talks/#bio-kevin-borgolte))|
 | 17:30 | [Spy Hard with a Vengeance: How one city stood up to the Department of Homeland Security](http://2016.hack.lu/talks/#spy-hard-with-a-vengeance-how-one-city-stood-up-to-the-department-of-homeland-security) ([aestetix](http://2016.hack.lu/talks/#bio-aestetix), [Brian Hofer](http://2016.hack.lu/talks/#bio-brian-hofer))|
-| 18:15 | [Of Mice and Keyboards: On the Security of Modern Wireless Desktop Sets](http://2016.hack.lu/talks/#) ([Matthias Deeg](http://2016.hack.lu/talks/#) and [Gerhard Klostermeier](http://2016.hack.lu/talks/#))|
+| 18:15 | [Of Mice and Keyboards: On the Security of Modern Wireless Desktop Sets](http://2016.hack.lu/talks/#of-mice-and-keyboards-on-the-security-of-modern-wireless-desktop-sets) ([Matthias Deeg](http://2016.hack.lu/talks/#bio-matthias-deeg) and [Gerhard Klostermeier](http://2016.hack.lu/talks/#bio-gerhard-klostermeier))|
 {: class="table"}
 
 
@@ -54,8 +54,8 @@ Wednesday 19 October 2016 (Talks)
 | 15:45 | Refreshment break |
 | 16:00 | [Credential Assessment: Mapping Privilege Escalation at Scale](http://2016.hack.lu/talks/#credential-assessment-mapping-privilege-escalation-at-scale) ([Matt Weeks](http://2016.hack.lu/talks/#bio-matt-weeks))|
 | 16:45 | [When Crypto Fails](http://2016.hack.lu/talks/#when-crypto-fails) ( [Yaniv Balmas](http://2016.hack.lu/talks/#bio-yaniv-balmas), [Ben Herzog](http://2016.hack.lu/talks/#bio-ben-herzog))|
-| 17:30 |[Bootstrapping an Architectural Research Platform](http://2016.hack.lu/talks/#bootstrapping-an-architectural-research-platform) ([Jacob I. Torrey](http://2016.hack.lu/talks/#bio-jacob-i-torrey)) |
-| 18:15 | |
+| 17:30 | [Bootstrapping an Architectural Research Platform](http://2016.hack.lu/talks/#bootstrapping-an-architectural-research-platform) ([Jacob I. Torrey](http://2016.hack.lu/talks/#bio-jacob-i-torrey)) |
+| 18:15 | [Hadoop safari : Hunting for vulnerabilities](http://2016.hack.lu/talks/#) ([Thomas DEBIZE](http://2016.hack.lu/talks/#) and [Mahdi BRAIK](http://2016.hack.lu/talks/#))|
 {: class="table"}
 
 Thursday 20 October 2016 (Talks)
@@ -76,7 +76,7 @@ Thursday 20 October 2016 (Talks)
 | 15:45 | Refreshment break |
 | 16:00 | [An in-dept view into the iOS Kernel Vulnerabilities abused by PEGASUS](http://2016.hack.lu/talks/#an-in-dept-view-into-the-ios-kernel-vulnerabilities-abused-by-pegasus) ([Stefan Esser](http://2016.hack.lu/talks/#bio-stefan-esser))|
 | 16:45 | [Fraud detection and forensics on telco networks](http://2016.hack.lu/talks/#fraud-detection-and-forensics-on-telco-networks) ([Vladimir Kropotov](http://2016.hack.lu/talks/#bio-vladimir-kropotov) and [Dmitry Kurbatov](http://2016.hack.lu/talks/#bio-dmitry-kurbatov))|
-| 17:30 | [The Legend of Windows: A Link to the Hash](http://2016.hack.lu/talks/#) ([m4xk](http://2016.hack.lu/talks/#) and [sıx](http://2016.hack.lu/talks/#))|
+| 17:30 | [The Legend of Windows: A Link to the Hash](http://2016.hack.lu/talks/#the-legend-of-windows-a-link-to-the-hash) ([m4xk](http://2016.hack.lu/talks/#bio-m4xk) and [sıx](http://2016.hack.lu/talks/#bio-sx))|
 | 18:15 | |
 {: class="table"}
 
@@ -107,7 +107,7 @@ Wednesday 19 October 2016 (Workshops)
 | Time | Ansembourg | Echternach - Diekirch | Wiltz |
 |:----:|:----------:|:----------------------:|:--------:|
 | 09:00 | | | |
-| 09:30 | [Malware Triage IOCs - Using Open Data to Help Develop Robust Indicators](http://2016.hack.lu/talks/#malware-triage-iocs---using-open-data-to-help-develop-robust-indicators) ([Sergei Frankoff](http://2016.hack.lu/talks/#bio-sergei-frankoff), [Sean Wilson](http://2016.hack.lu/talks/#bio-sean-wilson)) *ca. 2 h*|  [The Fantastic 4 ... forensic domains: net, disk, mem, mal](http://2016.hack.lu/talks/#) ([David Durvaux](http://2016.hack.lu/talks/#), [Christophe Vandeplas](http://2016.hack.lu/talks/#)) *ca. 2 h*|
+| 09:30 | [Malware Triage IOCs - Using Open Data to Help Develop Robust Indicators](http://2016.hack.lu/talks/#malware-triage-iocs---using-open-data-to-help-develop-robust-indicators) ([Sergei Frankoff](http://2016.hack.lu/talks/#bio-sergei-frankoff), [Sean Wilson](http://2016.hack.lu/talks/#bio-sean-wilson)) *ca. 2 h*|  [The Fantastic 4 ... forensic domains: net, disk, mem, mal](http://2016.hack.lu/talks/#the-fantastic-4--forensic-domains-net-disk-mem-mal) ([David Durvaux](http://2016.hack.lu/talks/#bio-david-durvaux), [Christophe Vandeplas](http://2016.hack.lu/talks/#bio-christophe-vandeplas)) *ca. 2 h*|
 | 10:15 | Refreshment break | Refreshment break|Refreshment break|
 | 10:30 | continue workshop | continue workshop|continue workshop|
 | 12:00 | Lunch break | Lunch break|Lunch break|
