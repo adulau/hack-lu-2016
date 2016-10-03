@@ -499,6 +499,24 @@ Gerhard Klostermeier is interested in all things concerning IT security - especi
 Gerhard was speaker at GPN 2013 - a conference organized by the Chaos Computer Club (CCC) in Karlsruhe - where he talked about hacking RFID-based student cards. He is also author of the Mifare Classic Tool Android app.
 
 
+Hadoop safari : Hunting for vulnerabilities
+-------------------------------------------
+by Mahdi BRAIK and Thomas DEBIZE
+
+With the growth of data traffic and data volumetric analysis needs, “Big Data” has become one of the most popular fields in IT and many companies are currently working on this topic, by deploying Hadoop clusters, which is the current most popular Big Data framework. As every new domain in computer science, Hadoop comes (by default) with truely no security. During the past year we dug into Hadoop and tried to understand Hadoop infrastructure and security.
+
+This talks aims to present in a simple way Hadoop security issues or rather its “concepts”, as well as to show the multiples vectors to attack a cluster. By vectors we mean practical vectors or to sum it up: how can you access the holy “datalake” after plugging your laptop onto the target network.
+
+Moreover, you will learn how Hadoop (in)security model was designed explaining the different security mechanisms implemented in core Hadoop services. You will also discover tools, techniques and procedures we created and consolidated to make your way to the so called “new black gold”: data. Through different examples, you will be enlightened on how these tools and methods can be easily used to get access to data, but also to get a remote system access on cluster members.
+
+Eventually and as Hadoop is the gathering of several services and projects, you will apprehend that patch management in this field is often complicated and known vulnerabilities often stay actionnable for a while.
+
+
+Bio: Mahdi BRAIK and Thomas DEBIZE
+----------------------------------
+
+Mahdi BRAIK and Thomas DEBIZE are French security enthusiasts and work as infosec auditors at Solucom, a French management and IT consulting company. They work on all kinds of security audits, penetration tests and incident responses through the company CERT. They both developed a specific interest in Hadoop technologies few years ago: as they got to know how immature this ecosystem was, they decided to hunt for vulnerabilities in it. That said, they both like to git push new [infosec tools](https://github.com/maaaaz) and write some blog posts, either in the corporate blog or in infosec specialized french magazines.
+
 Workshops
 =========
 
@@ -630,11 +648,7 @@ HIDden secrets in Soft Token: A security study of HID Global Soft Token
 -----------------------------------------------------------------------
 by Mouad Abouhali (@_m00dy_)
 
-Nowadays, many companies tend to deploy two factors authentication means to remotely access their infrastructure. Lately, the use of Soft Token
-applications instead of Hardware tokens seduces more and more, especially in regards to financial aspects (deployment and maintenance costs).
-In This current talk I will present a security study of the Android version of HID Soft Token application (HID Global). This study covers the
-mechanisms that are used by the application to protect the main functional processing as generating encryptions keys, OTP keys, etc. Besides, the study
-lays the groundwork for shedding light on two vulnerabilities that affect the application.
+Nowadays, many companies tend to deploy two factors authentication means to remotely access their infrastructure. Lately, the use of Soft Token applications instead of Hardware tokens seduces more and more, especially in regards to financial aspects (deployment and maintenance costs). In This current talk I will present a security study of the Android version of HID Soft Token application (HID Global). This study covers the mechanisms that are used by the application to protect the main functional processing as generating encryptions keys, OTP keys, etc. Besides, the study lays the groundwork for shedding light on two vulnerabilities that affect the application.
 
 Indeed, the cryptographic operations that are implemented by the application suffer from a certain weaknesses that allow an attacker (under certain circumstances) to retrieve the main resources of an enrolled HID Soft Token application that belongs to a legitimate user, clone its configuration and particularly discover the victim’s PIN by the means of a brute force attack.
 
@@ -650,7 +664,7 @@ by David Durvaux, Christophe Vandeplas
 
 Forensic analysis (network, disk, memory, malware) is one of the core tasks of the incident handling activity. Where many analysts stop the investigation once they have identified the malware sample and write a report saying 'the attacker had full control...'; for us the fun only starts and we go further to find the juicy stuff that really matters.
 
-With our favorite open source tools (plaso, volatility, rekall, cuckoo, …) we will perform network, disk, memory and malware analysis of the forensic evidence (Windows 10) created for the Locked Shields Cyber Exercise by the CCDCOE. The goal is to introduce you to some nice features of our modern toolset, while also taking a moment of silence in respect of old deprecated tools like log2timeline.pl that are still actively used today. 
+With our favorite open source tools (plaso, volatility, rekall, cuckoo, …) we will perform network, disk, memory and malware analysis of the forensic evidence (Windows 10) created for the Locked Shields Cyber Exercise by the CCDCOE. The goal is to introduce you to some nice features of our modern toolset, while also taking a moment of silence in respect of old deprecated tools like log2timeline.pl that are still actively used today.
 
 Even more importantly we will not look into those 4 domains (network, disk, memory, malware) separately, as is done way too often, but will show you the immense value of putting all this information together allowing us to find the really juicy traces that were left on the system and would never be found.  
 
@@ -658,21 +672,20 @@ We welcome the following audiences:
 1. An analyst looking to get more out of his evidence, with less time spent, allowing him to report business-impacting things.
 2. Curious people that want to get ideas, tools and pointers in order to learn on very well built forensic evidence.
 
-The workshop takes only two hours, so we do not have the time to do a full forensic analysis from scratch. This workshop will be a walkthrough of successes and failures of the analysis.
-While we will distribute some limited evidence we HIGHLY recommend you to download ALL the evidence beforehand. 
-Also those that like a challenge can start working on the evidence and send us a report beforehand. We will tell you if you are missing stuff, but will not give any hints or answers until the workshop.  (aka: try harder) 
+The workshop takes only two hours, so we do not have the time to do a full forensic analysis from scratch. This workshop will be a walkthrough of successes and failures of the analysis. While we will distribute some limited evidence we HIGHLY recommend you to download ALL the evidence beforehand.
+Also those that like a challenge can start working on the evidence and send us a report beforehand. We will tell you if you are missing stuff, but will not give any hints or answers until the workshop.  (aka: try harder)
 
-You can download the images here: http://vandeplas.com/hacklu/ 
+You can download the images here: http://vandeplas.com/hacklu/
 You can send us your report here: hacklu@autopsit.org   
 
 
-Bio: David Durvaux 
+Bio: David Durvaux
 ------------------
 
 David Durvaux learned to do forensic when he was at CERT.be.  Since then he continues to break things for the European Commission and other customers when the opportunity is given.
 
 
-Bio: Christophe Vandeplas 
+Bio: Christophe Vandeplas
 -------------------------
 
 Christophe Vandeplas enjoys forensic and malware analysis in NCIRC, the NATO Incident Response Center. Before he had fun at the Belgian Defence CERT where he helped built the CERT capability. His main contributions to the community were the creation of MISP, pystemon and the organisation of the FOSDEM conference for many years.
