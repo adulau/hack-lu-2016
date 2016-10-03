@@ -515,7 +515,7 @@ Eventually and as Hadoop is the gathering of several services and projects, you 
 Bio: Mahdi BRAIK and Thomas DEBIZE
 ----------------------------------
 
-Mahdi BRAIK and Thomas DEBIZE are French security enthusiasts and work as infosec auditors at Solucom, a French management and IT consulting company. They work on all kinds of security audits, penetration tests and incident responses through the company CERT. They both developed a specific interest in Hadoop technologies few years ago: as they got to know how immature this ecosystem was, they decided to hunt for vulnerabilities in it. That said, they both like to git push new [infosec tools](https://github.com/maaaaz) and write some blog posts, either in the corporate blog or in infosec specialized french magazines.
+Mahdi BRAIK and Thomas DEBIZE are French security enthusiasts and work as infosec auditors at Wavestone, a French management and IT consulting company. They work on all kinds of security audits, penetration tests and incident responses through the company CERT. They both developed a specific interest in Hadoop technologies few years ago: as they got to know how immature this ecosystem was, they decided to hunt for vulnerabilities in it. That said, they both like to git push new [infosec tools](https://github.com/maaaaz) and write some blog posts, either in the corporate blog or in infosec specialized french magazines.
 
 Workshops
 =========
