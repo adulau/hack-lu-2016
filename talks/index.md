@@ -27,8 +27,8 @@ Bio: Alice Hutchings
 Dr Alice Hutchings is a Senior Research Associate at the Computer Laboratory, University of Cambridge. A criminologist, her research interests include understanding cybercrime offenders, and the prevention, intervention and disruption of online crime. She is a researcher in the Cambridge Cloud Cybercrime Centre, a multi-disciplinary initiative combining expertise from the University of Cambridge's Computer Laboratory, Institute of Criminology and Faculty of Law.
 
 
-Keynote - TBA
--------------
+A Network of Sorrows: Small Adversaries and Small Allies
+--------------------------------------------------------
 by Quinn Norton
 
 TBA

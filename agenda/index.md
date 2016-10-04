@@ -45,7 +45,7 @@ Wednesday 19 October 2016 (Talks)
 | 09:30 | [2016: The Infosec Crossroads](http://2016.hack.lu/talks/#the-infosec-crossroads) ([Saumil Shah](http://2016.hack.lu/talks/#bio-saumil-shah))|
 | 10:15 | Refreshment break|
 | 10:30 | [Exploit generation and JavaScript analysis automation with WinDBG](http://2016.hack.lu/talks/#exploit-generation-and-javascript-analysis-automation-with-windbg) ([Fitzl Csaba](http://2016.hack.lu/talks/#bio-fitzl-csaba), [Miklos Desbordes-Korcsev](http://2016.hack.lu/talks/#bio-miklos-desbordes-korcsev))|
-| 11:15 | [Keynote: ](http://2016.hack.lu/talks/#) ([Quinn Norton](http://2016.hack.lu/talks/#bio-quinn-norton)) |
+| 11:15 | [Keynote: A Network of Sorrows: Small Adversaries and Small Allies](http://2016.hack.lu/talks/#) ([Quinn Norton](http://2016.hack.lu/talks/#bio-quinn-norton)) |
 | 12:00 | Lunch |
 | 13:00 | [Lightning talks](http://piratepad.net/GYg4ObNCsY)|
 | 13:30 | [Exploiting new default accounts in SAP systems](http://2016.hack.lu/talks/#exploiting-new-default-accounts-in-sap-systems) ([Joris van de Vis](http://2016.hack.lu/talks/#bio-joris-van-de-vis)) |
