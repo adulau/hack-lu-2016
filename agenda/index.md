@@ -88,10 +88,10 @@ Tuesday 18 October 2016 (Workshops)
 
 | Time | Ansembourg | Echternach - Diekirch |
 |:----:|:----------:|:----------------------:|
-| 13:00 |[Lightning talks](http://piratepad.net/GYg4ObNCsY)  | [Lightning talks](http://piratepad.net/GYg4ObNCsY)|[Lightning talks](http://piratepad.net/GYg4ObNCsY) |
+| 13:00 |[Lightning talks](http://piratepad.net/GYg4ObNCsY)  | [Lightning talks](http://piratepad.net/GYg4ObNCsY)|
 | 13:30 | [Advanced exploitation: ROP and protections bypass under Linux](http://2016.hack.lu/talks/#advanced-exploitation-rop-and-protections-bypass-under-linux) ([Julien Bachmann](http://2016.hack.lu/talks/#bio-julien-bachmann)) *ca. 4 h* <!--- static -->| [Introduction to Security Onion](http://2016.hack.lu/talks/#introduction-to-security-onion) ([David Szili](http://2016.hack.lu/talks/#bio-david-szili)) *ca. 3 h* <!--- static -->|
 | 15:45 | Refreshment break |Refreshment break|
-| 16:00 |workshop continued| end of workshop |
+| 16:00 |workshop continued| workshop continued |
 | 18:00 |end of workshop|  |
 {: class="table"}
 
@@ -106,7 +106,7 @@ Wednesday 19 October 2016 (Workshops)
 | 10:15 | Refreshment break | Refreshment break|
 | 10:30 | continue workshop | continue workshop|
 | 12:00 | Lunch break | Lunch break|
-| 13:00 |[Lightning talks](http://piratepad.net/GYg4ObNCsY)  | [Lightning talks](http://piratepad.net/GYg4ObNCsY)|[Lightning talks](http://piratepad.net/GYg4ObNCsY) |
+| 13:00 |[Lightning talks](http://piratepad.net/GYg4ObNCsY)  | [Lightning talks](http://piratepad.net/GYg4ObNCsY)|
 | 13:30 | [Android malware reverse engineering](http://2016.hack.lu/talks/#android-malware-reverse-engineering) ([Axelle Apvrille](http://2016.hack.lu/talks/#bio-axelle-apvrille)) *ca. 3 h*| [Introduction to Security Onion](http://2016.hack.lu/talks/#introduction-to-security-onion) ([David Szili](http://2016.hack.lu/talks/#bio-david-szili)) *ca. 3 h* <!--- static -->|
 | 15:45 | Refreshment break |Refreshment break||
 | 16:00 |workshop continued| workshop continued ||
@@ -123,10 +123,10 @@ Thursday 20 October 2016 (Workshops)
 | 10:15 | Refreshment break | Refreshment break|
 | 10:30 | continue workshop | continue workshop|
 | 12:00 | Lunch break | Lunch break|
-| 13:00 |[Lightning talks](http://piratepad.net/GYg4ObNCsY)  | [Lightning talks](http://piratepad.net/GYg4ObNCsY)|[Lightning talks](http://piratepad.net/GYg4ObNCsY) |
+| 13:00 |[Lightning talks](http://piratepad.net/GYg4ObNCsY)  | [Lightning talks](http://piratepad.net/GYg4ObNCsY)|
 | 13:30 |[FastIR Collector](http://2016.hack.lu/talks/#fastir-collecto) ([Sébastien Larinier](http://2016.hack.lu/talks/#bio-sbastien-larinier)) *ca. 2 h* ||
 | 15:45 | Refreshment break |Refreshment break|
-| 16:00 |workshop continued| end of workshop |
+| 16:00 |end of workshop| end of workshop |
 | 18:00 |end of workshop|  |
 {: class="table"}
 
