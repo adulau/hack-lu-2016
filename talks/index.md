@@ -698,3 +698,18 @@ Bio: Christophe Vandeplas
 -------------------------
 
 Christophe Vandeplas enjoys forensic and malware analysis in NCIRC, the NATO Incident Response Center. Before he had fun at the Belgian Defence CERT where he helped built the CERT capability. His main contributions to the community were the creation of MISP, pystemon and the organisation of the FOSDEM conference for many years.
+
+
+Malware analysis made easy with Volatility plugins
+--------------------------------------------------
+by Thomas Chopitea
+
+Volatility is a very well known, used, and loved memory forensics framework in the DFIR community. It's usage has been largely documented and illustrated with different use-cases. But one aspect of Volatility that may remain a bit obscure to analysts with even solid experience with memory forensics is the creation of Volatility plugins to automate specific tasks.
+
+This workshop is meant to make malware and DFIR analysts familiar with Volatility’s plugin framework. The goal is to cover Volatility and live-memory analysis basics and have every attendee leaving with an operational understanding of the different plugin strategies and implementations. To illustrate the plugin creation process, the workshop will be articulated around the analysis of an instance of the Locky ransomware.
+
+
+Bio: Thomas Chopitea
+--------------------
+
+Thomas Chopitea is a digital forensics analyst and incident responder at CERT Société Générale. He enjoys toying around with malware and exploring the possibility that memory forensics offer. He's built a few tools (and Volatility plugins) that have one thing in common: try to make the fellow's analyst job as simple as possible.

@@ -45,7 +45,7 @@ Wednesday 19 October 2016 (Talks)
 | 09:30 | [2016: The Infosec Crossroads](http://2016.hack.lu/talks/#the-infosec-crossroads) ([Saumil Shah](http://2016.hack.lu/talks/#bio-saumil-shah))|
 | 10:15 | Refreshment break|
 | 10:30 | [Exploit generation and JavaScript analysis automation with WinDBG](http://2016.hack.lu/talks/#exploit-generation-and-javascript-analysis-automation-with-windbg) ([Fitzl Csaba](http://2016.hack.lu/talks/#bio-fitzl-csaba), [Miklos Desbordes-Korcsev](http://2016.hack.lu/talks/#bio-miklos-desbordes-korcsev))|
-| 11:15 | [Keynote: A Network of Sorrows: Small Adversaries and Small Allies](http://2016.hack.lu/talks/#) ([Quinn Norton](http://2016.hack.lu/talks/#bio-quinn-norton)) |
+| 11:15 | [Keynote: A Network of Sorrows: Small Adversaries and Small Allies](http://2016.hack.lu/talks/#a-network-of-sorrows-small-adversaries-and-small-allies) ([Quinn Norton](http://2016.hack.lu/talks/#bio-quinn-norton)) |
 | 12:00 | Lunch |
 | 13:00 | [Lightning talks](http://piratepad.net/GYg4ObNCsY)|
 | 13:30 | [Exploiting new default accounts in SAP systems](http://2016.hack.lu/talks/#exploiting-new-default-accounts-in-sap-systems) ([Joris van de Vis](http://2016.hack.lu/talks/#bio-joris-van-de-vis)) |
@@ -67,7 +67,7 @@ Thursday 20 October 2016 (Talks)
 | 09:30 | [Where should I host my malware?](http://2016.hack.lu/talks/#where-should-i-host-my-malware) ([Attila Marosi](http://2016.hack.lu/talks/#bio-attila-marosi))|
 | 10:15 | Refreshment break|
 | 10:30 | [Interesting Malware - No, I’m not kidding…](http://2016.hack.lu/talks/#interesting-malware---no-im-not-kidding) ([Marion Marschalek](http://2016.hack.lu/talks/#bio-marion-marschalek))|
-| 11:15 | [Keynote: Enhancing infrastructure cybersecurity in Europe](http://2016.hack.lu/talks/#) ([Rossella Mattioli](http://2016.hack.lu/talks/#)) |
+| 11:15 | [Keynote: Enhancing infrastructure cybersecurity in Europe](http://2016.hack.lu/talks/#enhancing-infrastructure-cybersecurity-in-europe) ([Rossella Mattioli](http://2016.hack.lu/talks/#bio-rossella-mattioli)) |
 | 12:00 | Lunch |
 | 13:00 | [Lightning talks](http://piratepad.net/GYg4ObNCsY)|
 | 13:30 | [House intercoms attacks: when frontdoors become backdoors](http://2016.hack.lu/talks/#house-intercoms-attacks-when-frontdoors-become-backdoors) ([Sébastien Dudek](http://2016.hack.lu/talks/#bio-sbastien-dudek))|
@@ -86,7 +86,7 @@ Workshop Agenda
 Tuesday 18 October 2016 (Workshops)
 -----------------------------------
 
-| Time | Ansembourg | Echternach - Diekirch | 
+| Time | Ansembourg | Echternach - Diekirch |
 |:----:|:----------:|:----------------------:|
 | 13:00 |[Lightning talks](http://piratepad.net/GYg4ObNCsY)  | [Lightning talks](http://piratepad.net/GYg4ObNCsY)|[Lightning talks](http://piratepad.net/GYg4ObNCsY) |
 | 13:30 | [Advanced exploitation: ROP and protections bypass under Linux](http://2016.hack.lu/talks/#advanced-exploitation-rop-and-protections-bypass-under-linux) ([Julien Bachmann](http://2016.hack.lu/talks/#bio-julien-bachmann)) *ca. 4 h* <!--- static -->| [Introduction to Security Onion](http://2016.hack.lu/talks/#introduction-to-security-onion) ([David Szili](http://2016.hack.lu/talks/#bio-david-szili)) *ca. 3 h* <!--- static -->|
@@ -99,9 +99,9 @@ Tuesday 18 October 2016 (Workshops)
 Wednesday 19 October 2016 (Workshops)
 -------------------------------------
 
-| Time | Ansembourg | Echternach - Diekirch | 
+| Time | Ansembourg | Echternach - Diekirch |
 |:----:|:----------:|:----------------------:|
-| 09:00 | | | 
+| 09:00 | | |
 | 09:30 | [Malware Triage IOCs - Using Open Data to Help Develop Robust Indicators](http://2016.hack.lu/talks/#malware-triage-iocs---using-open-data-to-help-develop-robust-indicators) ([Sergei Frankoff](http://2016.hack.lu/talks/#bio-sergei-frankoff), [Sean Wilson](http://2016.hack.lu/talks/#bio-sean-wilson)) *ca. 2 h*|  [The Fantastic 4 ... forensic domains: net, disk, mem, mal](http://2016.hack.lu/talks/#the-fantastic-4--forensic-domains-net-disk-mem-mal) ([David Durvaux](http://2016.hack.lu/talks/#bio-david-durvaux), [Christophe Vandeplas](http://2016.hack.lu/talks/#bio-christophe-vandeplas)) *ca. 2 h*|
 | 10:15 | Refreshment break | Refreshment break|
 | 10:30 | continue workshop | continue workshop|
@@ -116,10 +116,10 @@ Wednesday 19 October 2016 (Workshops)
 Thursday 20 October 2016 (Workshops)
 ------------------------------------
 
-| Time | Ansembourg | Echternach - Diekirch | 
+| Time | Ansembourg | Echternach - Diekirch |
 |:----:|:----------:|:----------------------:|
-| 09:00 | | | 
-| 09:30 | [ARM Shellcode Basics](http://2016.hack.lu/talks/#arm-shellcode-basics") ([Saumil Shah](http://2016.hack.lu/talks/#bio-saumil-shah)) *ca. 2 h*|  *ca. 2 h*|
+| 09:00 | | |
+| 09:30 | [ARM Shellcode Basics](http://2016.hack.lu/talks/#arm-shellcode-basics) ([Saumil Shah](http://2016.hack.lu/talks/#bio-saumil-shah)) | [Malware analysis made easy with Volatility plugins](http://2016.hack.lu/talks/#) ([Thomas Chopitea](http://2016.hack.lu/talks/#)) |
 | 10:15 | Refreshment break | Refreshment break|
 | 10:30 | continue workshop | continue workshop|
 | 12:00 | Lunch break | Lunch break|
