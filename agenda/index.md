@@ -41,7 +41,7 @@ Wednesday 19 October 2016 (Talks)
 
 | Time | Talks and Speakers |
 |:----:|:------------------:|
-| 08:45 | [WiFi Exploitation: How passive interception leads to active exploitation](http://2016.hack.lu/talks/#wifi-exploitation-how-passive-interception-leads-to-active-exploitation) ([Solomon Sonya](http://2016.hack.lu/talks/#bio-solomon-sonya)) |
+| 08:45 | [The Metabrik Platform: Rapid Development of Reusable Security Tools](http://2016.hack.lu/talks/#the-metabrik-platform-rapid-development-of-reusable-security-tools) ([Patrice Auffret](http://2016.hack.lu/talks/#bio-patrice-auffret)) |
 | 09:30 | [2016: The Infosec Crossroads](http://2016.hack.lu/talks/#the-infosec-crossroads) ([Saumil Shah](http://2016.hack.lu/talks/#bio-saumil-shah))|
 | 10:15 | Refreshment break|
 | 10:30 | [Exploit generation and JavaScript analysis automation with WinDBG](http://2016.hack.lu/talks/#exploit-generation-and-javascript-analysis-automation-with-windbg) ([Fitzl Csaba](http://2016.hack.lu/talks/#bio-fitzl-csaba), [Miklos Desbordes-Korcsev](http://2016.hack.lu/talks/#bio-miklos-desbordes-korcsev))|
@@ -67,7 +67,7 @@ Thursday 20 October 2016 (Talks)
 | 09:30 | [Where should I host my malware?](http://2016.hack.lu/talks/#where-should-i-host-my-malware) ([Attila Marosi](http://2016.hack.lu/talks/#bio-attila-marosi))|
 | 10:15 | Refreshment break|
 | 10:30 | [Interesting Malware - No, I’m not kidding…](http://2016.hack.lu/talks/#interesting-malware---no-im-not-kidding) ([Marion Marschalek](http://2016.hack.lu/talks/#bio-marion-marschalek))|
-| 11:15 | [The Metabrik Platform: Rapid Development of Reusable Security Tools](http://2016.hack.lu/talks/#the-metabrik-platform-rapid-development-of-reusable-security-tools) ([Patrice Auffret](http://2016.hack.lu/talks/#bio-patrice-auffret)) |
+| 11:15 | [Keynote: Enhancing infrastructure cybersecurity in Europe](http://2016.hack.lu/talks/#) ([Rossella Mattioli](http://2016.hack.lu/talks/#)) |
 | 12:00 | Lunch |
 | 13:00 | [Lightning talks](http://piratepad.net/GYg4ObNCsY)|
 | 13:30 | [House intercoms attacks: when frontdoors become backdoors](http://2016.hack.lu/talks/#house-intercoms-attacks-when-frontdoors-become-backdoors) ([Sébastien Dudek](http://2016.hack.lu/talks/#bio-sbastien-dudek))|

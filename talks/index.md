@@ -39,6 +39,15 @@ Bio: Quinn Norton
 Quinn Norton, internet journalist and essayist, previously of Wired and The Message. I read too much history, use too much technology, obsess too much about security, know too much nerdy stuff, and am way too interested in the Mongolians.
 Nothing Ever Ends is a fast romp though the history of computer and internet culture, from over two thousand years ago to several years in the future. I’ll tell the stories of some of key players in the history of the net, including the 19th century robber barons in America, Han dynasty feng shui practitioners, God, the RIAA, 90s software pirates, a little-know greek goddess, the Seattle Police Department. Over enough time, all the consequences become unintended. But all those unintended consequences give us the internet we have now, and the future we will have.
 
+Enhancing infrastructure cybersecurity in Europe
+------------------------------------------------
+
+ENISA, the European Union Agency for Network & Information Security, is working together with European experts to identify pragmatic solutions to cybersecurity challenges for Critical Information Infrastructures, Internet infrastructure, ICS SCADA and transport infrastructure in Europe . The agency has undertaken several activities to support relevant stakeholders by helping them to improve their security practices and by raising awareness to both industry and the public sector. This talk with provide an overview on the latest efforts , future steps and how you can help in securing Europe information society.
+
+Bio: Rossella Mattioli
+----------------------
+
+Rossella Mattioli joined ENISA, the European Union Agency for Network and Information Security in 2013. Her work focuses on enhancing the security of Critical Information Infrastructures, Internet infrastructure, ICS SCADA and transport infrastructure in Europe. She holds a MSc in Engineering with main specialization in Cybersecurity at Tallinn University of Technology and a BA in Communication Sciences. Along with the annual studies and community engagement, she coordinates also ENISA's expert groups related to Internet infrastructure, ICS SCADA, Intelligent public transport and smart car cybersecurity.
 
 Talks
 =====
