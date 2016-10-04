@@ -86,53 +86,48 @@ Workshop Agenda
 Tuesday 18 October 2016 (Workshops)
 -----------------------------------
 
-| Time | Ansembourg | Echternach - Diekirch | Wiltz |
-|:----:|:----------:|:----------------------:|:--------:|
-| 09:00 | | | |
-| 09:30 | *ca. 2 h*|  *ca. 2 h*|
-| 10:15 | Refreshment break | Refreshment break|Refreshment break|
-| 10:30 | continue workshop | continue workshop|continue workshop|
-| 12:00 | Lunch break | Lunch break|Lunch break|
+| Time | Ansembourg | Echternach - Diekirch | 
+|:----:|:----------:|:----------------------:|
 | 13:00 |[Lightning talks](http://piratepad.net/GYg4ObNCsY)  | [Lightning talks](http://piratepad.net/GYg4ObNCsY)|[Lightning talks](http://piratepad.net/GYg4ObNCsY) |
 | 13:30 | [Advanced exploitation: ROP and protections bypass under Linux](http://2016.hack.lu/talks/#advanced-exploitation-rop-and-protections-bypass-under-linux) ([Julien Bachmann](http://2016.hack.lu/talks/#bio-julien-bachmann)) *ca. 4 h* <!--- static -->| [Introduction to Security Onion](http://2016.hack.lu/talks/#introduction-to-security-onion) ([David Szili](http://2016.hack.lu/talks/#bio-david-szili)) *ca. 3 h* <!--- static -->|
-| 15:45 | Refreshment break |Refreshment break||
-| 16:00 |workshop continued| end of workshop ||
-| 18:00 |end of workshop|  ||
+| 15:45 | Refreshment break |Refreshment break|
+| 16:00 |workshop continued| end of workshop |
+| 18:00 |end of workshop|  |
 {: class="table"}
 
 
 Wednesday 19 October 2016 (Workshops)
 -------------------------------------
 
-| Time | Ansembourg | Echternach - Diekirch | Wiltz |
-|:----:|:----------:|:----------------------:|:--------:|
-| 09:00 | | | |
+| Time | Ansembourg | Echternach - Diekirch | 
+|:----:|:----------:|:----------------------:|
+| 09:00 | | | 
 | 09:30 | [Malware Triage IOCs - Using Open Data to Help Develop Robust Indicators](http://2016.hack.lu/talks/#malware-triage-iocs---using-open-data-to-help-develop-robust-indicators) ([Sergei Frankoff](http://2016.hack.lu/talks/#bio-sergei-frankoff), [Sean Wilson](http://2016.hack.lu/talks/#bio-sean-wilson)) *ca. 2 h*|  [The Fantastic 4 ... forensic domains: net, disk, mem, mal](http://2016.hack.lu/talks/#the-fantastic-4--forensic-domains-net-disk-mem-mal) ([David Durvaux](http://2016.hack.lu/talks/#bio-david-durvaux), [Christophe Vandeplas](http://2016.hack.lu/talks/#bio-christophe-vandeplas)) *ca. 2 h*|
-| 10:15 | Refreshment break | Refreshment break|Refreshment break|
-| 10:30 | continue workshop | continue workshop|continue workshop|
-| 12:00 | Lunch break | Lunch break|Lunch break|
+| 10:15 | Refreshment break | Refreshment break|
+| 10:30 | continue workshop | continue workshop|
+| 12:00 | Lunch break | Lunch break|
 | 13:00 |[Lightning talks](http://piratepad.net/GYg4ObNCsY)  | [Lightning talks](http://piratepad.net/GYg4ObNCsY)|[Lightning talks](http://piratepad.net/GYg4ObNCsY) |
 | 13:30 | [Android malware reverse engineering](http://2016.hack.lu/talks/#android-malware-reverse-engineering) ([Axelle Apvrille](http://2016.hack.lu/talks/#bio-axelle-apvrille)) *ca. 3 h*| [Introduction to Security Onion](http://2016.hack.lu/talks/#introduction-to-security-onion) ([David Szili](http://2016.hack.lu/talks/#bio-david-szili)) *ca. 3 h* <!--- static -->|
 | 15:45 | Refreshment break |Refreshment break||
-| 16:00 |workshop continued| end of workshop ||
+| 16:00 |workshop continued| workshop continued ||
 | 18:00 |end of workshop|  ||
 {: class="table"}
 
 Thursday 20 October 2016 (Workshops)
 ------------------------------------
 
-| Time | Ansembourg | Echternach - Diekirch | Wiltz |
-|:----:|:----------:|:----------------------:|:--------:|
-| 09:00 | | | |
+| Time | Ansembourg | Echternach - Diekirch | 
+|:----:|:----------:|:----------------------:|
+| 09:00 | | | 
 | 09:30 | [ARM Shellcode Basics](http://2016.hack.lu/talks/#arm-shellcode-basics") ([Saumil Shah](http://2016.hack.lu/talks/#bio-saumil-shah)) *ca. 2 h*|  *ca. 2 h*|
-| 10:15 | Refreshment break | Refreshment break|Refreshment break|
-| 10:30 | continue workshop | continue workshop|continue workshop|
-| 12:00 | Lunch break | Lunch break|Lunch break|
+| 10:15 | Refreshment break | Refreshment break|
+| 10:30 | continue workshop | continue workshop|
+| 12:00 | Lunch break | Lunch break|
 | 13:00 |[Lightning talks](http://piratepad.net/GYg4ObNCsY)  | [Lightning talks](http://piratepad.net/GYg4ObNCsY)|[Lightning talks](http://piratepad.net/GYg4ObNCsY) |
-| 13:30 |[FastIR Collector](http://2016.hack.lu/talks/#fastir-collecto) ([Sébastien Larinier](http://2016.hack.lu/talks/#bio-sbastien-larinier)) *ca. 2 h* |||
-| 15:45 | Refreshment break |Refreshment break||
-| 16:00 |workshop continued| end of workshop ||
-| 18:00 |end of workshop|  ||
+| 13:30 |[FastIR Collector](http://2016.hack.lu/talks/#fastir-collecto) ([Sébastien Larinier](http://2016.hack.lu/talks/#bio-sbastien-larinier)) *ca. 2 h* ||
+| 15:45 | Refreshment break |Refreshment break|
+| 16:00 |workshop continued| end of workshop |
+| 18:00 |end of workshop|  |
 {: class="table"}
 
 
