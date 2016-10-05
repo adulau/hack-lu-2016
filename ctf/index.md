@@ -10,7 +10,7 @@ image:
 ---
 
 The 2016's CTF will at hack.lu again be held by [FluxFingers](https://www.fluxfingers.net/), the CTF Team of
-Ruhr-Universität Bochum (Germany). This will be the sixth hack.lu CTF held by the FluxFingers.
+Ruhr-Universität Bochum (Germany). This will be the seventh hack.lu CTF held by the FluxFingers.
 
 ![FluxFingers logo]({{ site.url }}/images/logos/fluxfingers.jpg)
 
@@ -20,19 +20,18 @@ Everyone may participate (onsite or offsite). If you want to win the prizes, you
 
 # When
 
-The CTF will take place during the hack.lu conference.
+The CTF will take place during the hack.lu conference and will only last 24h hours this year instead of 48h hours like in the previous years.
 
-* CTF start is 18.10.2016 10:00 CEST (8:00 UTC)
-* CTF end is 20.10.2016 10:00 CEST (8:00 UTC)
+* CTF start is 19.10.2016 12:00 CEST (10:00 UTC)
+* CTF end is 20.10.2016 12:00 CEST (10:00 UTC)
 
 # Topic
 
->I have never let my schooling interfere with my education.
-**Mark Twain**
+>Cthulhu
 
 # Registration
 
-It is now possible to register at [school.fluxfingers.net](https://school.fluxfingers.net/).
+Registration is not yet open but it will be open as soon as possible.
 
 # What
 
@@ -50,7 +49,7 @@ remote. Direct your questions to somebody at our booth or on
 # Rules
 
 *    Each challenge gives base points (depending on difficulty) + first blood points (for the first three solves).
-*    All normal challenges give 100 bonus points at the beginning. Bonus points can decrease during the CTF, depending on the number of solves.
+*    All normal challenges give 100 bonus points at the beginning. Bonus points can (and most probably will) decrease during the CTF, depending on the number of solves and how difficult we considered the challenge to be.
 *    No DoS/automated scans/large amounts of traffic/deleting stuff on our servers.
 *    If you find something that solves too easy it might be a bug. Please report it for possible bonus points.
 *    Do not share flags or solutions with other teams. We will not tolerate flag sharing in the IRC channel.
@@ -58,7 +57,7 @@ remote. Direct your questions to somebody at our booth or on
 
 # Points
 
-In order to balance points of misjudged challenges, we introduce bonus points this year. These bonus points will be calculated dynamically for each challenge, depending on how many teams solved it. At the start of the CTF each normal challenge will have additional 100 bonus points, which will be decreased over time. The exact formula will be published when the CTF starts.
+In order to balance points of misjudged challenges, we changed the bonus point algorithm this year. The bonus points will be calculated dynamically for each challenge, depending on how many teams solved it and how many solves were expected by our team. At the start of the CTF each normal challenge will have additional 100 bonus points, which will be decreased over time. The exact formula will be published when the CTF starts.
 
 You will get your usual first blood points, too: First solve of a challenge yields 3 points, second 2 and third 1.
 
