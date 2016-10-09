@@ -31,7 +31,9 @@ A Network of Sorrows: Small Adversaries and Small Allies
 --------------------------------------------------------
 by Quinn Norton
 
-TBA
+State actors dominate our news coverage, with hyperbolic talk of "cyberwar" and APT. But the vast majority of the costs of our terrible security are paid by normal people in day-to-day life. For most, the real adversaries are schools, families, random malware, ex-partners, maybe the occasional local law enforcement. While the big issues of governmental intrusion contribute to a toxic security culture, the blood and tears and lost money mostly come out of pedestrian, even often solved, security problems.
+
+Small adversaries are infinite -- the internet will always make more ransomware, bad ex-boyfriends, and homophobic school administrations. But we aren't using the best tool we have in the fight against malware and cybercrime: the billions of users who, together, have tremendous power. Right now network life is filled with sorrow and fear. But by building up our small allies, bringing tools and knowledge to them, we can build a better network.
 
 Bio: Quinn Norton
 -----------------
@@ -713,3 +715,13 @@ Bio: Thomas Chopitea
 --------------------
 
 Thomas Chopitea is a digital forensics analyst and incident responder at CERT Société Générale. He enjoys toying around with malware and exploring the possibility that memory forensics offer. He's built a few tools (and Volatility plugins) that have one thing in common: try to make the fellow's analyst job as simple as possible.
+
+Nothing is beyond our pots - An Introductory Worskhop about Honeypots
+---------------------------------------------------------------------
+by Guillaume Arcas
+
+This introductory non-technical 4-hours workshop will present the basics of Honeypot and their history, the different types of honeypots, how to deploy and manage them, the pros and cons of using honeypots, etc. It is intended for technical or non-technical people who want to know everything about honeypots before using its but were afraid to ask.
+
+Bio: Guillaume Arcas
+--------------------
+
