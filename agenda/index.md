@@ -119,12 +119,12 @@ Thursday 20 October 2016 (Workshops)
 | Time | Ansembourg | Echternach - Diekirch |
 |:----:|:----------:|:----------------------:|
 | 09:00 | | |
-| 09:30 | [ARM Shellcode Basics](http://2016.hack.lu/talks/#arm-shellcode-basics) ([Saumil Shah](http://2016.hack.lu/talks/#bio-saumil-shah)) | [Malware analysis made easy with Volatility plugins](http://2016.hack.lu/talks/#) ([Thomas Chopitea](http://2016.hack.lu/talks/#)) |
+| 09:30 | [ARM Shellcode Basics](http://2016.hack.lu/talks/#arm-shellcode-basics) ([Saumil Shah](http://2016.hack.lu/talks/#bio-saumil-shah)) | [Malware analysis made easy with Volatility plugins](http://2016.hack.lu/talks/#malware-analysis-made-easy-with-volatility-plugins) ([Thomas Chopitea](http://2016.hack.lu/talks/#bio-thomas-chopitea)) |
 | 10:15 | Refreshment break | Refreshment break|
 | 10:30 | continue workshop | continue workshop|
 | 12:00 | Lunch break | Lunch break|
 | 13:00 |[Lightning talks](http://piratepad.net/GYg4ObNCsY)  | [Lightning talks](http://piratepad.net/GYg4ObNCsY)|[Lightning talks](http://piratepad.net/GYg4ObNCsY) |
-| 13:30 |[FastIR Collector](http://2016.hack.lu/talks/#fastir-collecto) ([Sébastien Larinier](http://2016.hack.lu/talks/#bio-sbastien-larinier)) *ca. 2 h* ||
+| 13:30 |[FastIR Collector](http://2016.hack.lu/talks/#fastir-collecto) ([Sébastien Larinier](http://2016.hack.lu/talks/#bio-sbastien-larinier)) *ca. 2 h* | [Nothing is beyond our pots - An Introductory Worskhop about Honeypots](http://2016.hack.lu/talks/#) ([Guillaume Arcas](http://2016.hack.lu/talks/#))|
 | 15:45 | Refreshment break |Refreshment break|
 | 16:00 |workshop continued| end of workshop |
 | 18:00 |end of workshop|  |
