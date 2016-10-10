@@ -123,7 +123,7 @@ Thursday 20 October 2016 (Workshops)
 | 10:15 | Refreshment break | Refreshment break|
 | 10:30 | workshop continued | workshop continued|
 | 12:00 | Lunch break | Lunch break|
-| 13:30 |[FastIR Collector](http://2016.hack.lu/talks/#fastir-collecto) ([Sébastien Larinier](http://2016.hack.lu/talks/#bio-sbastien-larinier)) *ca. 2 h* | [Nothing is beyond our pots - An Introductory Worskhop about Honeypots](http://2016.hack.lu/talks/#) ([Guillaume Arcas](http://2016.hack.lu/talks/#))|
+| 13:30 |[FastIR Collector](http://2016.hack.lu/talks/#fastir-collecto) ([Sébastien Larinier](http://2016.hack.lu/talks/#bio-sbastien-larinier)) *ca. 2 h* | [Nothing is beyond our pots - An Introductory Worskhop about Honeypots](http://2016.hack.lu/talks/#nothing-is-beyond-our-pots---an-introductory-worskhop-about-honeypots) ([Guillaume Arcas](http://2016.hack.lu/talks/#bio-guillaume-arcas))|
 | 15:45 | Refreshment break |Refreshment break|
 | 16:00 |end of workshop| workshop continued |
 | 18:00 || end of workshop |
