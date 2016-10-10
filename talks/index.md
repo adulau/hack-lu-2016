@@ -441,6 +441,17 @@ Bio: Stefan Esser
 
 Stefan Esser is best known in the security community as the PHP security guy. Since he became a PHP core developer in 2002 he devoted a lot of time to PHP and PHP application vulnerability research. However in his early days he released lots of advisories about vulnerabilities in software like CVS, Samba, OpenBSD or Internet Explorer. In 2003 he was the first to boot Linux directly from the hard disk of an unmodified XBOX through a buffer overflow in the XBOX font loader. In 2004 he founded the Hardened-PHP Project to develop a more secure version of PHP, known as Hardened-PHP, which evolved into the Suhosin PHP Security System in 2006. Since 2007 he works as head of research and development for the German web application company SektionEins GmbH that he co-founded. In 2010 he did his own ASLR implementation for Apple's iOS and shifted his focus to the security of the iOS kernel and iPhones in general. Since then he has spoken about the topic of iOS security at various information security conferences around the globe. In 2012 he co-authored the book the iOS Hackers Handbook.
 
+
+Windows systems & code signing protection
+-----------------------------------------
+by Paul Rascagnères
+
+This presentation explains the code signing mechanism (authenticode) developed by Microsoft on Windows systems. The presentation will first explain the kernel implication and the impact on driver development. This protection firstly annoyed rootkit developers but they found several ways to bypass it. Well-know rootkits such as Derusbi, Uroburos or GrayFish use tricks to bypass driver signature. These techniques will be described during the presentation. Finally, the user-land will be discussed with the new library injection protection based on code signing implemented in Windows 10 TH2 and especially for the Edge process.
+
+Bio: Paul Rascagnères
+---------------------
+
+
 Fraud detection and forensics on telco networks
 -----------------------------------------------
 by Vladimir Kropotov and Dmitry Kurbatov
@@ -725,3 +736,4 @@ This introductory non-technical 4-hours workshop will present the basics of Hone
 Bio: Guillaume Arcas
 --------------------
 
+Guillaume Arcas has been working in security since 1995 initially as a Security and Network Analyst, primarily in the Internet and Banking industries. He has been member of the Honeynet Project’s French Chapter since 2010. He currently works for Sekoia CERT as an expert (according to the definition of "expert" by Harlan Carvey in his preface to his "Windows Forensic Analysis Toolkit 3d Edition"'s book) specializing in Digital Forensics and Incident Response. When not hunting for endangered species hanging on the Internet, Guillaume enjoys reading (thrillers, science fiction, history, and philosophy – in no particular order as long as it is printed) and walking his dog. He also nourishes a certain nostalgia for the esheep.exe software – hence his Twitter avatar (@y0m).

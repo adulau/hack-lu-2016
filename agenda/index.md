@@ -31,7 +31,7 @@ Tuesday 18 October 2016 (Talks)
 | 15:45 | Refreshment break |
 | 16:00 | [Unveiling the attack chain of Russian-speaking cybercriminals](http://2016.hack.lu/talks/#unveiling-the-attack-chain-of-russian-speaking-cybercriminals) ([Wayne Huang](http://2016.hack.lu/talks/#bio-wayne-huang), [Sun Huang](http://2016.hack.lu/talks/#bio-sun-huang))|
 | 16:45 |[Of Mice and Keyboards: On the Security of Modern Wireless Desktop Sets](http://2016.hack.lu/talks/#of-mice-and-keyboards-on-the-security-of-modern-wireless-desktop-sets) ([Matthias Deeg](http://2016.hack.lu/talks/#bio-matthias-deeg) and [Gerhard Klostermeier](http://2016.hack.lu/talks/#bio-gerhard-klostermeier))<!--- static --> |
-| 17:30 | [Spy Hard with a Vengeance: How one city stood up to the Department of Homeland Security](http://2016.hack.lu/talks/#spy-hard-with-a-vengeance-how-one-city-stood-up-to-the-department-of-homeland-security) ([aestetix](http://2016.hack.lu/talks/#bio-aestetix), [Brian Hofer](http://2016.hack.lu/talks/#bio-brian-hofer))|
+| 17:30 | [Windows systems & code signing protection](http://2016.hack.lu/talks/#) ([Paul Rascagnères](http://2016.hack.lu/talks/#))|
 | 18:15 | [Cyber Grand Shellphish: Shellphish and the DARPA Cyber Grand Challenge](http://2016.hack.lu/talks/#cyber-grand-shellphish-shellphish-and-the-darpa-cyber-grand-challenge) ([Kevin Borgolte](http://2016.hack.lu/talks/#bio-kevin-borgolte))<!--- static -->|
 {: class="table"}
 
@@ -74,7 +74,7 @@ Thursday 20 October 2016 (Talks)
 | 14:15 | [When Practice Informs Technology](http://2016.hack.lu/talks/#when-practice-informs-technology) ([Mahsa Alimardani](http://2016.hack.lu/talks/#bio-mahsa-alimardani))|
 | 15:00 | [Bridging political gaps with code](http://2016.hack.lu/talks/#bridging-political-gaps-with-code) ([Okhin](http://2016.hack.lu/talks/#bio-okhin))|
 | 15:45 | Refreshment break |
-| 16:00 | [An in-dept view into the iOS Kernel Vulnerabilities abused by PEGASUS](http://2016.hack.lu/talks/#an-in-dept-view-into-the-ios-kernel-vulnerabilities-abused-by-pegasus) ([Stefan Esser](http://2016.hack.lu/talks/#bio-stefan-esser))|
+| 16:00 | [CENTR](http://2016.hack.lu/talks/#) ([](http://2016.hack.lu/talks/#))|
 | 16:45 | [Fraud detection and forensics on telco networks](http://2016.hack.lu/talks/#fraud-detection-and-forensics-on-telco-networks) ([Vladimir Kropotov](http://2016.hack.lu/talks/#bio-vladimir-kropotov) and [Dmitry Kurbatov](http://2016.hack.lu/talks/#bio-dmitry-kurbatov))|
 | 17:30 | [The Legend of Windows: A Link to the Hash](http://2016.hack.lu/talks/#the-legend-of-windows-a-link-to-the-hash) ([m4xk](http://2016.hack.lu/talks/#bio-m4xk) and [sıx](http://2016.hack.lu/talks/#bio-sx))|
 | 18:15 | |
@@ -123,7 +123,7 @@ Thursday 20 October 2016 (Workshops)
 | 10:15 | Refreshment break | Refreshment break|
 | 10:30 | workshop continued | workshop continued|
 | 12:00 | Lunch break | Lunch break|
-| 13:30 |[FastIR Collector](http://2016.hack.lu/talks/#fastir-collecto) ([Sébastien Larinier](http://2016.hack.lu/talks/#bio-sbastien-larinier)) *ca. 2 h* | [Nothing is beyond our pots - An Introductory Worskhop about Honeypots](http://2016.hack.lu/talks/#) ([Guillaume Arcas](http://2016.hack.lu/talks/#))|
+| 13:30 |[FastIR Collector](http://2016.hack.lu/talks/#fastir-collecto) ([Sébastien Larinier](http://2016.hack.lu/talks/#bio-sbastien-larinier)) *ca. 2 h* | [Nothing is beyond our pots - An Introductory Worskhop about Honeypots](http://2016.hack.lu/talks/#nothing-is-beyond-our-pots---an-introductory-worskhop-about-honeypots) ([Guillaume Arcas](http://2016.hack.lu/talks/#bio-guillaume-arcas))|
 | 15:45 | Refreshment break |Refreshment break|
 | 16:00 |end of workshop| workshop continued |
 | 18:00 || end of workshop |
