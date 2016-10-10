@@ -33,7 +33,8 @@ The MISP Summit will take place from 14:00 to 18:00, Monday 17 October 2016.
 * 15:45 - 16:00 Break
 * 16:00 - 16:20 GDPR and information sharing by Matthieu Farcot, Securitymadein.lu.
 * 16:20 - 16:40 Cyber MISP - how you could integrate MISP in your Cyber team by Alexander Jäger, FIRST.org.
-* 16:40 - 18:00 Q&A sessions with a specific session about new features and roadmap in MISP.
+* 16:40 - 17:00 A collaborative approach to taxonomies with PyTaxonomies by Raphael Vinot, CIRCL.
+* 17:00 - 18:00 Q&A sessions with a specific session about new features and roadmap in MISP.
 
 
 
