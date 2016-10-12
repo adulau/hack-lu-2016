@@ -5,7 +5,6 @@ excerpt: "Agenda Hack.lu 2016"
 modified: 2016-03-09T16:00:00
 ---
 
-The agenda will be published after the Call for Papers and Presentations is closed
 
 
 Talk Agenda
