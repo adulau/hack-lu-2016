@@ -22,6 +22,8 @@ modified: 2016-03-10T19:44:38.564948-04:00
 
 ## Venue
 
+The conference will be held as every year in Luxembourg, a small country between France, Belgium and Germany. The conference venue will be the Parc Hotel in Luxembourg-Dommeldange, like in the previous years.
+
 As the rooms at Parc Hotel are all sold out, we suggest you to reserve your room at the following hotels:
 
 [Best Western Euro Hotel](http://www.eurohotel.lu/seiten/home.html?lang=English) at Gonderange (10 min from the Parc Hotel)  
