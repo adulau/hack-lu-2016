@@ -549,9 +549,41 @@ by Axelle Apvrille
 This workshop explains how to reverse engineer Android malware.
 After some brief explanation, attendees will be provided with a few recent samples such as Android/SpyBanker (May 2016), Android/Xiny (May 2016) or Riskware/InnerSnail (June 2016). They will learn how to reverse those, step by step.
 
-The course will be split in two parts. The first part covers the "basics" - which are sufficient to handle most samples. The second part dives into more advanced consideration such as dealing with obfuscated or packed samples.
+The course will be split in two parts:
 
-Attendees bring their own laptop + install VirtualBox, or docker.
+- The first part covers the "basics" - which are sufficient to handle most samples. Duration: 2 hours
+- The second part dives into more advanced consideration such as dealing with obfuscated or packed samples. Duration: 1 hour.
+
+You may attend either session, or both!
+
+Attendees bring their own laptop, pre-installed with either VirtualBox or docker.
+It greatly helps if they pre-install the lab before the workshop sessions:
+
+*REQUIREMENTS*:
+
+- 64 bit laptop
+- Internet connection
+- be at ease with Unix commands
+
+*DOCKER OPTION*:
+1. Install it
+2. Install ssh and/or vncviewer on your host
+3. Pull the lab's container: docker pull cryptax/android-re
+4. Test:
+   4.1 open a terminal
+   4.2 run: docker run -d --name workshop-test -p 5022:22 -p 5900:5900 cryptax/android-re
+   4.3 run: vncviewer 127.0.0.1::5900
+   with password: rootpass
+   4.4 in the docker container, run: emulator &
+   wait and ensure the Android emulator opens up correctly
+
+or *VIRTUAL BOX OPTION*:
+1. Install VirtualBox
+2. [Get the lab's appliance](https://mega.nz/#!uRoBXLQA!oukLE-JfJVp1qSLcS4bZrW03QnrxS1GNlKY-3cL1ltc) (5GB)
+3. Test:
+3.1. Connect to appliance with password: rootpass
+3.2. Open a terminal, run: emulator & wait and ensure the Android emulator opens up correctly
+
 
 
 Bio: Axelle Apvrille
