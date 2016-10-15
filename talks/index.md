@@ -196,6 +196,7 @@ We have open-sourced Mechanical Phish and we demonstrate how it can be used to a
 Specifically, Mechanical Phish uses a combination of symbolic execution (powered by angr, the binary analysis platform developed at UC Santa Barbara) and fuzzing to find bugs. From exploitable bugs, it automatically generates proofs of vulnerability to show code execution capabilities. In addition, our system patches existing binaries to make them resilient against known and unknown attacks with negligible performance impact. Finally, given the hardware-setup and the no-human-intervention policy of the Cyber Grand Challenge final event, we will touch on how we designed Mechanical Phish to be extremely realiable, efficient in resource usage, and a fault-tolerant distributed system.
 
 Resources:
+
 - https://github.com/mechaphish
 - https://github.com/shellphish
 - https://github.com/angr
@@ -566,23 +567,27 @@ It greatly helps if they pre-install the lab before the workshop sessions:
 - be at ease with Unix commands
 
 *DOCKER OPTION*:
+
 1. Install it
 2. Install ssh and/or vncviewer on your host
 3. Pull the lab's container: docker pull cryptax/android-re
 4. Test:
-   4.1 open a terminal
-   4.2 run: docker run -d --name workshop-test -p 5022:22 -p 5900:5900 cryptax/android-re
-   4.3 run: vncviewer 127.0.0.1::5900
+
+   1. open a terminal
+   2. run: docker run -d --name workshop-test -p 5022:22 -p 5900:5900 cryptax/android-re
+   3. run: vncviewer 127.0.0.1::5900
    with password: rootpass
-   4.4 in the docker container, run: emulator &
+   4. in the docker container, run: emulator &
    wait and ensure the Android emulator opens up correctly
 
 or *VIRTUAL BOX OPTION*:
+
 1. Install VirtualBox
 2. [Get the lab's appliance](https://mega.nz/#!uRoBXLQA!oukLE-JfJVp1qSLcS4bZrW03QnrxS1GNlKY-3cL1ltc) (5GB)
 3. Test:
-3.1. Connect to appliance with password: rootpass
-3.2. Open a terminal, run: emulator & wait and ensure the Android emulator opens up correctly
+
+  1. Connect to appliance with password: rootpass
+  2. Open a terminal, run: emulator & wait and ensure the Android emulator opens up correctly
 
 
 
@@ -644,6 +649,7 @@ Security Onion is a Linux distribution based on Ubuntu, designed for security an
 The goal of this introductory workshop is to familiarize the participants with Security Onion, guide them through the first steps of setting it up and start analyzing traffic. The first part of the workshop will be about installing and configuring Security Onion in a Virtual Machine. The next section will be a quick walk-through to the primary interfaces (Squert, Sguil, ELSA), the different NSM data types and pivoting between interfaces and data types. At the end of the workshop, we will take a look at a few exercises and real life case studies, replay traffic and perform analysis using the tools and data types available in Security Onion.
 
 Requirements for the workshop:
+
 - A laptop with at least 8 GB of RAM and more than 20 GB of free disk space (VT-x support must be enabled on the host system).
 - Application to run Virtual Images (type-2 hypervisor), such as VMWare Workstation (recommended), VMWare Player, VirtualBox or similar software.
 
@@ -723,6 +729,7 @@ With our favorite open source tools (plaso, volatility, rekall, cuckoo, …) we 
 Even more importantly we will not look into those 4 domains (network, disk, memory, malware) separately, as is done way too often, but will show you the immense value of putting all this information together allowing us to find the really juicy traces that were left on the system and would never be found.  
 
 We welcome the following audiences:
+
 1. An analyst looking to get more out of his evidence, with less time spent, allowing him to report business-impacting things.
 2. Curious people that want to get ideas, tools and pointers in order to learn on very well built forensic evidence.
 
