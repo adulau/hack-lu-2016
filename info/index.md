@@ -26,7 +26,7 @@ The conference will be held as every year in Luxembourg, a small country between
 
 As the rooms at Parc Hotel are all sold out, we suggest you to reserve your room at the following hotels:
 
-[Best Western Euro Hotel](http://www.eurohotel.lu/seiten/home.html?lang=English) at Gonderange (10 min from the Parc Hotel)  
+[Best Western Euro Hotel](http://www.eurohotel.lu/seiten/home.html?lang=English) at Gonderange (10 min from the Parc Hotel)
 
 We have preferential prices for the rooms: 88 Euro for a single room and 110 Euro for a double room, always with breakfast buffet included. Please make your reservation via email (info@eurohotel.lu) or phone and do not forget to mention “HACK.LU”. The complete form needs to be sent to the hotel.
 
@@ -35,23 +35,28 @@ To Parc Hotel in front of the hotel: Gonderange, Stohlbuer
 To Best Western Euro Hotel: Gonderange, Am Duerf or Gonderange, op der Breck
 
 [Park Inn by Radisson at Luxembourg-Gare](http://www.parkinn.com/hotel-luxembourg) (15 min from the Parc Hotel)
-We have preferential prices for the rooms: 189 Euro for a single room and 209 Euro for a double room, always with breakfast buffet included. Hotel can be reserved with the special rate (3 nights in a row) using the [following form](/images/1710 HACKLU 2016 reservation form.docx). The complete form needs to be sent to the hotel. 
- 
+We have preferential prices for the rooms: 189 Euro for a single room and 209 Euro for a double room, always with breakfast buffet included. Hotel can be reserved with the special rate (3 nights in a row) using the [following form](/images/1710 HACKLU 2016 reservation form.docx). The complete form needs to be sent to the hotel.
+
 Hurry-up as the rooms are limited in number!
 
 ## Public transit
 
 To go to the Parc Hotel from the Train station and back, have a look at the following timetables:
 
-* [Luxembourg, Gare Centrale to Dommeldange, Dauschbuer](/images/Luxembourg_gare_Dommeldange_daus.pdf)
-* [Dommeldange, Dauschbuer to Luxembourg, Gare Centrale](/images/Dommeldange_dausLuxembourg_gare_.pdf)
+* [Luxembourg, Gare Centrale to Dommeldange, Dauschbuer](/images/TrainStation-Conference.pdf)
+* [Dommeldange, Dauschbuer to Luxembourg, Gare Centrale](/images/Conference-TrainStation.pdf)
 
 
-To go to the Parc Hotel from the city center and back, have a look at the following timetables:
+To go to Eurohotel from the Train station and back, have a look at the following timetables:
 
-* [Centre, Badanstalt to Dommeldange, Dauschbuer](/images/Centre_badanstalDommeldange_daus.pdf)
-* [Dommeldange, Dauschbuer to Centre, Badanstalt](/images/Dommeldange_dausCentre_badanstal.pdf)
+* [Luxembourg, Gare Centrale to Gonderange, Am Duerf](/images/TrainStation-Eurohotel.pdf)
+* [Gonderange, Op der Breck to Luxembourg, Gare Centrale](/images/Eurohotel-TrainStation.pdf)
 
+
+To go to Eurohotel from the Parc Hotel and back, have a look at the following timetables:
+
+* [Dommeldange, Dauschbuer to Gonderange, Am Duerf](/images/TrainStation-Eurohotel.pdf)
+* [Gonderange, Op der Breck to Dommeldange, Dauschbuer](/images/Eurohotel-TrainStation.pdf)
 
 In general, it is highly recommended to use the app on your phone:
 
