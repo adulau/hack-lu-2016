@@ -38,8 +38,7 @@ Small adversaries are infinite -- the internet will always make more ransomware,
 Bio: Quinn Norton
 -----------------
 
-Quinn Norton, internet journalist and essayist, previously of Wired and The Message. I read too much history, use too much technology, obsess too much about security, know too much nerdy stuff, and am way too interested in the Mongolians.
-Nothing Ever Ends is a fast romp though the history of computer and internet culture, from over two thousand years ago to several years in the future. I’ll tell the stories of some of key players in the history of the net, including the 19th century robber barons in America, Han dynasty feng shui practitioners, God, the RIAA, 90s software pirates, a little-know greek goddess, the Seattle Police Department. Over enough time, all the consequences become unintended. But all those unintended consequences give us the internet we have now, and the future we will have.
+Quinn Norton is a writer who likes to hang out in the dead end alleys and rough neighborhood of the Internet, where bad things can happen to defenseless little packets -- they are also the places poetries and freedoms are born. She started studying hackers in 1995, after a wasted youth of Usenet and BBSing. She covers subjects from science and technology and law to social media and society, but she always comes back to hackers.
 
 Enhancing infrastructure cybersecurity in Europe
 ------------------------------------------------
@@ -689,8 +688,8 @@ Bio: Julien Bachmann
 After several years performing penetration tests, to break into information systems and assess the security of web and mobile applications, Julien joined the defence side for an MSSP. This background allows him to have a different view on how to protect enterprises and their critical assets. His current role could be could be resumed as a "full stack security architect: from assembly to Gartner reports and beyond”.
 Julien is also a guest lecturer at Swiss engineering schools on software exploitation techniques, as well as on incident response and malware analysis.
 
-HIDden secrets in Soft Token: A security study of HID Global Soft Token
------------------------------------------------------------------------
+Secrets in Soft Token: A security study of HID Global Soft Token
+----------------------------------------------------------------
 by Mouad Abouhali (@_m00dy_)
 
 Nowadays, many companies tend to deploy two factors authentication means to remotely access their infrastructure. Lately, the use of Soft Token applications instead of Hardware tokens seduces more and more, especially in regards to financial aspects (deployment and maintenance costs). In This current talk I will present a security study of the Android version of HID Soft Token application (HID Global). This study covers the mechanisms that are used by the application to protect the main functional processing as generating encryptions keys, OTP keys, etc. Besides, the study lays the groundwork for shedding light on two vulnerabilities that affect the application.
