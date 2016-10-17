@@ -38,8 +38,7 @@ Small adversaries are infinite -- the internet will always make more ransomware,
 Bio: Quinn Norton
 -----------------
 
-Quinn Norton, internet journalist and essayist, previously of Wired and The Message. I read too much history, use too much technology, obsess too much about security, know too much nerdy stuff, and am way too interested in the Mongolians.
-Nothing Ever Ends is a fast romp though the history of computer and internet culture, from over two thousand years ago to several years in the future. I’ll tell the stories of some of key players in the history of the net, including the 19th century robber barons in America, Han dynasty feng shui practitioners, God, the RIAA, 90s software pirates, a little-know greek goddess, the Seattle Police Department. Over enough time, all the consequences become unintended. But all those unintended consequences give us the internet we have now, and the future we will have.
+Quinn Norton is a writer who likes to hang out in the dead end alleys and rough neighborhood of the Internet, where bad things can happen to defenseless little packets -- they are also the places poetries and freedoms are born. She started studying hackers in 1995, after a wasted youth of Usenet and BBSing. She covers subjects from science and technology and law to social media and society, but she always comes back to hackers.
 
 Enhancing infrastructure cybersecurity in Europe
 ------------------------------------------------
