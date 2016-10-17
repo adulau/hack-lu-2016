@@ -25,7 +25,7 @@ Tuesday 18 October 2016 (Talks)
 | 12:00 | Lunch |
 | 13:00 | [Lightning talks](http://piratepad.net/GYg4ObNCsY)|
 | 13:30 | [Exploiting and attacking seismological networks… remotely](http://2016.hack.lu/talks/#exploiting-and-attacking-seismological-networks-remotely) ([Bertin Bervis Bonilla](http://2016.hack.lu/talks/#bio-bertin-bervis-bonilla), [James Jara](http://2016.hack.lu/talks/#bio-james-jara)) |
-| 14:15 | [HIDden secrets in Soft Token: A security study of HID Global Soft Token](http://2016.hack.lu/talks/#hidden-secrets-in-soft-token-a-security-study-of-hid-global-soft-token) ([Mouad Abouhali](http://2016.hack.lu/talks/#bio-mouad-abouhali)) <!--- static: day -->|
+| 14:15 | [Secrets in Soft Token: A security study of HID Global Soft Token](http://2016.hack.lu/talks/#hidden-secrets-in-soft-token-a-security-study-of-hid-global-soft-token) ([Mouad Abouhali](http://2016.hack.lu/talks/#bio-mouad-abouhali)) <!--- static: day -->|
 | 15:00 | [KillTheHashes 30 million Malware DNA profiling exercise](http://2016.hack.lu/talks/#killthehashes-30-million-malware-dna-profiling-exercise) ([Luciano Martins](http://2016.hack.lu/talks/#bio-luciano-martins), [Rodrigo Cetera](http://2016.hack.lu/talks/#bio-rodrigo-cetera), [Javier Bassi](http://2016.hack.lu/talks/#bio-javier-bassi))|
 | 15:45 | Refreshment break |
 | 16:00 | [Unveiling the attack chain of Russian-speaking cybercriminals](http://2016.hack.lu/talks/#unveiling-the-attack-chain-of-russian-speaking-cybercriminals) ([Wayne Huang](http://2016.hack.lu/talks/#bio-wayne-huang), [Sun Huang](http://2016.hack.lu/talks/#bio-sun-huang))|
