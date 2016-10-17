@@ -31,7 +31,7 @@ The CTF will take place during the hack.lu conference and will only last 24h hou
 
 # Registration
 
-Registration is not yet open but it will be open as soon as possible.
+[Registration is now open](https://cthulhu.fluxfingers.net/register)
 
 # What
 
