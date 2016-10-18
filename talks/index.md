@@ -760,3 +760,40 @@ Bio: Guillaume Arcas
 --------------------
 
 Guillaume Arcas has been working in security since 1995 initially as a Security and Network Analyst, primarily in the Internet and Banking industries. He has been member of the Honeynet Project’s French Chapter since 2010. He currently works for Sekoia CERT as an expert (according to the definition of "expert" by Harlan Carvey in his preface to his "Windows Forensic Analysis Toolkit 3d Edition"'s book) specializing in Digital Forensics and Incident Response. When not hunting for endangered species hanging on the Internet, Guillaume enjoys reading (thrillers, science fiction, history, and philosophy – in no particular order as long as it is printed) and walking his dog. He also nourishes a certain nostalgia for the esheep.exe software – hence his Twitter avatar (@y0m).
+
+A Hands On Introduction To Software Defined Radio FULL
+------------------------------------------------------
+by Didier Stevens
+
+Software Defined Radio is a fascinating playfield for hackers. But the learning
+curve is steep, and the SDR devices are expensive.
+This 2 hour hands on workshop introduces SDR via a gentle learning curve, and
+with cheap devices, so that everyone can participate.
+Operating SDRs via the open source software GNU Radio offers a wealth of
+possibilities, but it is hard for beginners to start with GNU Radio. You need a
+good grasp of the radio concepts to find your way through the software. SDR is
+quite different from analogue radio, and for most attendees, even analogue
+radio is quite mysterious. As an electronics engineer and former CB radio
+operator, I have a good background in RF technology. With GNU Radio and GNU
+Radio Companion, I will guide the attendees through a set of exercises
+(specially designed for this workshop) intended to familiarize them with radio
+technology, SDR, GNU Radio and GNU Radio Companion.
+Each attendee brings his own laptop. Didier brings 20 cheap SDR devices (USB
+digital TV receivers RTL2832U) and a couple of more performant devices, like
+the HackRF One, a WiSpy, a handheld digital spectrum analyzer, ...
+Attendees connect the RTL2832U to their laptop, we boot from a Live CD and
+we start doing simple exercises to understand SDR.
+Because of the limited number of devices (20 devices), the workshop is limited
+to 20 attendees. But attendees can bring their own RTL2832U
+
+Bio: Didier Stevens
+-------------------
+
+Didier Stevens (Microsoft MVP Consumer Security, SANS ISC Handler, Wireshark Certified Network Analyst, CISSP, GSSP-C, GCIA, GREM, MCSD .NET, MCSE/Security, MCITP Windows Server 2008, RHCT, CCNP Security, OSWP) is an IT Security Consultant (Contraste Europe) currently working at a large Belgian financial corporation. Didier started his own company in 2012 to provide IT security training services (http://DidierStevensLabs.com). You can find his open source security tools on his IT security related blog at http://blog.DidierStevens.com.
+
+How to play YoYo like a boss
+----------------------------
+by Paul Rascagnères, Stéphane Emma
+
+Do you like strings? or Rop chains? If the answer is yes (or even no in fact), join our workshop to know how to play YoYo like a boss!! The firt part of the workshop will present the basics: what is a YoYo, how to &quot;bind&quot; (frontal &amp; lateral)... At the end, the attendees will be able to realize easy tricks such as &quot;Matrix&quot;, &quot;Mach 5&quot;, &quot;Lindy Loop&quot; and more depending of the capabilities of the participants ;) PS: the attendees must buy their own YoYo during the workshop (12€).
+
