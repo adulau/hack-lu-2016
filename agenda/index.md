@@ -73,7 +73,7 @@ Thursday 20 October 2016 (Talks)
 | 14:15 | [When Practice Informs Technology](http://2016.hack.lu/talks/#when-practice-informs-technology) ([Mahsa Alimardani](http://2016.hack.lu/talks/#bio-mahsa-alimardani))|
 | 15:00 | [Bridging political gaps with code](http://2016.hack.lu/talks/#bridging-political-gaps-with-code) ([Okhin](http://2016.hack.lu/talks/#bio-okhin))|
 | 15:45 | Refreshment break |
-| 16:00 | [WiFi Exploitation: How passive interception leads to active exploitation](http://2016.hack.lu/talks/#) ([Solomon Sonya](http://2016.hack.lu/talks/#))|
+| 16:00 | [WiFi Exploitation: How passive interception leads to active exploitation](http://2016.hack.lu/talks/#wifi-exploitation-how-passive-interception-leads-to-active-exploitation) ([Solomon Sonya](http://2016.hack.lu/talks/#bio-solomon-sonya))|
 | 16:45 | [Fraud detection and forensics on telco networks](http://2016.hack.lu/talks/#fraud-detection-and-forensics-on-telco-networks) ([Vladimir Kropotov](http://2016.hack.lu/talks/#bio-vladimir-kropotov) and [Dmitry Kurbatov](http://2016.hack.lu/talks/#bio-dmitry-kurbatov))|
 | 17:30 | [The Legend of Windows: A Link to the Hash](http://2016.hack.lu/talks/#the-legend-of-windows-a-link-to-the-hash) ([m4xk](http://2016.hack.lu/talks/#bio-m4xk) and [sıx](http://2016.hack.lu/talks/#bio-sx))|
 | 18:15 | |
